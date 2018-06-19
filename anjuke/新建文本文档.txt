@@ -1,0 +1,36 @@
+y1<- anjukefile$ckjg1[anjukefile$qywz1=='DD']
+y2<- anjukefile$ckjg1[anjukefile$qywz1=='GAGA']
+y3<- anjukefile$ckjg1[anjukefile$qywz1=='GG']
+y4<- anjukefile$ckjg1[anjukefile$qywz1=='GJ']
+y5<- anjukefile$ckjg1[anjukefile$qywz1=='HF']
+y6<- anjukefile$ckjg1[anjukefile$qywz1=='HH']
+y7<- anjukefile$ckjg1[anjukefile$qywz1=='HGHJ']
+y8<- anjukefile$ckjg1[anjukefile$qywz1=='HJ']
+y9<- anjukefile$ckjg1[anjukefile$qywz1=='JX']
+y10<- anjukefile$ckjg1[anjukefile$qywz1=='JN']
+y11<- anjukefile$ckjg1[anjukefile$qywz1=='NL']
+y12<- anjukefile$ckjg1[anjukefile$qywz1=='NN']
+y13<- anjukefile$ckjg1[anjukefile$qywz1=='NX']
+y14<- anjukefile$ckjg1[anjukefile$qywz1=='QC']
+y15<- anjukefile$ckjg1[anjukefile$qywz1=='QSQS']
+y16<- anjukefile$ckjg1[anjukefile$qywz1=='QQ']
+y17<- anjukefile$ckjg1[anjukefile$qywz1=='SS']
+y18<- anjukefile$ckjg1[anjukefile$qywz1=='WW']
+y19<- anjukefile$ckjg1[anjukefile$qywz1=='XC']
+y20<- anjukefile$ckjg1[anjukefile$qywz1=='XHXH']
+y21<- anjukefile$ckjg1[anjukefile$qywz1=='XX']
+
+
+交房时间=2017
+x1 <-na.omit(x1)
+x2 <-na.omit(x2)
+x3 <-na.omit(x3)
+x4 <-na.omit(x4)
+x5 <-na.omit(x5)
+x6 <-na.omit(x6)
+x7 <-na.omit(x7)
+x8 <-na.omit(x8)
+x9<-na.omit(x9)
+vioplot(x1, x2, x3, x4, x5, x6,x7, x8, x9,
+        names=c("2011", "2013", "2014","2015", "2016", "2017","2018", "2019", "2020"), 
+        col="gold")

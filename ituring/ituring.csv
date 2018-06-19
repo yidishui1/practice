@@ -1,0 +1,1140 @@
+id,url1,name,recommend,reader,author,translator,label,date,year,price,pages,printing,state
+760,http://www.ituring.com.cn/book/2484,Java从小白到大牛精简版,14,321100,"""关东升(作者)",,Java 独立电子书 ,2017/8/30,2017,,,黑白,上市销售
+622,http://www.ituring.com.cn/book/1863,编程小白的第一本Python入门书,114,174200,"""侯爵(作者)",,python 独立电子书 ,2016/6/17,2016,,142,彩色,上市销售
+798,http://www.ituring.com.cn/book/2480,Java从小白到大牛,7,163800,"""关东升(作者)",,Java 独立电子书 ,2017/8/28,2017,,,黑白,上市销售
+803,http://www.ituring.com.cn/book/1861,Python编程：从入门到实践,92,133100,EricMatthes(作者),袁国忠(译者) ,python 程序设计 ,2016/7/19,2016,89,476,黑白,上市销售
+935,http://www.ituring.com.cn/book/2621,Kotlin从小白到大牛,3,128600,"""关东升(作者)",,android kotlin 独立电子书 ,2018/1/24,2018,,,黑白,上市销售
+169,http://www.ituring.com.cn/book/1421,Chrome扩展及应用开发（首发版）,212,127200,"""Sneezry(作者)",,扩展 独立电子书 chrome javacript ,2014/5/20,2014,,,,上市销售
+565,http://www.ituring.com.cn/book/1709,Python网络数据采集,49,109500,RyanMitchell(作者),陶俊杰  陈小莉(译者) ,python 数据挖掘 大数据 网络爬虫 数据采集 ,2016/3/21,2016,59,216,黑白,上市销售
+830,http://www.ituring.com.cn/book/1021,机器学习实战,124,108000,PeterHarrington(作者),李锐 李鹏  曲亚东  王斌(译者) ,人工智能 机器学习 数据挖掘 算法 manning ai-ebook ,2013/6/5,2013,69,332,黑白,上市销售
+541,http://www.ituring.com.cn/book/946,JavaScript高级程序设计（第3版）,188,107500,NicholasC.Zakas(作者),李松峰 曹力(译者) ,javascript 前端 ,2012/3/23,2012,99,748,,上市销售
+822,http://www.ituring.com.cn/book/1564,流畅的Python,96,106500,[巴西]LucianoRamalho(作者),安道  吴珂(译者) ,python ,2017/5/8,2017,139,600,单色,上市销售
+893,http://www.ituring.com.cn/book/1841,第一行代码——Android（第2版）,66,100600,郭霖(作者),,移动开发 android ,2016/11/29,2016,79,580,黑白,上市销售
+146,http://www.ituring.com.cn/book/1449,FlaskWeb开发：基于Python的Web应用开发实战,57,96500,MiguelGrinberg(作者),安道(译者) ,python web开发 Flask ,2014/12/10,2014,59,224,黑白,上市销售
+126,http://www.ituring.com.cn/book/1019,计算机科学的基础,175,94200,AlAho JeffUllman(作者),傅尔也(译者) ,计算机科学 独立电子书 ,2015/7/8,2015,,786,黑白,上市销售
+128,http://www.ituring.com.cn/book/1605,算法的乐趣,74,93800,王晓华(作者),,算法 ,2015/3/30,2015,79,420,黑白,上市销售
+714,http://www.ituring.com.cn/book/1102,SQL必知必会（第4版）,23,89600,BenForta(作者), 钟鸣  刘晓霞(译者) ,数据库 sql ,2013/5/6,2013,29,256,黑白,上市销售
+592,http://www.ituring.com.cn/book/844,HTTP权威指南,228,89000,DavidGourley BrianTotty MarjorieSayer SailuReddy AnshuAggarwal(作者), 陈涓  赵振平(译者) ,协议 计算机网络 HTTP o&#39;reilly ,2012/8/27,2012,109,720,黑白,上市销售
+119,http://www.ituring.com.cn/book/1229,图解HTTP,112,85600,上野宣(作者),于均良(译者) ,网络与通信 协议 计算机网络 HTTP ,2014/4/22,2014,49,308,双色,上市销售
+389,http://www.ituring.com.cn/book/1074,码农&#183;算法（第1期）,49,76200,图灵社区出品(作者),,程序员 码农 ,2012/7/5,2012,0,,,上市销售
+801,http://www.ituring.com.cn/book/1864,算法图解,41,75600,AdityaBhargava(作者),袁国忠(译者) ,人工智能 机器学习 算法 计算机科学 ,2017/3/13,2017,49,196,黑白,上市销售
+75,http://www.ituring.com.cn/book/1272,Three.js入门指南,67,74300,"""张雯莉(作者)",,javascript 独立电子书 webgl three.js ,2013/10/15,2013,,,,上市销售
+289,http://www.ituring.com.cn/book/1488,你不知道的JavaScript（上卷）,45,73000,KyleSimpson(作者),赵望野 梁杰(译者) ,javascript you-don&#39;t-know-js ,2015/4/14,2015,49,208,黑白,上市销售
+713,http://www.ituring.com.cn/book/1695,CSS揭秘,62,69600,LeaVerou(作者),CSS魔法(译者) ,javascript html5 css web开发 ,2016/4/26,2016,99,260,彩色,上市销售
+221,http://www.ituring.com.cn/book/1438,AngularJS权威教程,22,67400,AriLerner(作者),赵望野 徐飞 何鹏飞(译者) ,javacript angular ,2014/8/13,2014,99,476,,暂时缺货
+771,http://www.ituring.com.cn/book/1206,AngularJS入门教程,95,60900,,"""严清 ""李诗剑(译者)",入门教程 javascript-mvc 独立电子书 开源技术 angular ,2013/5/1,2013,,,,上市销售
+781,http://www.ituring.com.cn/book/1758,网络是怎样连接的,34,59000,户根勤(作者),周自恒(译者) ,网络与通信 tcp/ip 计算机网络 计算机工作基本原理 网络技术 ,2017/1/6,2017,49,360,双色,上市销售
+653,http://www.ituring.com.cn/book/1143,开源软件架构,113,57300,GregWilson AmyBrown(作者), 共译 详见贡献者名单(译者) ,软件架构 iTran乐译 开源 开放书 翻译计划 ,2013/1/9,2013,,,,上市销售
+652,http://www.ituring.com.cn/book/801,图灵的秘密：他的生平、思想及论文解读,48,56600,CharlesPetzold(作者),杨卫东  朱皓(译者) ,图灵 图灵机 charles-petzold 纪念图灵 ai-ebook ,2012/11/21,2012,69,360,,上市销售
+244,http://www.ituring.com.cn/book/1290,深入浅出Node.js,40,55800,朴灵(作者),,javascript node ,2013/11/25,2013,69,348,黑白,上市销售
+521,http://www.ituring.com.cn/book/1015,Unity3D游戏开发,14,54600,"""宣雨松(作者)",,游戏 unity ,2012/6/25,2012,59,344,,上市销售
+654,http://www.ituring.com.cn/book/967,Go语言编程,44,54500,"""许式伟(作者)",,并发编程 Go ,2012/8/24,2012,49,230,,上市销售
+423,http://www.ituring.com.cn/book/875,算法（第4版）,49,54400,RobertSedgewick KevinWayne(作者),谢路云(译者) ,算法 排序 ,2012/10/10,2012,99,648,,上市销售
+856,http://www.ituring.com.cn/book/1874,Angular权威教程,32,53300,AriLerner;FelipeCoury;NateMurray;CarlosTaborda(作者), NiceAngular社区(译者) ,web 前端 angular angular-2 ng-book ,2017/4/25,2017,109,512,黑白,上市销售
+776,http://www.ituring.com.cn/book/1666,你不知道的JavaScript（下卷）,50,53100,KyleSimpson(作者),单业(译者) ,you-don&#39;t-know-js ,2017/12/27,2017,79,264,单色,上市销售
+417,http://www.ituring.com.cn/book/1632,JavaScript设计模式与开发实践,134,52400,"""曾探(作者)",,javascript 设计模式 ,2015/5/15,2015,59,312,黑白,上市销售
+150,http://www.ituring.com.cn/book/1194,Web性能权威指南,113,52300,IlyaGrigorik(作者),李松峰(译者) ,o&#39;reilly 浏览器 ,2014/4/5,2014,69,336,黑白,上市销售
+571,http://www.ituring.com.cn/book/1044,挑战程序设计竞赛（第2版）,34,51600,秋叶拓哉 岩田阳一 北川宜稔(作者), 巫泽俊  庄俊元  李津羽(译者) ,程序设计 算法 acm ,2013/7/1,2013,79,424,,上市销售
+885,http://www.ituring.com.cn/book/1563,你不知道的JavaScript（中卷）,40,50800,KyleSimpson(作者),单业 姜南(译者) ,javascript you-don&#39;t-know-js ,2016/9/6,2016,79,376,黑白,上市销售
+632,http://www.ituring.com.cn/book/910,30天自制操作系统,106,50500,川合秀实(作者),周自恒  李黎明  曾祥江  张文旭(译者) ,操作系统 自制 ,2012/8/24,2012,99,705,,上市销售
+780,http://www.ituring.com.cn/book/1623,普林斯顿微积分读本（修订版）,34,50500,［美］阿德里安;班纳(作者), 杨爽  赵晓婷  高璞(译者) ,微积分 数学 ,2016/10/24,2016,99,668,黑白,上市销售
+687,http://www.ituring.com.cn/book/1698,Linux命令行与shell脚本编程大全（第3版）,19,50300,RichardBlum ChristineBresnahan(作者),门佳 武海峰(译者) ,操作系统 linux shell脚本编程 ,2016/8/8,2016,109,620,黑白,上市销售
+734,http://www.ituring.com.cn/book/1111,CSS设计指南（第3版）,68,50100,CharlesWyke-Smith(作者),李松峰(译者) ,css 响应式设计 ,2013/5/6,2013,59,300,黑白,暂时缺货
+79,http://www.ituring.com.cn/book/1353,父与子的编程之旅：与小卡特一起学Python,18,49600,WarrenSande CarterSande(作者), 苏金国 易郑超(译者) ,python 编程 儿童读物 ,2014/11/10,2014,69,452,黑白,上市销售
+967,http://www.ituring.com.cn/book/1927,Kafka技术内幕——图文详解Kafka源码设计与实现,16,49400,郑奇煌(作者),,kafka ,2017/11/9,2017,119,703,单色,上市销售
+43,http://www.ituring.com.cn/book/1473,第一行代码——Android,22,48700,郭霖(作者),,android ,2014/7/30,2014,79,553,黑白,上市销售
+753,http://www.ituring.com.cn/book/1205,Go入门指南——TheWaytoGo（中文版）,53,48400,IvoBalbaert(作者),陈佳桦(译者) ,Go 独立电子书 ,2013/5/1,2013,,,,上市销售
+645,http://www.ituring.com.cn/book/1239,程序员的数学3：线性代数,30,47300,堀玄 平冈和幸(作者), 卢晓南(译者) ,线性代数 数学 程序员的数学 ,2016/3/14,2016,79,384,黑白,上市销售
+703,http://www.ituring.com.cn/book/1556,HeadFirstJavaScript程序设计,20,46200,EricT.Freeman ElisabethRobson(作者),袁国忠(译者) ,javascript web开发 前端 ,2017/8/30,2017,129,702,单色,上市销售
+894,http://www.ituring.com.cn/book/1956,Vue.js小书,17,45300,"""刘传君(作者)",,独立电子书 vue.js ,2017/2/22,2017,,,,上市销售
+22,http://www.ituring.com.cn/book/1159,自制编程语言,58,45000,前桥和弥(作者), 刘卓徐谦吴雅明(译者) ,编程语言 自制 ,2013/11/20,2013,79,396,黑白,上市销售
+278,http://www.ituring.com.cn/book/1063,Android编程权威指南,89,44400,BrianHardy BillPhillips(作者), 王明发(译者) ,移动开发 android ,2014/3/31,2014,99,544,黑白,上市销售
+570,http://www.ituring.com.cn/book/1560,Python语言及其应用,70,44200,BillLubanovic(作者),梁杰  丁嘉瑞  禹常隆(译者) ,python ,2015/11/23,2015,79,404,黑白,上市销售
+730,http://www.ituring.com.cn/book/1308,自制编译器,37,43600,青木峰郎(作者), 严圣逸 绝云(译者) ,编译器 自制 底层 ,2016/6/7,2016,99,472,黑白,上市销售
+630,http://www.ituring.com.cn/book/1055,响应式Web设计：HTML5和CSS3实战,27,43400,BenFrain(作者),王永强(译者) ,web设计 html5 css 响应式设计 web编程 ,2012/12/3,2012,49,244,黑白,暂时缺货
+477,http://www.ituring.com.cn/book/1027,Java程序员修炼之道,48,43300,BenjaminJ.Evans MartijnVerburg(作者),吴海星(译者) ,Java jvm上的多语言编程 manning ,2013/7/18,2013,89,416,,上市销售
+532,http://www.ituring.com.cn/book/1753,Android编程权威指南（第2版）,34,43000,BillPhillips ChrisStewart BrianHardy KristinMarsicano(作者), 王明发(译者) ,程序设计 移动开发 android Android开发 安卓 ,2016/5/17,2016,109,568,黑白,上市销售
+44,http://www.ituring.com.cn/book/1349,Python计算机视觉编程,16,42700,JanErikSolem(作者),朱文涛  袁勇(译者) ,python 计算机视觉 ,2014/6/19,2014,69,284,黑白,上市销售
+718,http://www.ituring.com.cn/book/898,程序员的数学,33,42700,结城浩(作者),管杰(译者) ,编程 数学 程序员的数学 ,2012/11/8,2012,49,248,,上市销售
+473,http://www.ituring.com.cn/book/1004,嗨翻C语言,50,41600,DavidGriffiths DawnGriffiths(作者),程亦超(译者) ,程序设计 o&#39;reilly C语言 ,2013/9/18,2013,99,630,,上市销售
+61,http://www.ituring.com.cn/book/1192,机器学习系统设计,20,41400,WilliRichert LuisPedroCoelho(作者),刘峰(译者) ,python 机器学习 ai-ebook 每周特价 ,2014/6/13,2014,49,224,黑白,上市销售
+699,http://www.ituring.com.cn/book/1203,像计算机科学家一样思考（C++版),45,41200,AllenB.Downey(作者),臧秀涛 张峰 康育哲 张羊鸿 李俞宗 upo(译者) ,c++ ,2012/7/20,2012,0,,,上市销售
+826,http://www.ituring.com.cn/book/1791,HTTP小书,26,41200,"""刘传君(作者)",,HTTP 独立电子书 ,2016/1/7,2016,,,黑白,上市销售
+733,http://www.ituring.com.cn/book/1537,Java8实战,26,41100,Raoul-GabrielUrma MarioFusco AlanMycroft(作者),陆明刚 劳佳(译者) ,Java 函数式编程 lambdas ,2016/4/25,2016,79,368,黑白,上市销售
+820,http://www.ituring.com.cn/book/1907,算法新解,22,41100,"""刘新宇(作者)",,数据结构 算法 函数式编程 ,2016/12/20,2016,99,592,黑白,上市销售
+71,http://www.ituring.com.cn/book/1215,两周自制脚本语言,37,40800,千叶滋(作者), 陈筱烟(译者) ,编译原理 脚本 自制 脚本语言 ,2014/6/9,2014,59,300,黑白,上市销售
+366,http://www.ituring.com.cn/book/1525,Go并发编程实战,13,40800,郝林(作者),,Go ,2014/11/17,2014,89,572,,暂时缺货
+547,http://www.ituring.com.cn/book/1870,Git小书,20,40700,"""刘传君(作者)",,git 独立电子书 ,2016/6/23,2016,,,黑白,上市销售
+57,http://www.ituring.com.cn/book/1295,程序员健康指南,18,40000,JoeKutner(作者),陈少芸(译者) ,,2014/9/10,2014,39,178,黑白,暂时缺货
+442,http://www.ituring.com.cn/book/890,思考的乐趣：Matrix67数学笔记,41,40000,"""顾森(作者)",,科普 数学 纪念图灵 ,2012/6/29,2012,45,260,,上市销售
+137,http://www.ituring.com.cn/book/731,信息简史,58,39800,［美］詹姆斯?格雷克(作者),高博(译者) ,科技史 图灵新知 信息论 香农 计算机历史 ,2013/12/1,2013,69,476,黑白,上市销售
+440,http://www.ituring.com.cn/book/932,具体数学：计算机科学基础（第2版）,45,39500,RonaldL.Graham DonaldE.Knuth OrenPatashnik(作者), 张明尧  张凡(译者) ,离散数学 计算机科学 数学 具体数学 ,2013/4/1,2013,99,580,黑白,上市销售
+390,http://www.ituring.com.cn/book/829,七周七语言：理解多种编程范型,72,39400,BruceA.Tate(作者),戴玮  白明  巨成(译者) ,ruby Erlang Prolog Io Scala Clojure Haskell jolt大奖 七周 ,2012/5/2,2012,59,247,,暂时缺货
+122,http://www.ituring.com.cn/book/1305,Sketch中文手册,40,39000,BohemianCoding(作者),大胖 小冰(译者) ,ui 独立电子书 sketch 矢量图 ,2013/12/7,2013,,,,上市销售
+328,http://www.ituring.com.cn/book/1484,Python网络编程攻略,10,38600,Dr.M.O.FaruqueSarker(作者),安道(译者) ,python 网络编程 ,2014/11/17,2014,45,188,黑白,上市销售
+186,http://www.ituring.com.cn/book/1435,Linux就是这个范儿,60,38100,赵鑫磊 JieZhang（张洁）(作者),,linux ,2014/7/8,2014,95,752,黑白,上市销售
+458,http://www.ituring.com.cn/book/857,R语言实战,31,38100,RobertI.Kabacoff(作者),高涛 肖楠 陈钢(译者) ,数据挖掘 统计 R语言 manning ,2012/12/24,2012,79,408,黑白,暂时缺货
+665,http://www.ituring.com.cn/book/1460,垃圾回收的算法与实现,40,37800,中村成洋 相川光 竹内郁雄(作者), 丁灵(译者) ,垃圾回收 计算机算法 ,2016/8/8,2016,99,456,黑白,上市销售
+553,http://www.ituring.com.cn/book/1554,Java技术手册（第6版）,140,37300,BenjaminJEvans DavidFlanagan(作者),安道(译者) ,Java api ,2015/11/23,2015,79,,黑白,上市销售
+114,http://www.ituring.com.cn/book/1418,Bootstrap实战,17,37200,DavidCochran IanWhitley(作者),李松峰(译者) ,bootstrap ,2015/5/12,2015,49,240,黑白,暂时缺货
+463,http://www.ituring.com.cn/book/60,番茄工作法图解：简单易行的时间管理方法,24,37200,StaffanNoteberg(作者),大胖(译者) ,时间管理 番茄工作法 敏捷开发 ,2011/2/17,2011,29,148,,上市销售
+854,http://www.ituring.com.cn/book/1719,Python项目开发实战（第2版）,14,37200,BePROUD股份有限公司(作者), 支鹏浩(译者) ,python 实战 项目开发 项目 ,2016/12/5,2016,79,440,黑白,上市销售
+255,http://www.ituring.com.cn/book/1444,程序员必读之软件架构,28,37000,SimonBrown(作者),邓钢(译者) ,软件架构 架构师 ,2014/11/26,2014,49,228,黑白,上市销售
+68,http://www.ituring.com.cn/book/1098,计算的本质：深入剖析程序和计算机,89,36900,TomStuart(作者),张伟(译者) ,计算理论 编程 程序 代码 ,2014/11/10,2014,69,300,黑白,暂时缺货
+849,http://www.ituring.com.cn/book/2118,Python基础教程（第3版）,24,36800,MagnusLieHetland(作者),袁国忠(译者) ,python ,2018/2/5,2018,99,458,单色,上市销售
+102,http://www.ituring.com.cn/book/1485,Node与Express开发,27,36700,EthanBrown(作者),吴海星 苏文(译者) ,开发 node express ,2015/1/23,2015,69,274,黑白,上市销售
+593,http://www.ituring.com.cn/book/894,推荐系统实践,30,36700,项亮 陈义 王益(作者),,人工智能 推荐系统 ,2012/6/11,2012,49,216,,上市销售
+879,http://www.ituring.com.cn/book/1894,Python机器学习经典实例,18,36600,PrateekJoshi(作者),陶俊杰  陈小莉(译者) ,python 机器学习 ,2017/8/17,2017,59,244,单色,上市销售
+383,http://www.ituring.com.cn/book/1298,Unity游戏设计与实现：南梦宫一线程序员的开发实例,13,36200,加藤政樹(作者),罗水东(译者) ,c# 游戏 unity 南梦宫 ,2015/2/13,2015,79,384,黑白,暂时缺货
+556,http://www.ituring.com.cn/book/1131,Android软件安全与逆向分析,15,36200,丰生强(作者),,android 破解 加密 解密 逆向分析 系统安全 ,2013/2/22,2013,69,407,黑白,上市销售
+453,http://www.ituring.com.cn/book/1581,GitHub入门与实践,27,36000,大塚弘记(作者), 支鹏浩刘斌(译者) ,github git 版本管理 ,2015/7/14,2015,39,280,黑白,上市销售
+680,http://www.ituring.com.cn/book/39,黑客与画家：硅谷创业之父PaulGraham文集,88,36000,PaulGraham(作者),阮一峰(译者) ,计算机 it人文 黑客 文集 创业 o&#39;reilly 纪念图灵 ,2011/4/13,2011,49,264,黑白,上市销售
+966,http://www.ituring.com.cn/book/1770,程序员的英语,26,36000,朴栽浒 李海永(作者), 颜廷连(译者) ,计算机英语 程序员 韩语 ,2018/3/19,2018,49,274,双色,上市销售
+741,http://www.ituring.com.cn/book/1976,Android编程权威指南（第3版）,25,35900,BillPhillips ChrisStewart KristinMarsicano(作者), 王明发(译者) ,Java 移动开发 android Android开发 安卓应用 安卓开发 ,2017/7/7,2017,129,,黑白,上市销售
+883,http://www.ituring.com.cn/book/1946,前端架构设计,22,35600,[美]MicahGodbolt(作者), 潘泰燊  张鹏  许金泉(译者) ,html web开发 设计 前端 ,2017/4/21,2017,49,149,单色,上市销售
+896,http://www.ituring.com.cn/book/1745,Python数据挖掘入门与实践,14,35600,RobertLayton(作者), 杜春晓(译者) ,python 数据挖掘 大数据 数据科学 ,2016/7/5,2016,59,252,黑白,上市销售
+296,http://www.ituring.com.cn/book/1396,Python基础教程（第2版?修订版）,16,35500,MagnusLieHetland(作者), 司维  曾军崴  谭颖华(译者) ,python ,2014/5/12,2014,79,448,黑白,上市销售
+298,http://www.ituring.com.cn/book/42,JavaScriptDOM编程艺术(第2版),31,35300,JeffreySambells JeremyKeith(作者), 杨涛  杨晓云  王建桥 魏忠(译者) ,javascript 前端 ,2011/4/7,2011,49,300,,上市销售
+554,http://www.ituring.com.cn/book/1039,世界是数字的（谷歌常务董事长施密特和盖茨及扎克伯格导师刘易斯重磅推荐）,58,35100,BrianKernighan(作者),李松峰 徐建刚(译者) ,计算机概论 计算机文化 kernighan 数字时代 纪念图灵 ,2013/7/5,2013,49,272,黑白,暂时缺货
+515,http://www.ituring.com.cn/book/993,计算机程序设计艺术卷1：基本算法（第3版）,64,34800,DonaldE.Knuth(作者), 李伯民  范明  蒋爱军(译者) ,算法 计算机科学 计算数学 ,2015/12/30,2015,198,,黑白,上市销售
+658,http://www.ituring.com.cn/book/758,持续交付：发布可靠软件的系统方法,10,34700,JezHumble DavidFarley(作者),乔梁(译者) ,软件开发 持续交付 敏捷开发 jolt大奖 ,2011/10/12,2011,89,384,,上市销售
+83,http://www.ituring.com.cn/book/1142,CPU自制入门,33,34600,水头一寿 米泽辽 藤田裕士(作者),赵谦(译者) ,diy 自制 cpu 硬件 ,2013/12/17,2013,99,464,黑白,暂时缺货
+42,http://www.ituring.com.cn/book/1061,Node.js实战,26,34400,MikeCantelon TJHolowaychuk(作者),吴海星(译者) ,node ,2014/5/5,2014,69,356,,上市销售
+32,http://www.ituring.com.cn/book/1170,LinuxShell脚本攻略（第2版）,14,34100,ShantanuTushar SarathLakshman(作者),门佳(译者) ,linux shell ,2013/12/25,2013,59,312,黑白,暂时缺货
+435,http://www.ituring.com.cn/book/1548,精通Linux（第2版）,37,33900,BrianWard(作者),姜南  袁志鹏(译者) ,linux ,2015/7/14,2015,59,304,黑白,上市销售
+136,http://www.ituring.com.cn/book/1391,如何变得有思想：阮一峰博客文集I,24,33800,"""阮一峰(作者)",,it人文 读书笔记 阮一峰 独立电子书 ,2014/5/22,2014,,,,上市销售
+183,http://www.ituring.com.cn/book/1440,数据结构与算法JavaScript描述,25,33100,MichaelMcMillan(作者),王群锋 杜欢(译者) ,数据结构 算法 ,2014/8/18,2014,49,216,黑白,上市销售
+343,http://www.ituring.com.cn/book/1139,计算机是怎样跑起来的,55,32900,矢泽久雄(作者),胡屹(译者) ,计算机工作基本原理 ,2015/5/27,2015,39,272,双色,上市销售
+226,http://www.ituring.com.cn/book/1140,JavaScript编程全解,21,32600,井上诚一郎 土江拓郎 滨边将太(作者), 陈筱烟(译者) ,javascript 前端 ,2013/11/25,2013,79,420,黑白,暂时缺货
+769,http://www.ituring.com.cn/book/1236,ScrivenerforMac使用指南,9,32500,"""龚诚(作者)",,写作 mac 独立电子书 scrivener 写作软件 ,2013/8/1,2013,,,,上市销售
+54,http://www.ituring.com.cn/book/1364,iOS开发指南：从零基础到AppStore上架（第2版）,10,32400,"""关东升(作者)",,ios ios开发 ios-7 ,2014/3/18,2014,99,712,黑白,暂时缺货
+264,http://www.ituring.com.cn/book/1321,战胜过敏性鼻炎,14,32200,"""王永强(作者)",,健康 独立电子书 ,2013/12/26,2013,,,,上市销售
+27,http://www.ituring.com.cn/book/1196,Python编程入门（第3版）,11,32100,TobyDonaldson(作者),袁国忠(译者) ,python ,2013/11/14,2013,39,212,黑白,上市销售
+457,http://www.ituring.com.cn/book/1160,iOS开发指南：从零基础到AppStore上架,11,32100,"""关东升(作者)",,,2013/7/25,2013,99,704,黑白,暂时缺货
+125,http://www.ituring.com.cn/book/1169,jQuery基础教程（第4版）（国内第一本jQuery权威教程 一版再版 累计重印14次 不可错过的实战类经典技术著作！）,16,32000,JonathanChaffer KarlSwedberg(作者),李松峰(译者) ,jQuery javascript框架 ,2013/10/12,2013,59,336,黑白,上市销售
+277,http://www.ituring.com.cn/book/1237,Ruby基础教程（第4版）,36,31900,高桥征义 后藤裕藏 松本行弘(作者),何文斯(译者) ,ruby ruby2.0 ,2014/9/28,2014,79,352,黑白,上市销售
+94,http://www.ituring.com.cn/book/1430,啊哈！算法,19,31800,啊哈磊(作者),,数据结构 算法 软件开发 ,2014/6/6,2014,45,256,黑白,上市销售
+709,http://www.ituring.com.cn/book/1734,HTTPS权威指南：在服务器和Web应用上部署SSL/TLS和PKI,25,31800,IvanRisti?(作者),杨洋 李振宇 蒋锷 周辉 陈传文(译者) ,程序设计 安全 web安全 开发 前端 系统安全 系统管理 ,2016/9/27,2016,99,436,黑白,上市销售
+31,http://www.ituring.com.cn/book/1010,程序员面试金典（第5版）,24,31600,GayleLaakmannMcDowell(作者), 李琳骁 漆犇(译者) ,面试 ,2013/11/6,2013,59,372,黑白,上市销售
+531,http://www.ituring.com.cn/book/1183,NumPy攻略：Python科学计算与数据分析,11,31400,IvanIdris(作者),张崇明(译者) ,python 数据分析 NumPy ,2013/9/16,2013,49,188,黑白,暂时缺货
+538,http://www.ituring.com.cn/book/1036,征服C指针,25,31400,前橋和弥(作者),吴雅明(译者) ,C语言 c指针 ,2013/2/26,2013,49,264,黑白,上市销售
+459,http://www.ituring.com.cn/book/1053,iOS6编程实战（国内首本iOS6深度揭秘iOS6高级特性与开发技巧）,17,31300,RobNapier MugunthKumar(作者),陈晓亮 武海峰 邓强 周庆成(译者) ,移动开发 iphone开发 ipad开发 ios 苹果开发 ios6 ,2013/4/1,2013,99,452,黑白,暂时缺货
+756,http://www.ituring.com.cn/book/1018,图解TCP/IP（第5版）,28,31200,竹下隆史 村山公保 荒井透 苅田幸雄(作者), 乌尼日其其格(译者) ,tcp/ip 计算机网络 ,2013/6/19,2013,69,328,,上市销售
+549,http://www.ituring.com.cn/book/1124,Bootstrap用户手册：设计响应式网站（GitHub有史以来最受欢迎的开源项目 中文版使用指南面面俱到 一册在手 别无所求！）,23,31100,JakeSpurlock(作者),李松峰(译者) ,web开发 设计 o&#39;reilly bootstrap ,2013/9/9,2013,35,140,黑白,暂时缺货
+638,http://www.ituring.com.cn/book/1898,深入React技术栈,17,30800,陈屹(作者),,前端 React ,2016/11/14,2016,79,364,黑白,上市销售
+693,http://www.ituring.com.cn/book/874,设计师要懂心理学,17,30600,SusanWeinschenk(作者),徐佳  马迪  余盈亿(译者) ,心理学 设计 设计心理学 认知 ,2013/5/6,2013,49,236,彩色,上市销售
+920,http://www.ituring.com.cn/book/1846,ReactNative开发指南,9,30500,[美]BonnieEisenman(作者), 黄为伟(译者) ,javascript 移动开发 软件开发 前端 react-native ,2016/7/1,2016,59,221,单色,上市销售
+707,http://www.ituring.com.cn/book/1880,SQL基础教程（第2版）,13,30300,MICK(作者), 孙淼 罗勇(译者) ,数据库 sql ,2017/5/25,2017,79,336,双色,上市销售
+735,http://www.ituring.com.cn/book/1119,机器学习,28,30200,PeterFlach(作者),段菲(译者) ,人工智能 机器学习 数据挖掘 ,2015/12/14,2015,79,312,黑白,上市销售
+563,http://www.ituring.com.cn/book/167,深入Linux内核架构,19,30100,WolfgangMauerer(作者),郭旭(译者) ,linux unix 内核 ,2010/6/13,2010,149,1056,,上市销售
+190,http://www.ituring.com.cn/book/1172,MongoDB权威指南（第2版）,21,29700,KristinaChodorow(作者),邓强  王明辉(译者) ,nosql 云计算 mongodb ,2013/12/31,2013,79,412,黑白,上市销售
+387,http://www.ituring.com.cn/book/1185,通信的数学理论,65,29600,ClaudeShannon(作者),贾洪峰(译者) ,通信 数学 信息论 香农 独立电子书 ,2013/4/19,2013,,59,,上市销售
+916,http://www.ituring.com.cn/book/1883,线性代数应该这样学（第3版）,22,29600,SheldonAxler(作者), 杜现昆  刘大艳  马晶(译者) ,线性代数 数学 ,2016/10/9,2016,49,268,黑白,上市销售
+327,http://www.ituring.com.cn/book/1371,图解机器学习,18,29500,杉山将(作者), 许永伟(译者) ,机器学习 图解 ,2015/4/13,2015,49,240,黑白,上市销售
+909,http://www.ituring.com.cn/book/1884,SpringBoot实战,12,29500,CraigWalls(作者),丁雪丰(译者) ,Java spring ,2016/9/5,2016,59,224,黑白,上市销售
+246,http://www.ituring.com.cn/book/1226,Python数据分析基础教程：NumPy学习指南（第2版）,11,29400,IvanIdris(作者), 张驭宇(译者) ,python NumPy ,2013/12/30,2013,49,244,黑白,上市销售
+930,http://www.ituring.com.cn/book/1584,图解性能优化,28,29400,小田圭二 榑松谷仁 平山毅 冈田宪昌(作者), 苏祎(译者) ,性能 图解 性能调优 性能分析 性能测试 ,2017/2/13,2017,59,312,双色,上市销售
+961,http://www.ituring.com.cn/book/1814,程序员的算法趣题,18,29400,增井敏克(作者),绝云(译者) ,算法 ruby 谜题 挑战 ,2017/7/25,2017,55,312,双色,上市销售
+752,http://www.ituring.com.cn/book/1573,微服务设计,12,29300,SamNewman(作者),崔力强 张骏(译者) ,软件架构 系统设计 系统管理 微服务 ,2016/4/25,2016,69,228,黑白,上市销售
+759,http://www.ituring.com.cn/book/1819,Python数据处理,9,29300,【美】JacquelineKazil KatharineJarmu(作者),张亮  吕家明(译者) ,python 数据分析 数据处理 网络爬虫 数据采集 ,2017/7/3,2017,99,396,黑白,上市销售
+474,http://www.ituring.com.cn/book/849,统计思维：程序员数学之概率统计,25,29200,AllenB.Downey(作者), 张建锋 陈钢(译者) ,统计 数据分析 统计思维 ,2013/5/31,2013,29,160,黑白,暂时缺货
+602,http://www.ituring.com.cn/book/1445,Java性能权威指南,21,29200,ScottOaks(作者),柳飞 陆明刚 臧秀涛(译者) ,Java 性能优化 ,2016/3/18,2016,79,328,黑白,上市销售
+86,http://www.ituring.com.cn/book/908,每个人都会死 但我总以为自己不会,23,29000,ThomasCathcart DanielKlein(作者), 胡燕娟(译者) ,科普 哲学 ,2013/10/14,2013,32,206,,上市销售
+253,http://www.ituring.com.cn/book/1193,数据科学实战,14,29000,RachelSchutt CathyO;Neil(作者),冯凌秉 王群锋(译者) ,机器学习 大数据 数据分析 可视化 数据科学 ,2015/3/5,2015,79,316,黑白,上市销售
+379,http://www.ituring.com.cn/book/1526,精通iOS开发（第7版）,4,28800,DavidMark JackNutting KimTopley FredrikOlsson JeffLaMarche(作者),周庆成 邓强 武海峰  蒋振华(译者) ,程序设计 移动开发 ios swift ,2015/9/28,2015,118,584,黑白,上市销售
+514,http://www.ituring.com.cn/book/1073,代码的未来,55,28800,松本行弘(作者),周自恒(译者) ,ruby 松本行弘 云计算 编程语言 大数据 ,2013/5/28,2013,79,368,黑白,暂时缺货
+748,http://www.ituring.com.cn/book/1552,Python网络编程（第3版）,21,28800,[美]BrandonRhodes [美]JohnGoerzen(作者), 诸豪文(译者) ,python 网络编程 web应用开发 ,2016/9/18,2016,79,345,单色,上市销售
+868,http://www.ituring.com.cn/book/1811,图解设计模式,20,28600,结城浩(作者),杨文轩(译者) ,Java 设计模式 图解 gof ,2016/12/5,2016,79,396,黑白,上市销售
+844,http://www.ituring.com.cn/book/1792,2016图灵图书目录,10,28500,,,图书目录 图灵图书 2016 ,2016/1/5,2016,,64,彩色,上市销售
+580,http://www.ituring.com.cn/book/171,Linux程序设计(第4版),15,28400,NeilMatthew RichardStones(作者), 宋健建  陈健(译者) ,linux unix ,2010/5/20,2010,99,660,,上市销售
+367,http://www.ituring.com.cn/book/1442,JavaScript快速全栈开发,15,27900,AzatMardanov(作者),,javascript 全栈开发 ,2014/12/19,2014,49,204,黑白,上市销售
+341,http://www.ituring.com.cn/book/1613,学习JavaScript数据结构与算法,27,27800,LoianeGroner(作者),孙晓博 邓钢 吴双 陈迪 袁源(译者) ,javascript 数据结构 算法 ,2015/10/9,2015,39,172,黑白,暂时缺货
+29,http://www.ituring.com.cn/book/1200,深入理解C#（第3版）,31,27700,JonSkeet(作者),姚琪琳(译者) ,c# ,2014/3/26,2014,99,512,黑白,上市销售
+138,http://www.ituring.com.cn/book/852,Java性能优化权威指南,36,27700,CharlieHunt BinuJohn(作者),柳飞 陆明刚(译者) ,Java 性能 ,2014/3/5,2014,109,540,黑白,上市销售
+371,http://www.ituring.com.cn/book/1049,Node.js开发指南,24,27700,"""BYVoid(作者)",,web设计 node web编程 ,2012/7/6,2012,45,200,,暂时缺货
+422,http://www.ituring.com.cn/book/955,学习正则表达式,29,27700,MichaelFitzgerald(作者),王热宇(译者) ,正则表达式 o&#39;reilly ,2013/4/7,2013,35,140,黑白,暂时缺货
+481,http://www.ituring.com.cn/book/885,黑客攻防技术宝典：Web实战篇（第2版）,15,27700,MarcusPinto DafyddStuttard(作者),石华耀 傅志红(译者) ,安全 web安全 黑客攻防 ,2012/6/28,2012,99,625,,上市销售
+918,http://www.ituring.com.cn/book/1732,挑战编程技能：57道程序员功力测试题,16,27700,[美]BrianP.Hogan(作者),臧秀涛(译者) ,程序设计 编程技能 ,2017/2/14,2017,39,136,黑白,上市销售
+548,http://www.ituring.com.cn/book/1687,数据科学入门,19,27500,JoelGrus(作者), 高蓉  韩波(译者) ,数据挖掘 大数据 数据分析 数据科学 ,2016/3/21,2016,69,304,黑白,上市销售
+394,http://www.ituring.com.cn/book/131,普林斯顿微积分读本,27,27400,AdrianBanner(作者), 杨爽  赵晓婷  高璞(译者) ,微积分 数学 ,2010/8/16,2010,95,672,,暂时缺货
+50,http://www.ituring.com.cn/book/1133,互联网思维的企业（入选中国好书榜）,7,27300,DaveGray ThomasVanderWal(作者), 张玳(译者) ,社会化媒体 营销 管理 o&#39;reilly 企业模式 ,2014/5/5,2014,59,300,黑白,上市销售
+561,http://www.ituring.com.cn/book/764,LinuxShell脚本攻略,11,27300,SarathLakshman(作者),门佳(译者) ,操作系统 linux 程序设计 shell ,2011/11/28,2011,49,272,,暂时缺货
+829,http://www.ituring.com.cn/book/1675,数学女孩,25,27300,结城浩(作者), 朱一飞(译者) ,数学 数学女孩 ,2015/12/10,2015,42,336,黑白,上市销售
+307,http://www.ituring.com.cn/book/1136,程序是怎样跑起来的,35,27200,矢泽久雄(作者), 李逢俊(译者) ,计算机工作基本原理 组成原理 ,2015/4/13,2015,39,272,双色,上市销售
+517,http://www.ituring.com.cn/book/1046,精通C#（第6版）,16,27200,AndrewTroelsen(作者), 姚琪琳、朱晔、肖逵、张大磊、王少葵、范睿等译(译者) ,程序设计 .net c# ,2013/7/11,2013,159,1228,黑白,上市销售
+737,http://www.ituring.com.cn/book/1126,数据可视化实战：使用D3设计交互式图表,16,27200,ScottMurray(作者),李松峰(译者) ,数据可视化 数据分析 o&#39;reilly ,2013/6/24,2013,59,248,黑白,暂时缺货
+705,http://www.ituring.com.cn/book/1817,响应式Web设计：HTML5和CSS3实战（第2版）,12,27100,[英]BenFrain(作者), 奇舞团(译者) ,web设计 html5 css web开发 ,2017/1/18,2017,59,232,黑白,上市销售
+38,http://www.ituring.com.cn/book/931,HTML5权威指南（迄今为止最全面详实的网页设计参考书）,21,27000,AdamFreeman(作者), 谢廷晟 牛化成  刘美英(译者) ,javascript html5 css 设计 ,2013/12/24,2013,129,848,黑白,上市销售
+208,http://www.ituring.com.cn/book/1147,深入理解C指针（C/C++程序员进阶必备 透彻理解指针与内存管理）,19,27000,RichardReese(作者),陈晓亮(译者) ,指针 C语言 ,2014/2/26,2014,45,204,黑白,上市销售
+257,http://www.ituring.com.cn/book/1115,只是为了好玩：Linux之父林纳斯自传,41,27000,LinusTorvalds DavidDiamond(作者),陈少芸(译者) ,linux 故事 linus 人物传记 ,2014/8/12,2014,49,280,黑白,上市销售
+635,http://www.ituring.com.cn/book/103,与孩子一起学编程,12,27000,WarrenSande CarterSande(作者), 苏金国(译者) ,python 编程 jolt大奖 儿童教育 儿童读物 ,2010/11/10,2010,65,408,,暂时缺货
+161,http://www.ituring.com.cn/book/1649,七周七并发模型,27,26900,PaulButcher(作者), 黄炎(译者) ,程序设计 并发 并发模型 ,2015/3/24,2015,49,244,黑白,上市销售
+59,http://www.ituring.com.cn/book/1199,HTML5与CSS3基础教程（第8版）【Web开发百万级畅销图书 零起点轻松掌握HTML5和CSS3】,20,26800,ElizabethCastro BruceHyslop(作者), 望以文(译者) ,css html 响应式web设计 ,2014/5/5,2014,69,436,黑白,上市销售
+290,http://www.ituring.com.cn/book/1580,一步步搭建物联网系统,31,26700,"""PhodalHuang(作者)",,独立电子书 物联网 ,2014/11/25,2014,,,,上市销售
+904,http://www.ituring.com.cn/book/1379,黑客攻防技术宝典：浏览器实战篇,15,26600,WadeAlcorn ChristianFrichot MicheleOrr;(作者), 奇舞团(译者) ,网络安全 黑客攻防 浏览器 ,2016/10/10,2016,109,496,黑白,上市销售
+925,http://www.ituring.com.cn/book/2070,Web开发权威指南,18,26500,ChrisAquino ToddGandee(作者), 奇舞团(译者) ,,2017/9/18,2017,99,414,单色,上市销售
+322,http://www.ituring.com.cn/book/1558,Spark快速大数据分析,22,26300,HoldenKarau AndyKonwinski PatrickWendell MateiZaharia(作者),王道远(译者) ,大数据 数据分析 Spark ,2015/10/9,2015,59,232,黑白,上市销售
+418,http://www.ituring.com.cn/book/1707,AppInventor编程实例及指南,11,26200,DavidWolber HalAbelson EllenSpertus LizLooney(作者),金从军(译者) ,独立电子书 app-inventor ,2015/7/16,2015,,372,彩色,上市销售
+375,http://www.ituring.com.cn/book/727,松本行弘的程序世界,23,26100,松本行弘(作者), 柳德燕  李黎明  夏倩  张文旭(译者) ,程序设计 ruby 编程思想 ,2011/9/1,2011,75,404,,暂时缺货
+436,http://www.ituring.com.cn/book/1448,Java8函数式编程,14,26000,RichardWarburton(作者),王群锋(译者) ,Java 函数式编程 lambda 函数式 ,2015/3/30,2015,39,148,黑白,上市销售
+936,http://www.ituring.com.cn/book/1810,明解C语言：中级篇,22,26000,[日]柴田望洋(作者), 丁灵(译者) ,C语言 ,2017/9/14,2017,89,334,双色,上市销售
+113,http://www.ituring.com.cn/book/1361,HTML5秘籍（第2版）,14,25900,MatthewMacDonald(作者),李松峰 朱巍 刘帅(译者) ,javascript html5 css html ,2015/3/30,2015,89,420,黑白,上市销售
+437,http://www.ituring.com.cn/book/1180,Cocos2d-x高级开发教程：制作自己的《捕鱼达人》,12,25800,"""火烈鸟网络科技(作者)",,cocos2d-x 游戏 捕鱼达人 ,2013/6/5,2013,59,316,黑白,上市销售
+187,http://www.ituring.com.cn/book/1113,算法帝国（入选中国好书榜）,23,25700,克里斯托弗?斯坦纳(作者),李筱莹(译者) ,算法 故事 ,2014/5/19,2014,49,232,黑白,上市销售
+305,http://www.ituring.com.cn/book/1489,全端Web开发：使用JavaScript与Java,19,25600,CasimirSaternos(作者),王群锋 杜欢(译者) ,javascript Java web开发 ,2015/7/28,2015,59,220,黑白,上市销售
+588,http://www.ituring.com.cn/book/1671,明解C语言（第3版）：入门篇,23,25500,[日]柴田望洋(作者),管杰 罗勇 杜晓静(译者) ,C语言 ,2015/11/23,2015,79,416,双色,上市销售
+591,http://www.ituring.com.cn/book/855,Node即学即用,15,25500,TomHughes-Croucher MikeWilson(作者),郑达韡(译者) ,o&#39;reilly node ,2013/1/20,2013,39,164,,暂时缺货
+816,http://www.ituring.com.cn/book/1925,单核工作法图解：事多到事少 拖延变高效,14,25400,StaffanNoteberg(作者),大胖(译者) ,效率 时间管理 敏捷开发 ,2017/10/17,2017,39,171,四色,上市销售
+293,http://www.ituring.com.cn/book/1249,Web应用安全权威指南,23,25300,徳丸浩(作者),赵文 刘斌(译者) ,web安全 ,2014/9/28,2014,79,400,黑白,上市销售
+199,http://www.ituring.com.cn/book/1629,iOS开发指南：从零基础到AppStore上架（第3版）,7,25200,"""关东升(作者)",,objective-c ios swift ,2015/4/23,2015,99,672,黑白,上市销售
+310,http://www.ituring.com.cn/book/1263,C++程序设计：现代方法,17,25200,F.AlexanderAllain(作者),赵守彬 陈园军 马兴旺(译者) ,c++ 编程 ,2014/8/5,2014,69,380,黑白,暂时缺货
+434,http://www.ituring.com.cn/book/1680,码农&#183;HelloNode（第18期）,10,25200,图灵社区出品(作者),,程序员 node 码农 全栈开发 ,2015/5/14,2015,,142,,上市销售
+404,http://www.ituring.com.cn/book/822,PHP与MySQL动态网站开发（第4版）,12,25100,LarryUllman(作者), 杜凯  陈宗斌(译者) ,php mysql ,2012/12/31,2012,99,632,黑白,暂时缺货
+489,http://www.ituring.com.cn/book/1491,函数式编程思维,24,25100,NealFord(作者),郭晓刚(译者) ,编程 函数式编程 函数式 ,2015/9/2,2015,49,164,黑白,上市销售
+819,http://www.ituring.com.cn/book/1186,MySQL与MariaDB学习指南,19,25000,RussellJ.T.Dyer(作者), 袁志鹏(译者) ,数据库 mysql dba mariadb database ,2016/10/21,2016,79,308,黑白,上市销售
+92,http://www.ituring.com.cn/book/1266,逆向工程核心原理,19,24700,李承远(作者),武传海(译者) ,逆向工程 韩语 ,2014/5/4,2014,109,700,黑白,上市销售
+432,http://www.ituring.com.cn/book/1254,程序员的数学2：概率统计,26,24600,平岡和幸 堀玄(作者), 陈筱烟(译者) ,概率统计 数学 程序员的数学 ,2015/9/15,2015,79,424,黑白,上市销售
+568,http://www.ituring.com.cn/book/1210,理解WebKit和Chromium,41,24600,"""朱永盛(作者)",,独立电子书 webkit chromium ,2013/5/24,2013,,,,上市销售
+884,http://www.ituring.com.cn/book/1875,RubyonRails教程（原书第4版）,18,24600,MichaelHartl(作者),安道(译者) ,ruby 网站开发 独立电子书 ruby-on-rails ,2016/7/7,2016,,528,,上市销售
+223,http://www.ituring.com.cn/book/893,黑客与设计：剖析设计之美的秘密,9,24500,DavidKadavy(作者), 苑永凯(译者) ,用户体验 设计 ,2014/4/3,2014,79,232,彩色,暂时缺货
+268,http://www.ituring.com.cn/book/1486,PythonWeb开发：测试驱动方法,19,24500,HarryJ.W.Percival(作者),安道(译者) ,python web开发 测试驱动开发 ,2015/10/10,2015,99,444,黑白,暂时缺货
+646,http://www.ituring.com.cn/book/1242,码农&#183;从Python开始（第7期）,10,24500,图灵社区出品(作者),,程序员 码农 ,2013/8/20,2013,0,116,,上市销售
+51,http://www.ituring.com.cn/book/1233,代码之髓：编程语言核心概念,18,24400,西尾泰和(作者), 曾一鸣(译者) ,程序设计 ,2014/7/28,2014,45,264,黑白,暂时缺货
+179,http://www.ituring.com.cn/book/1633,JavaScript基础教程（第9版）,12,24400,DoriSmith TomNegrino(作者), 陈建瓯 柳靖(译者) ,javascript 程序设计 前端 基础教程 ,2015/3/17,2015,69,404,黑白,上市销售
+237,http://www.ituring.com.cn/book/1292,代码本色：用编程模拟自然系统,30,24300,DanielShiffman(作者),周晗彬(译者) ,编程 processing 模拟自然 ai-ebook ,2014/11/28,2014,99,424,黑白,上市销售
+370,http://www.ituring.com.cn/book/1106,码农&#183;JavaScript（第2期）,15,24300,图灵社区出品(作者),,程序员 码农 ,2012/10/22,2012,0,121,,上市销售
+420,http://www.ituring.com.cn/book/1378,Android安全攻防权威指南,10,24300,JoshuaJ.Drake等(作者), 诸葛建伟  肖梓航  杨坤(译者) ,android 黑客 安全 Android开发 ,2015/4/1,2015,89,394,黑白,上市销售
+116,http://www.ituring.com.cn/book/1148,系统化思维导论（25周年纪念版）,12,24200,杰拉尔德?温伯格(作者),王海鹏(译者) ,思维 温伯格 ,2015/1/22,2015,59,260,黑白,上市销售
+497,http://www.ituring.com.cn/book/1225,翻译漫谈——怎样翻译更地道,31,24200,余晟(作者),,独立电子书 翻译技巧 ,2013/7/12,2013,,,,上市销售
+696,http://www.ituring.com.cn/book/1078,推荐系统,12,24200,DietmarJannach MarkusZanker AlexanderFelfernig GerhardFriedrich(作者), 蒋凡(译者) ,机器学习 数据挖掘 算法 推荐系统 ,2013/6/25,2013,59,244,,上市销售
+217,http://www.ituring.com.cn/book/1651,码农&#183;如何成为一位数据科学家（第17期）,5,24100,图灵社区出品(作者),,机器学习 程序员 大数据 码农 Spark 数据科学家 ,2015/3/12,2015,0,175,,上市销售
+648,http://www.ituring.com.cn/book/1129,Objective-C基础教程（第2版）,11,24100,ScottKnaster WaqarMalik MarkDalrymple(作者),周庆成(译者) ,objective-c ios编程 ,2013/5/13,2013,59,264,黑白,上市销售
+857,http://www.ituring.com.cn/book/1740,我的第一本编程书,12,24000,平山尚(作者), 张沈宇(译者) ,编程 ,2016/7/11,2016,79,488,黑白,上市销售
+484,http://www.ituring.com.cn/book/813,cocos2d-x手机游戏开发：跨iOS、Android和沃Phone平台,6,23900,,,android iphone开发 cocos2d-x 游戏 图灵原创 ,2011/12/14,2011,39,204,,暂时缺货
+717,http://www.ituring.com.cn/book/1108,C#图解教程（第4版）,14,23400,DanielM.Solis(作者),姚琪琳  苏林  朱晔等(译者) ,.net c# ,2013/6/24,2013,89,540,黑白,上市销售
+952,http://www.ituring.com.cn/book/2049,陶哲轩教你学数学,10,23200,陶哲轩(TerenceTao)(作者), 李馨(译者) ,数学 图灵新知 数学之美 数学思维 陶哲轩 ,2017/11/17,2017,39,171,单色,上市销售
+165,http://www.ituring.com.cn/book/1395,影响地图：让你的软件产生真正的影响力,16,23100,GojkoAdzic(作者),何勉 李忠利(译者) ,产品经理 持续交付 软件交付 独立电子书 影响地图 ,2014/8/18,2014,,72,双色,上市销售
+259,http://www.ituring.com.cn/book/1416,Vim实用技巧,13,23000,DrewNeil(作者), 杨源  车文隆(译者) ,shell 正则表达式 vim 命令行 进程 ,2014/4/1,2014,59,310,黑白,上市销售
+927,http://www.ituring.com.cn/book/1912,Python数据分析基础,5,23000,ClintonW.Brownley(作者),陈光欣(译者) ,python 数据分析 ,2017/8/8,2017,69,,黑白,上市销售
+248,http://www.ituring.com.cn/book/208,C语言程序设计：现代方法（第2版）,30,22900,K.N.King(作者), 吕秀锋  黄倩(译者) ,C语言 c标准 ,2010/3/11,2010,79,616,,上市销售
+855,http://www.ituring.com.cn/book/1926,计算进化史：改变数学的命运,18,22900,吉尔;多维克(作者),劳佳(译者) ,图灵新知 哲学 计算机科学方向 科学史 数学科普 ,2017/3/7,2017,39,216,黑白,上市销售
+207,http://www.ituring.com.cn/book/981,社会工程：安全体系中的人性漏洞,17,22800,ChristopherHadnagy(作者),陆道宏 杜娟 邱璟(译者) ,信息安全 社会工程 ,2013/11/25,2013,59,292,黑白,上市销售
+123,http://www.ituring.com.cn/book/862,Mahout实战,12,22700,SeanOwen RobinAnil TedDunning EllenFriedman(作者), 王斌 韩冀中  万吉(译者) ,机器学习 Mahout 智能应用 ,2014/3/10,2014,79,340,黑白,上市销售
+666,http://www.ituring.com.cn/book/1739,挑战程序设计竞赛2：算法和数据结构,15,22600,渡部有隆(作者), 支鹏浩(译者) ,数据结构 算法 acm 程序设计竞赛 挑战 在线评测 ,2016/9/28,2016,79,415,黑白,上市销售
+698,http://www.ituring.com.cn/book/906,神奇的数学：牛津教授给青少年的讲座,15,22500,MarcusDuSautoy(作者),程玺(译者) ,科普 数学 ,2013/1/4,2013,29,280,黑白,上市销售
+784,http://www.ituring.com.cn/book/1715,精通Python设计模式,9,22500,SakisKasampalis(作者), 夏永锋(译者) ,python 程序设计 软件开发 模式 ,2016/7/19,2016,45,160,黑白,上市销售
+800,http://www.ituring.com.cn/book/1935,码农&#183;经典C++（第26期）,13,22500,,,c++ 测试驱动开发 指针 码农 优质API 打印机 特征选择方法 ,2016/12/21,2016,0,191,,上市销售
+573,http://www.ituring.com.cn/book/949,精益创业实战（第2版）（精益系列丛书 《精益创业》作者埃里克&#183;莱斯主编）,15,22400,AshMaurya(作者), 张玳(译者) ,创业 jolt大奖 o&#39;reilly 精益系列丛书 ,2013/1/31,2013,39,224,,上市销售
+843,http://www.ituring.com.cn/book/1699,R语言实战（第2版）,11,22400,RobertI.Kabacoff(作者), 王小宁  刘撷芯  黄俊文(译者) ,数据挖掘 大数据 统计 R语言 manning ,2016/5/20,2016,99,556,黑白,上市销售
+957,http://www.ituring.com.cn/book/1966,Python编程导论（第2版）,13,22400,JohnV.Guttag(作者),陈光欣(译者) ,python 编程入门 ,2018/3/23,2018,69,328,单色,上市销售
+106,http://www.ituring.com.cn/book/1166,图解网络硬件,29,22200,三轮贤一(作者),盛荣(译者) ,网络硬件 ,2014/7/21,2014,69,376,黑白,上市销售
+147,http://www.ituring.com.cn/book/1626,码农&#183;进击的Java（第16期）,11,22200,图灵社区出品(作者),,Java 程序员 码农 ,2015/1/21,2015,0,183,,上市销售
+882,http://www.ituring.com.cn/book/926,计算机程序设计艺术卷3：排序与查找（第2版）,25,22200,DonaldE.Knuth(作者),贾洪峰(译者) ,计算机科学 排序 查找 ,2017/3/1,2017,198,,黑白,上市销售
+85,http://www.ituring.com.cn/book/1333,RubyonRails教程（原书第2版）,21,22100,MichaelHartl(作者),安道(译者) ,ruby 网站开发 独立电子书 ruby-on-rails ,2014/1/9,2014,,,,上市销售
+188,http://www.ituring.com.cn/book/1080,你的灯亮着吗？发现问题的真正所在,22,22100,DonaldC.Gause GeraldM.Weinberg(作者),俞月圆(译者) ,思考方法 解题 温伯格 ,2013/11/29,2013,25,168,,上市销售
+460,http://www.ituring.com.cn/book/913,大数据：互联网大规模数据挖掘与分布式处理,22,22000,AnandRajaraman JeffreyD.Ullman(作者), 王斌(译者) ,数据挖掘 大数据 海量数据 ,2012/9/24,2012,59,272,黑白,暂时缺货
+572,http://www.ituring.com.cn/book/1116,码农&#183;开源意味着什么？（第3期）,8,21900,图灵社区出品(作者),,程序员 码农 ,2012/12/14,2012,0,122,彩色,上市销售
+347,http://www.ituring.com.cn/book/1517,Swift开发指南（修订版）,5,21800,"""关东升 赵志荣(作者)",,swift ,2014/11/17,2014,69,320,黑白,上市销售
+48,http://www.ituring.com.cn/book/1176,TCPSockets编程,11,21700,JesseStorimer(作者),门佳(译者) ,ruby tcp/ip ,2013/10/29,2013,29,164,黑白,暂时缺货
+141,http://www.ituring.com.cn/book/1545,凤凰项目：一个IT运维的传奇故事,16,21700,GeneKim KevinBehr GeorgeSpafford(作者), 成小留(译者) ,it人文 小说 it运维 ,2015/10/20,2015,49,376,黑白,上市销售
+441,http://www.ituring.com.cn/book/819,鲜活的数据：数据可视化指南,10,21600,NathanYau(作者), 向怡宁(译者) ,数据可视化 代码外的 ,2012/10/8,2012,69,296,,上市销售
+742,http://www.ituring.com.cn/book/1763,用数据讲故事,12,21600,【美】ColeNussbaumerKnaflic(作者), 陆昊  吴梦颖(译者) ,数据可视化 数据分析 ,2017/8/30,2017,59,,彩色,上市销售
+944,http://www.ituring.com.cn/book/1813,SQL进阶教程,17,21600,MICK(作者), 吴炎昌(译者) ,数据库 oracle sql sql-server mysql PostgreSQL ,2017/11/22,2017,79,301,双色,上市销售
+292,http://www.ituring.com.cn/book/1347,Web渗透测试：使用KaliLinux,5,21500,JosephMuniz AamirLakhani(作者), 涵父(译者) ,安全 渗透测试 kali-linux ,2014/8/11,2014,59,276,黑白,上市销售
+772,http://www.ituring.com.cn/book/1582,自制搜索引擎,20,21500,山田浩之 末永匡(作者),胡屹(译者) ,seo 自制 搜索引擎 搜索引擎优化 ,2015/12/14,2015,39,208,黑白,上市销售
+56,http://www.ituring.com.cn/book/1277,码农&#183;码农的面试（第8期）,7,21400,图灵社区出品(作者),,程序员 码农 杂志 ,2013/10/24,2013,0,132,,上市销售
+363,http://www.ituring.com.cn/book/1705,码农&#183;Android好手（第19期）,8,21400,图灵社区出品(作者),,移动开发 android 程序员 码农 安卓 ,2015/7/22,2015,0,240,,上市销售
+365,http://www.ituring.com.cn/book/1665,极客爱情,31,21400,"""胡仲华(作者)",,极客 爱情 独立电子书 ,2015/4/9,2015,,,黑白,上市销售
+171,http://www.ituring.com.cn/book/1165,Unix内核源码剖析,11,21300,青柳隆宏(作者), 殷中翔  黄炎  周金杰(译者) ,unix 内核 源代码 ,2014/3/3,2014,79,368,黑白,暂时缺货
+479,http://www.ituring.com.cn/book/966,腾云：云计算和大数据时代网络技术揭秘（国内第一本云计算网络书）,9,21200,徐立冰(作者),,云计算 虚拟化 云计算网络 openflow fcoe fabricpath 拨云见日 ,2013/3/25,2013,59,312,黑白,上市销售
+773,http://www.ituring.com.cn/book/1736,人人都是数据分析师：Tableau应用实战,6,21200,刘红阁 王淑娟 温融冰(作者),,数据可视化 数据分析 Tableau ,2015/11/9,2015,69,420,黑白,上市销售
+586,http://www.ituring.com.cn/book/1132,JavaScript异步编程：设计快速响应的网络应用,38,21000,TrevorBurnham(作者),许青松(译者) ,javascript 异步编程 ,2013/5/23,2013,32,140,黑白,暂时缺货
+626,http://www.ituring.com.cn/book/1081,理解Unix进程,13,21000,JesseStorimer(作者),门佳(译者) ,unix ruby unix编程 进程 ,2013/5/16,2013,29,128,黑白,暂时缺货
+181,http://www.ituring.com.cn/book/1534,我们要自学,13,20900,张玳(作者),,it人文 成功 学习方法 修炼 思想 励志 ,2014/12/9,2014,39,156,双色,暂时缺货
+516,http://www.ituring.com.cn/book/1757,写给大家看的设计书（第4版）（平装）,17,20900,RobinWilliams(作者), 苏金国 李盼(译者) ,艺术 平面设计 设计 写给大家看的设计书 ,2015/11/26,2015,59,252,彩色,上市销售
+566,http://www.ituring.com.cn/book/1068,黑客攻防技术宝典：iOS实战篇,3,20900,CharlieMiller DionysusBlazakis DinoDaiZovi StefanEsser VincenzoIozzo Ralf-PhilippWeinmann(作者),傅尔也(译者) ,ios 安全 ,2013/9/2,2013,69,320,黑白,暂时缺货
+348,http://www.ituring.com.cn/book/1125,精益数据分析（精益系列丛书 《精益创业》作者埃里克&#183;莱斯主编）,3,20800,AlistairCroll BenjaminYoskovitz(作者),韩知白 王鹤达(译者) ,敏捷开发 数据分析 精益 精益系列丛书 ,2014/12/19,2014,79,356,黑白,上市销售
+612,http://www.ituring.com.cn/book/1040,Go语言&#183;云动力,18,20800,"""樊虹剑（fango）(作者)",,Go ,2012/6/11,2012,39,308,,暂时缺货
+107,http://www.ituring.com.cn/book/1436,码农&#183;JavaScript第二季（第12期）,11,20700,图灵社区出品(作者),,程序员 码农 电子杂志 ,2014/5/28,2014,,161,,上市销售
+152,http://www.ituring.com.cn/book/1432,一个寻找作者的读者——阮一峰博客文集Ⅱ,22,20700,"""阮一峰(作者)",,it人文 读书笔记 阮一峰 独立电子书 ,2014/5/22,2014,,,黑白,上市销售
+330,http://www.ituring.com.cn/book/1304,HTML5与CSS3实例教程（第2版）,8,20700,BrianP.Hogan(作者),卢俊祥(译者) ,html5 css ,2014/8/4,2014,49,248,黑白,上市销售
+569,http://www.ituring.com.cn/book/1762,ReactNative入门与实战,10,20700,"""王利华 魏晓军 冯诚祺(作者)",,javascript 移动开发 前端 react-native ,2015/12/29,2015,79,400,黑白,上市销售
+157,http://www.ituring.com.cn/book/1500,有趣的二进制：软件安全与逆向分析,14,20600,爱甲健二(作者),周自恒(译者) ,逆向工程 逆向分析 软件安全 底层 反汇编 ,2015/10/19,2015,39,272,黑白,上市销售
+786,http://www.ituring.com.cn/book/1857,码农&#183;美妙的数学（第23期）,19,20600,图灵社区出品(作者),,程序员 数学 码农 万能证明 质数 塞德里克&#183;维拉尼 ,2016/5/27,2016,0,135,,上市销售
+352,http://www.ituring.com.cn/book/828,Erlang/OTP并发编程实战,18,20500,MartinLogan EricMerritt RichardCarlsson(作者),连城(译者) ,Erlang 并发 manning ,2012/7/17,2012,79,356,,暂时缺货
+501,http://www.ituring.com.cn/book/924,精彩绝伦的CSS,16,20500,EricA.Meyer(作者),姬光(译者) ,css ,2012/6/27,2012,49,216,,暂时缺货
+587,http://www.ituring.com.cn/book/1661,JavaScript网页动画设计,16,20400,JulianShapiro(作者), 王沛(译者) ,javascript web开发 前端 动画 ,2015/12/28,2015,39,124,黑白,暂时缺货
+148,http://www.ituring.com.cn/book/1501,码农增刊&#183;Linus与Linux,13,20200,图灵社区出品(作者),,程序员 码农 linus ,2014/8/25,2014,0,127,,上市销售
+200,http://www.ituring.com.cn/book/1373,游戏开发的数学和物理,11,20200,加藤洁(作者),徐谦(译者) ,数学 游戏 物理 ,2014/12/2,2014,59,264,黑白,上市销售
+218,http://www.ituring.com.cn/book/1667,码农增刊&#183;游戏人生,9,20200,图灵社区出品(作者),,程序员 游戏设计 码农 游戏机 ,2015/4/23,2015,0,176,,上市销售
+719,http://www.ituring.com.cn/book/957,简约之美：软件设计之道,24,20100,MaxKanat-Alexander(作者), 余晟(译者) ,程序员 软件设计 敏捷开发 o&#39;reilly 职业素养 ,2013/1/4,2013,25,128,黑白,暂时缺货
+870,http://www.ituring.com.cn/book/1931,用数学的语言看世界,16,20100,大栗博司(作者), 尤斌斌(译者) ,数学 图灵新知 数学科普 ,2017/4/21,2017,46,252,黑白,上市销售
+118,http://www.ituring.com.cn/book/1097,Linux系统架构和应用技巧,8,20000,中井悦司(作者), 李睿  马世龙(译者) ,linux Linux架构 Linux应用技巧 ,2014/10/30,2014,59,312,黑白,暂时缺货
+452,http://www.ituring.com.cn/book/1270,SoftwareDesign中文版03,11,20000,[日]技术评论社(作者),,software-design ,2015/5/12,2015,20,176,黑白,上市销售
+62,http://www.ituring.com.cn/book/1319,码农&#183;你的Mac（第9期）,7,19900,图灵社区出品(作者),,程序员 码农 mac ,2013/12/20,2013,,188,,上市销售
+449,http://www.ituring.com.cn/book/387,MySQL必知必会,7,19900,BenForta(作者), 刘晓霞  钟鸣(译者) ,数据库 mysql ,2008/12/10,2008,39,256,,上市销售
+512,http://www.ituring.com.cn/book/1052,迷茫的旅行商：一个无处不在的计算机算法问题,11,19900,WilliamJ.Cook(作者),隋春宁(译者) ,算法 图论 数学 ,2013/9/16,2013,49,256,彩色,暂时缺货
+167,http://www.ituring.com.cn/book/1261,软件定义网络：SDN与OpenFlow解析（迄今为止SDN领域最权威最重要的著作）,13,19800,KenGray ThomasD.Nadeau(作者),毕军 单业 张绍宇  姚广(译者) ,o&#39;reilly openflow sdn ,2014/4/5,2014,79,360,黑白,上市销售
+351,http://www.ituring.com.cn/book/929,MongoDB实战,8,19800,KyleBanker(作者),丁雪丰(译者) ,nosql 云计算 mongodb manning ,2012/10/29,2012,59,260,黑白,暂时缺货
+368,http://www.ituring.com.cn/book/1508,码农&#183;WebApp不权威指南（第14期）,5,19800,图灵社区出品(作者),,程序员 码农 web-app ,2014/9/18,2014,0,168,,上市销售
+472,http://www.ituring.com.cn/book/1593,Scala程序设计（第2版）,18,19800,DeanWampler AlexPayne(作者), 王渊  陈明(译者) ,程序设计 Scala ,2016/3/31,2016,109,500,黑白,上市销售
+115,http://www.ituring.com.cn/book/1483,C#并发编程经典实例,7,19700,StephenCleary(作者),相银初(译者) ,c# 并发编程 ,2014/12/11,2014,49,188,黑白,上市销售
+845,http://www.ituring.com.cn/book/1086,SQL基础教程,12,19700,MICK(作者), 孙淼 罗勇(译者) ,数据库 sql sql-server mysql oracle-pl/sql PostgreSQL ,2013/7/30,2013,69,308,,暂时缺货
+866,http://www.ituring.com.cn/book/1812,图解Java多线程设计模式,15,19700,结城浩(作者), 侯振龙 杨文轩(译者) ,Java 设计模式 并发 图解 多线程 ,2017/8/22,2017,89,528,黑白,上市销售
+143,http://www.ituring.com.cn/book/1569,Spark机器学习,22,19600,NickPentreath(作者),蔡立宇 黄章帅 周济民(译者) ,机器学习 大数据 数据分析 Spark ai-ebook ,2015/8/31,2015,59,240,黑白,上市销售
+445,http://www.ituring.com.cn/book/743,你就是极客！软件开发人员生存指南,15,19600,MichaelLopp(作者),何逸勤  卞斌(译者) ,极客 程序员 职业发展 o&#39;reilly ,2011/12/21,2011,49,260,,暂时缺货
+676,http://www.ituring.com.cn/book/888,计算机体系结构：量化研究方法（第5版）,25,19600,JohnL.Hennessy DavidA.Patterson(作者),贾洪峰(译者) ,计算机体系结构 ,2013/1/4,2013,109,664,黑白,上市销售
+279,http://www.ituring.com.cn/book/1301,Android编程实战,5,19500,ErikHellman(作者),丁志虎 武海峰(译者) ,android ,2014/6/30,2014,69,364,黑白,上市销售
+609,http://www.ituring.com.cn/book/958,移动应用UI设计模式,8,19500,TheresaNeil(作者), 郭偎  武艳芳  王军锋(译者) ,移动开发 设计 o&#39;reilly ,2012/12/5,2012,49,224,黑白,暂时缺货
+623,http://www.ituring.com.cn/book/1535,算法基础（第5版）,12,19500,RichardNeapolitan(作者),贾洪峰(译者) ,程序设计 算法 ,2016/3/16,2016,99,408,黑白,上市销售
+595,http://www.ituring.com.cn/book/83,数据挖掘导论（完整版）,13,19400,Pang-NingTan MichaelSteinbach VipinKumar(作者), 范明  范宏建(译者) ,数据挖掘 数据库 ,2010/12/9,2010,69,480,,上市销售
+764,http://www.ituring.com.cn/book/2401,精通Django,13,19400,NigelGeorge(作者),安道(译者) ,django 独立电子书 每周特价 ,2017/5/17,2017,,439,四色,上市销售
+231,http://www.ituring.com.cn/book/1712,Unity5.x游戏开发指南,8,19300,"""罗盛誉(作者)",,游戏 手机游戏开发 unity unity3d 移动游戏开发 ,2015/10/12,2015,69,356,,上市销售
+284,http://www.ituring.com.cn/book/1542,SVG精髓（第2版）,22,19300,J.DavidEisenberg AmeliaBellamy-Royds(作者),易郑超 何鹏飞(译者) ,css xml svg ,2015/10/10,2015,69,296,黑白,上市销售
+704,http://www.ituring.com.cn/book/1778,Python科学计算基础教程,10,19300,HemantKumarMehta(作者), 陶俊杰陈小莉(译者) ,python 数据科学 ,2016/11/3,2016,49,216,黑白,上市销售
+815,http://www.ituring.com.cn/book/1915,Python机器学习基础教程,7,19300,AndreasC.Mu?ller SarahGuido(作者),张亮（hysic）(译者) ,python 机器学习 ,2018/2/7,2018,79,285,单色,上市销售
+172,http://www.ituring.com.cn/book/1168,Hadoop基础教程,10,19000,GarryTurkington(作者), 张治起(译者) ,云计算 hadoop ,2013/12/31,2013,65,324,黑白,上市销售
+304,http://www.ituring.com.cn/book/1565,Swift与Cocoa框架开发,15,19000,ParisButtfield-Addison JonathonManning TimNugent(作者),贾洪峰(译者) ,cocoa swift ,2015/6/8,2015,89,404,黑白,上市销售
+326,http://www.ituring.com.cn/book/1447,Elasticsearch服务器开发（第2版）,12,18900,Rafa?Ku? MarekRogoziński(作者),蔡建斌(译者) ,Lucene Solr 全文检索 ElasticSearch ,2015/3/3,2015,59,292,,上市销售
+818,http://www.ituring.com.cn/book/1843,Ruby基础教程（第5版）,17,18900,高桥征义 后藤裕蔵 松本行弘(作者),何文斯(译者) ,ruby 编程语言 ,2017/8/25,2017,79,338,单色,上市销售
+421,http://www.ituring.com.cn/book/934,程序员面试逻辑题解析,13,18800,DennisE.Shasha(作者), 费若愚  朱学武(译者) ,求职招聘 面试 求职 解题 逻辑题解析 纪念图灵 ,2012/12/27,2012,35,216,黑白,上市销售
+838,http://www.ituring.com.cn/book/1867,Java编程思维,8,18800,AllenB.Downey ChrisMayfield(作者),袁国忠(译者) ,Java ,2016/12/15,2016,59,220,黑白,上市销售
+921,http://www.ituring.com.cn/book/1752,Python数据分析实战,6,18800,FabioNelli(作者), 杜春晓(译者) ,python 大数据 数据分析 ,2016/8/30,2016,59,300,黑白,上市销售
+33,http://www.ituring.com.cn/book/1372,码农&#183;设计者的品味（第11期）,5,18700,图灵社区出品(作者),,程序员 码农 电子杂志 ,2014/3/26,2014,0,140,,上市销售
+325,http://www.ituring.com.cn/book/1536,MEANWeb开发,20,18700,AmosQ.Haviv(作者),陈世帝(译者) ,mongodb web开发 node express angular mean ,2015/7/28,2015,59,256,黑白,上市销售
+533,http://www.ituring.com.cn/book/1012,视不可当：信息图与可视化传播,13,18700,MarkSmiciklas(作者),项婷婷 张东宁(译者) ,信息图 可视化 ,2013/5/27,2013,39,225,彩色,暂时缺货
+306,http://www.ituring.com.cn/book/1279,算法问题实战策略,14,18600,具宗万(作者),崔盛一(译者) ,算法 程序设计竞赛 韩语 ,2015/3/3,2015,119,748,黑白,上市销售
+534,http://www.ituring.com.cn/book/1110,数学思维导论：学会像数学家一样思考,13,18600,［美］基思;德夫林(作者), 林恩(译者) ,数学 数学思维 ,2015/12/30,2015,32,152,黑白,上市销售
+382,http://www.ituring.com.cn/book/1701,科学的极致：漫谈人工智能,15,18500,"""集智俱乐部(作者)",,人工智能 机器学习 复杂性 深度学习 自然语言处理 复杂系统 ai-ebook ,2015/7/21,2015,49,324,,上市销售
+465,http://www.ituring.com.cn/book/17,MySQL技术内幕（第4版）,14,18500,PaulDuBois(作者), 杨涛  王建桥  杨晓云(译者) ,数据库 mysql ,2011/7/1,2011,139,908,,暂时缺货
+785,http://www.ituring.com.cn/book/1714,精通JavaScript（第2版）,13,18500,JohnResig JohnPaxton RussFerguson(作者),门佳  李伟(译者) ,javascript ,2016/9/18,2016,45,180,黑白,上市销售
+839,http://www.ituring.com.cn/book/1887,React快速上手开发,4,18500,StoyanStefanov(作者),张俊达(译者) ,前端 React ,2017/3/7,2017,49,208,黑白,上市销售
+236,http://www.ituring.com.cn/book/1494,图解服务器端网络架构,24,18400,宫田宽士(作者), 曾薇薇译  乌尼日其其格审(译者) ,负载均衡 服务器 网络架构 ,2015/4/21,2015,79,376,黑白,上市销售
+302,http://www.ituring.com.cn/book/1636,JavaScriptWeb应用开发,10,18400,NicolasBevacqua(作者),安道(译者) ,javascript web开发 ,2015/10/10,2015,59,288,黑白,上市销售
+419,http://www.ituring.com.cn/book/1604,LearninghardC#学习笔记,10,18400,李志 李志(作者),,c# ,2015/2/13,2015,49,304,黑白,上市销售
+543,http://www.ituring.com.cn/book/766,HTML5和CSS3实例教程,7,18400,BrianP.Hogan(作者), 朱嵬 柳靖  刘晓娜  李杰(译者) ,html5 css ,2011/12/2,2011,39,208,,暂时缺货
+202,http://www.ituring.com.cn/book/1094,有趣的统计：75招学会数据分析,18,18300,BruceFrey(作者),邹澍(译者) ,数学 统计 数据分析 ,2014/8/14,2014,59,292,,上市销售
+270,http://www.ituring.com.cn/book/1591,Swift基础教程,13,18300,BoisyG.Pitre(作者),袁国忠(译者) ,swift ,2015/6/15,2015,49,232,黑白,暂时缺货
+288,http://www.ituring.com.cn/book/1271,WEB+DBPRESS中文版01,17,18300,[日]技术评论社(作者),,数据库 web前端 WEB+DB ,2015/3/3,2015,20,180,黑白,上市销售
+523,http://www.ituring.com.cn/book/69,简约至上：交互式设计四策略,10,18300,GilesColborne(作者),李松峰  秦绪文(译者) ,交互设计 产品设计 可用性 代码外的 ,2010/12/29,2010,35,200,,上市销售
+19,http://www.ituring.com.cn/book/2003,Python3网络爬虫开发实战,17,18200,"""崔庆才(作者)",,,2018/4/16,2018,99,594,单色,暂时缺货
+238,http://www.ituring.com.cn/book/1022,24小时365天不间断服务：服务器/基础设施核心技术,18,18200,伊藤直也 胜见祐己 田中慎司 广濑正明 安井真伸 横川和哉(作者),张毅(译者) ,后端 基础设施 高性能 服务器 可扩展性 24小时365天不间断服务 ,2015/1/5,2015,49,336,黑白,暂时缺货
+260,http://www.ituring.com.cn/book/1284,TCP/IP网络编程,8,18200,尹圣雨(作者),金国哲(译者) ,韩语 tcp/ip套接字 ,2014/7/1,2014,79,420,黑白,上市销售
+511,http://www.ituring.com.cn/book/1807,算法（英文版?第4版）,10,18100,RobertSedgewick KevinWayne(作者),,算法 计算机科学 ,2016/3/28,2016,129,934,双色,上市销售
+926,http://www.ituring.com.cn/book/1716,数据分析实战,11,18100,[日]酒卷隆治里洋平(作者), 肖峰(译者) ,数据挖掘 数据分析 数据科学 ,2017/6/1,2017,45,268,黑白,上市销售
+364,http://www.ituring.com.cn/book/1653,2015图灵图书目录,13,18000,,,图书目录 图灵书目 ,2015/3/1,2015,0,62,彩色,上市销售
+950,http://www.ituring.com.cn/book/1950,Go并发编程实战（第2版）,7,18000,郝林(作者),,Go ,2017/4/7,2017,79,,黑白,上市销售
+251,http://www.ituring.com.cn/book/1383,度量：一首献给数学的情歌,13,17800,［美］保罗;洛克哈特（PaulLockhart）(作者), 王凌云(译者) ,数学 ,2015/6/15,2015,39,376,黑白,上市销售
+206,http://www.ituring.com.cn/book/1275,流程的永恒之道：工作流及BPM技术的理论、规范、模式及最佳实践,15,17700,"""辛鹏 ""荣浩(作者)",,项目管理 工作流 jBPM BPM治理 流程 ,2014/5/19,2014,69,484,黑白,上市销售
+519,http://www.ituring.com.cn/book/1156,码农&#183;活的信息（第4期）,10,17700,图灵社区出品(作者),,程序员 码农 ,2013/2/27,2013,0,137,彩色,上市销售
+970,http://www.ituring.com.cn/book/1919,Python数据科学入门,6,17700,DmitryZinoviev(作者), 熊子源(译者) ,python 数据分析 数据处理 数据科学 数据采集 ,2017/11/8,2017,49,145,单色,上市销售
+108,http://www.ituring.com.cn/book/1184,可能与不可能的边界：P/NP问题趣史,11,17600,LanceFortnow(作者),杨帆(译者) ,算法 p/np问题 计算复杂度 ,2013/12/9,2013,39,160,黑白,暂时缺货
+294,http://www.ituring.com.cn/book/1096,网络游戏核心技术与实战,12,17600,中嶋谦互(作者),毛姝雯  田剑(译者) ,游戏 日文书 MMORPG 套接字 rpc 网络游戏 多人游戏 ,2014/3/31,2014,99,464,黑白,上市销售
+524,http://www.ituring.com.cn/book/750,编程大师访谈录,20,17600,SusanLammers(作者), 张菁  吴咏炜  李琳骁(译者) ,访谈 技术史 软件 编程 人物 纪念图灵 ,2011/12/9,2011,59,372,,暂时缺货
+415,http://www.ituring.com.cn/book/1730,码农&#183;Docker云图（第20期）,8,17500,图灵社区出品(作者),,云计算 程序员 docker kubernetes ,2015/9/22,2015,0,137,,上市销售
+184,http://www.ituring.com.cn/book/1294,Groovy程序设计,11,17400,VenkatSubramaniam(作者),臧秀涛(译者) ,groovy ,2014/10/24,2014,69,296,黑白,上市销售
+768,http://www.ituring.com.cn/book/1798,码农&#183;码农论剑（第22期）,8,17400,图灵社区出品(作者),,编程语言 程序员 码农 京东 ,2016/1/20,2016,,219,,上市销售
+946,http://www.ituring.com.cn/book/2029,学习JavaScript数据结构与算法（第2版）,13,17400,[巴西]LoianeGroner(作者), 邓钢孙晓博吴双陈迪袁源(译者) ,javascript 数据结构 算法 ,2017/9/14,2017,49,217,单色,上市销售
+91,http://www.ituring.com.cn/book/1443,HTML5数据推送应用开发,11,17300,DarrenCook(作者),刘帅(译者) ,html5 SSE 推送 ,2014/11/7,2014,49,200,黑白,上市销售
+965,http://www.ituring.com.cn/book/1909,Java机器学习,0,17300,Bo?tjanKalu?a(作者),武传海(译者) ,Java 人工智能 机器学习 ,2017/9/1,2017,49,184,黑白,上市销售
+308,http://www.ituring.com.cn/book/1553,码农&#183;CTO长成记（第15期）,5,17200,图灵社区出品(作者),,程序员 码农 ,2014/11/20,2014,0,150,,上市销售
+69,http://www.ituring.com.cn/book/1350,Sass与Compass实战,25,17100,WynnNetherland NathanWeizenbaum ChrisEppstein BrandonMathis(作者),刘炬光 赵锦江 张浩然(译者) ,css web 前端 Sass Compass ,2014/5/5,2014,49,208,黑白,暂时缺货
+708,http://www.ituring.com.cn/book/1888,码农&#183;数据技能（第24期）,12,17100,,,数据挖掘 数据库 数据可视化 码农 数据科学 数据清洗 Python数据采集 ,2016/8/5,2016,0,189,,上市销售
+35,http://www.ituring.com.cn/book/876,通关！游戏设计之道,11,17000,ScottRogers(作者), 高济润  孙懿(译者) ,游戏 游戏设计 ,2013/11/4,2013,89,384,,暂时缺货
+381,http://www.ituring.com.cn/book/1188,学习响应式设计,12,17000,ClarissaPeterson(作者), 文巍(译者) ,web开发 响应式设计 ,2015/5/22,2015,69,328,黑白,上市销售
+455,http://www.ituring.com.cn/book/1596,PostgreSQL即学即用（第2版）,9,17000,ReginaObe LeoHsu(作者), 丁奇鹏(译者) ,数据库 PostgreSQL ,2016/1/4,2016,59,224,黑白,上市销售
+641,http://www.ituring.com.cn/book/1779,Git团队协作,0,16800,[加]EmmaJaneHogbinWestby(作者),童仲毅(译者) ,分布式系统 软件开发 git 协作 版本控制 团队 ,2017/5/27,2017,69,268,黑白,上市销售
+774,http://www.ituring.com.cn/book/1227,码农&#183;网络“安全”（第6期）,11,16800,图灵社区出品(作者),,程序员 码农 ,2013/6/19,2013,0,132,,上市销售
+934,http://www.ituring.com.cn/book/2411,人工智能简史,15,16800,尼克(作者),,,2017/11/23,2017,49,313,单色,上市销售
+313,http://www.ituring.com.cn/book/879,软件故事：谁发明了那些经典的编程语言,16,16700,史蒂夫?洛尔(作者), 张沛玄(译者) ,科技史 计算机语言 计算机历史 ,2014/6/27,2014,49,272,黑白,暂时缺货
+498,http://www.ituring.com.cn/book/942,HTML5与CSS3基础教程（第7版）,14,16700,BruceHyslop ElizabethCastro(作者), 望以文(译者) ,html5 css ,2012/12/24,2012,59,392,,暂时缺货
+550,http://www.ituring.com.cn/book/1720,JSON必知必会,8,16700,[美]LindsayBassett(作者),魏嘉汛(译者) ,javascript 前端 json ,2016/5/16,2016,35,128,黑白,上市销售
+82,http://www.ituring.com.cn/book/1264,Erlang程序设计（第2版）,10,16600,JoeArmstrong(作者),牛化成(译者) ,Erlang ,2014/6/6,2014,89,448,黑白,上市销售
+227,http://www.ituring.com.cn/book/1335,jQueryMobile开发指南,6,16600,陆明(作者),,软件开发 jQuery jquery-mobile 移动应用 ,2014/2/25,2014,49,256,黑白,暂时缺货
+386,http://www.ituring.com.cn/book/1592,码农增刊&#183;码农好爸爸,8,16600,图灵社区出品(作者),,程序员 码农 亲子 ,2014/12/18,2014,0,168,,上市销售
+464,http://www.ituring.com.cn/book/763,深入理解C#（第2版）,26,16600,JonSkeet(作者), 朱永光 姚琪琳  周靖(译者) ,程序设计 c# manning ,2011/12/21,2011,79,468,,上市销售
+757,http://www.ituring.com.cn/book/1020,Mac功夫：OSX的300多个技巧和小窍门,9,16600,KeirThomas(作者),周庆成  万琦(译者) ,mac 苹果电脑 使用技巧 使用捷径 ,2012/11/2,2012,49,332,黑白,暂时缺货
+895,http://www.ituring.com.cn/book/1803,图解物联网,11,16600,[日]NTTDATA集团河村雅人大塚纮史小林佑辅小山武士宫崎智也石黑佑树小岛康平(作者), 丁灵(译者) ,网络与通信 物联网 IoT ,2017/4/18,2017,59,312,双色,上市销售
+578,http://www.ituring.com.cn/book/757,Objective-C编程之道：iOS设计模式解析,7,16500,CarloChung(作者),刘威(译者) ,objective-c iphone开发 ipad开发 模式 ios ,2011/11/11,2011,59,308,,上市销售
+243,http://www.ituring.com.cn/book/1082,谷歌和亚马逊如何做产品,12,16400,ChrisVanderMey(作者), 刘亦舟(译者) ,产品经理 项目管理 o&#39;reilly 产品开发 ,2014/5/12,2014,49,209,,上市销售
+559,http://www.ituring.com.cn/book/871,jQuery实战（第2版）,14,16400,YehudaKatz BearBibeault(作者), 三生石上(译者) ,jQuery javascript框架 manning ,2012/3/22,2012,69,416,,上市销售
+939,http://www.ituring.com.cn/book/1746,C#经典实例（第4版）,14,16400,JayHilyard StephenTeilhet(作者),徐敬德(译者) ,.net c# 微软 ,2016/9/28,2016,129,592,黑白,上市销售
+500,http://www.ituring.com.cn/book/837,实例化需求：团队如何交付正确的软件,17,16300,GojkoAdzic(作者), 张昌贵  张博超  石永超(译者) ,敏捷开发 jolt大奖 实例化需求 manning ,2012/9/10,2012,49,200,,暂时缺货
+552,http://www.ituring.com.cn/book/1253,特斯拉：电气时代的开创者,19,16300,［美］W.伯纳德;卡尔森（W.BernardCarlson）(作者), 王国良(译者) ,科普 图灵新知 人物传记 ,2015/12/30,2015,69,448,黑白,上市销售
+577,http://www.ituring.com.cn/book/77,程序员的思维修炼：开发认知潜能的九堂课,20,16300,AndyHunt(作者), 崔康(译者) ,思维修炼 学习 创新 认知 纪念图灵 ,2010/12/15,2010,39,224,,暂时缺货
+610,http://www.ituring.com.cn/book/1002,jQueryMobile即学即用,8,16300,MaximilianoFirtman(作者),吴英杰 吴敏琦(译者) ,jQuery jquery-mobile o&#39;reilly ,2013/1/17,2013,49,226,,暂时缺货
+720,http://www.ituring.com.cn/book/938,HTML5程序设计（第2版）,11,16300,BrianAlbers FrankSalim PeterLubbers(作者),柳靖 刘淼  李杰(译者) ,程序设计 html5 ,2012/5/21,2012,59,276,,上市销售
+761,http://www.ituring.com.cn/book/1568,Unity5权威讲解,8,16300,李在贤(作者),孔雪玲(译者) ,unity-3d 韩语 移动游戏开发 ,2016/10/24,2016,109,592,黑白,上市销售
+959,http://www.ituring.com.cn/book/1647,Python黑客攻防入门,9,16300,赵诚文 郑暎勋(作者),武传海(译者) ,python 黑客攻防 韩语 ,2018/1/17,2018,59,234,单色,上市销售
+262,http://www.ituring.com.cn/book/1135,汽车是怎样跑起来的,12,16200,御堀直嗣(作者), 卢扬(译者) ,科普 汽车 ,2013/11/22,2013,39,296,双色,上市销售
+480,http://www.ituring.com.cn/book/848,HTML5秘籍,17,16200,MatthewMacDonald(作者),李松峰 朱巍(译者) ,html5 o&#39;reilly ,2012/9/19,2012,79,376,,暂时缺货
+642,http://www.ituring.com.cn/book/1105,趣味学数学,16,16200,［美］邦尼;埃弗巴克 ［美］奥林;钱恩(作者), 吴元泽(译者) ,数学趣题 数学 ,2016/8/9,2016,79,424,黑白,上市销售
+675,http://www.ituring.com.cn/book/839,亲爱的界面——让用户乐于使用、爱不释手,13,16200,LukasMathis(作者), 曾小进  王军锋  杨蕾(译者) ,设计 可用性 代码外的 ,2012/11/13,2012,49,236,黑白,暂时缺货
+812,http://www.ituring.com.cn/book/1023,Objective-C高级编程：iOS与OSX多线程和内存管理,10,16200,KazukiSakamoto TomohikoFurumoto(作者), 黎华(译者) ,ios 多线程 内存管理 ,2013/6/14,2013,49,192,,上市销售
+919,http://www.ituring.com.cn/book/1793,Docker开发指南,10,16200,[英]AdrianMouat(作者), 黄彦邦(译者) ,运维 docker 容器 微服务 ,2017/4/10,2017,79,271,单色,上市销售
+46,http://www.ituring.com.cn/book/1268,SoftwareDesign中文版01,9,16100,【日】技术评论社(作者),,软件开发 software-design ,2014/3/24,2014,39,160,黑白,暂时缺货
+100,http://www.ituring.com.cn/book/1320,Scala与Clojure函数式编程模式：Java虚拟机高效编程,9,16100,MichaelBevilacqua-Linn(作者), 赵震一(译者) ,Java Scala Clojure 函数式编程 jvm 函数式 ,2015/5/12,2015,49,216,黑白,暂时缺货
+135,http://www.ituring.com.cn/book/1417,浴缸里的惊叹：256道让你恍然大悟的趣题,13,16100,"""顾森(作者)",,数学趣题 顾森 ,2014/7/21,2014,49,228,双色,上市销售
+315,http://www.ituring.com.cn/book/960,论道HTML5,12,16100,"""秀野堂主 蒋宇捷 罗睿(作者)",,html5 ,2012/5/7,2012,69,320,,暂时缺货
+405,http://www.ituring.com.cn/book/1182,码农&#183;App创富传奇（第5期）,13,16100,图灵社区出品(作者),,程序员 码农 ,2013/4/18,2013,0,123,,上市销售
+164,http://www.ituring.com.cn/book/1453,移动应用UI设计模式（第2版）,9,16000,TheresaNeil(作者),田原(译者) ,移动开发 设计模式 移动ui ,2015/1/19,2015,79,330,彩色,暂时缺货
+468,http://www.ituring.com.cn/book/397,写给大家看的设计书（第3版）,14,16000,RobinWilliams(作者), 刘亮  苏金国(译者) ,设计 版式设计 设计原则 代码外的 ,2008/11/25,2008,49,220,彩色,暂时缺货
+60,http://www.ituring.com.cn/book/1478,码农&#183;Lisp面面观（第13期）,6,15900,图灵社区出品(作者),,程序员 码农 ,2014/7/28,2014,0,133,,上市销售
+346,http://www.ituring.com.cn/book/1388,小决心：确实奏效的好习惯养成方法,10,15900,［美］卡罗琳;L.阿诺德（CarolineL.Arnold）(作者), 卜育(译者) ,好习惯 小决心 ,2015/4/13,2015,39,240,黑白,上市销售
+372,http://www.ituring.com.cn/book/792,JavaScript基础教程（第8版）,6,15900,DoriSmith TomNegrino(作者),柳靖  陈剑瓯(译者) ,javascript 前端 ,2012/5/2,2012,69,404,,暂时缺货
+790,http://www.ituring.com.cn/book/1357,Redis入门指南,5,15800,李子骅(作者),,数据库 redis ,2013/5/1,2013,39,190,,上市销售
+454,http://www.ituring.com.cn/book/1359,Android开发入门与实战（第二版）,0,15700,eoe移动开发者社区 姚尚朗 靳岩(作者),,android ,2013/6/1,2013,59,394,黑白,上市销售
+510,http://www.ituring.com.cn/book/1737,图解密码技术（第3版）,21,15700,结城浩(作者),周自恒(译者) ,密码学 安全 密码技术 ,2016/7/1,2016,89,424,,上市销售
+712,http://www.ituring.com.cn/book/923,C++API设计,21,15700,MartinReddy(作者), 刘晓娜 臧秀涛 林健(译者) ,c++ api ,2013/8/8,2013,89,380,黑白,上市销售
+24,http://www.ituring.com.cn/book/922,渐进增强的Web设计,11,15600,ToddParker PattyToland ScottJehl MaggieCostelloWachs(作者),牛化成(译者) ,网站开发 渐进增强 ,2013/12/26,2013,69,306,黑白,暂时缺货
+598,http://www.ituring.com.cn/book/182,精通CSS：高级Web标准解决方案（第2版）,16,15600,AndyBudd SimonCollison CameronMoll(作者), 陈剑瓯(译者) ,css ,2010/4/23,2010,49,280,,上市销售
+90,http://www.ituring.com.cn/book/1474,UnityAPI解析,6,15500,陈泉宏(作者),,,2014/9/2,2014,49,256,,暂时缺货
+235,http://www.ituring.com.cn/book/1332,产品经理面试宝典,3,15500,GayleLaakmannMcDowell JackieBavaro(作者),吴海星 陈少芸(译者) ,产品经理 面试 ,2015/3/6,2015,59,274,黑白,暂时缺货
+469,http://www.ituring.com.cn/book/1555,统计思维：程序员数学之概率统计（第2版）,17,15500,AllenB.Downe(作者),金迎(译者) ,概率统计 数学 统计 数据分析 ,2015/9/7,2015,49,204,黑白,上市销售
+618,http://www.ituring.com.cn/book/1820,GitHub实践,9,15500,[美]ChrisDawson [美]BenStraub(作者),安道(译者) ,计算机 软件开发 github ,2016/11/18,2016,69,232,单色,上市销售
+213,http://www.ituring.com.cn/book/1463,Qt5开发实战,8,15400,金大?(作者),张红艳(译者) ,编程 qt 韩语 ,2015/10/12,2015,99,528,黑白,上市销售
+55,http://www.ituring.com.cn/book/1342,码农增刊&#183;2014新年特刊,5,15300,图灵社区出品(作者),,程序员 码农 ,2014/1/24,2014,,136,,上市销售
+98,http://www.ituring.com.cn/book/836,领域专用语言实战,18,15300,DebasishGhosh(作者),郭晓刚(译者) ,敏捷开发 领域特定语言 DSL manning ,2013/10/12,2013,69,312,黑白,暂时缺货
+117,http://www.ituring.com.cn/book/999,精通jQuery（第2版）,12,15300,AdamFreeman(作者),魏忠(译者) ,jQuery javascript框架 ,2014/8/28,2014,149,876,黑白,上市销售
+362,http://www.ituring.com.cn/book/1539,命令行中的数据科学,10,15300,JeroenJanssens(作者),王晓伟 刘峰(译者) ,命令行 数据 ,2015/5/27,2015,49,188,黑白,上市销售
+765,http://www.ituring.com.cn/book/1530,C#敏捷开发实践,11,15200,GaryMcLeanHall(作者),许顺强(译者) ,c# 软件开发 ,2016/7/19,2016,69,352,黑白,上市销售
+140,http://www.ituring.com.cn/book/1223,微交互：细节设计成就卓越产品（设计大师唐&#183;诺曼作序 Gmail、GoogleReader设计师KevinFox等设计界大牛鼎力推荐!）,8,15100,DanSaffer(作者),李松峰(译者) ,o&#39;reilly ,2013/10/11,2013,35,184,黑白,上市销售
+353,http://www.ituring.com.cn/book/833,NodeWeb开发,22,15100,DavidHerron(作者), 廖健  吴天豪  鄢学鵾(译者) ,web开发 node ,2012/5/3,2012,35,116,,暂时缺货
+551,http://www.ituring.com.cn/book/1017,图解力：跟顶级设计师学作信息图,13,15100,木村博之(作者),顾毅  吴晓芬(译者) ,信息可视化 infographic 信息图 ,2013/5/27,2013,79,248,,上市销售
+585,http://www.ituring.com.cn/book/1503,HTML5与WebGL编程,10,15100,TonyParisi(作者), 潘征(译者) ,web设计软件 html5 3d webgl ,2016/5/13,2016,79,328,黑白,上市销售
+350,http://www.ituring.com.cn/book/1281,Linuxshell脚本编程入门,6,15000,金泰龙(作者),金香(译者) ,linux shell脚本编程 韩语 ,2014/9/18,2014,89,496,黑白,上市销售
+407,http://www.ituring.com.cn/book/1222,锋利的jQuery(第2版),9,15000,单东林 张晓菲 魏然(作者),,jQuery javascript框架 ,2012/7/1,2012,49,380,黑白,上市销售
+493,http://www.ituring.com.cn/book/1834,注意力：专注的科学与训练,13,15000,[法]让-菲利普;拉夏(作者), 刘彦(译者) ,科普 图灵新知 脑科学 注意力 ,2016/5/19,2016,49,312,黑白,上市销售
+647,http://www.ituring.com.cn/book/1702,干净的数据：数据清洗入门与实践,6,15000,MeganSquire(作者),任政委(译者) ,数据挖掘 大数据 数据科学 数据清洗 ,2016/5/9,2016,49,200,黑白,上市销售
+78,http://www.ituring.com.cn/book/1103,自然计算：DNA、量子比特和智能机器的未来,11,14900,CathyLazere DennisE.Shasha(作者),金从军 仇祝平(译者) ,计算机 访谈 未来 ai-ebook ,2014/9/3,2014,45,200,黑白,暂时缺货
+139,http://www.ituring.com.cn/book/1330,设计师养成“脚”册,6,14900,"""Ai惊秋(作者)",,设计师 设计 独立电子书 ,2014/1/2,2014,,,,上市销售
+329,http://www.ituring.com.cn/book/1101,Objective-C编程全解（第3版）,8,14900,荻原刚志(作者), 唐璐  翟俊杰(译者) ,objective-c iphone开发 ipad开发 ios编程 ,2014/12/22,2014,79,460,黑白,上市销售
+624,http://www.ituring.com.cn/book/1031,精益设计：设计团队如何改善用户体验（精益系列丛书 《精益创业》作者埃里克&#183;莱斯主编）,10,14900,JeffGothelf JoshSeiden(作者), 张玳(译者) ,用户体验 敏捷开发 o&#39;reilly 精益设计 团队设计 精益系列丛书 ,2013/8/23,2013,49,132,黑白,暂时缺货
+888,http://www.ituring.com.cn/book/1937,Python数据科学手册,7,14800,JakeVanderPlas(作者), 陶俊杰陈小莉(译者) ,python 数据科学 ,2018/1/30,2018,109,448,单色,上市销售
+775,http://www.ituring.com.cn/book/1024,卓越程序员密码,7,14700,KaWaiCheung(作者),劳佳(译者) ,程序员 职业素养 纪念图灵 ,2012/11/2,2012,29,172,黑白,上市销售
+120,http://www.ituring.com.cn/book/1367,2014图灵图书目录,8,14600,图灵教育(作者),,图灵书目 图灵目录 ,2014/7/21,2014,0,48,彩色,上市销售
+291,http://www.ituring.com.cn/book/1450,ASP.NETWebAPI设计,9,14600,GlennBlock PabloCibraro PedroFelix HowardDierking DarrelMiller(作者),金迎(译者) ,asp.net api web ,2014/12/29,2014,99,,黑白,上市销售
+576,http://www.ituring.com.cn/book/759,任天堂传奇：游戏产业之王者归来,12,14600,DanielSloan(作者), 张玳(译者) ,游戏 任天堂 企业管理 企业家 游戏机 ,2012/3/14,2012,39,224,,暂时缺货
+589,http://www.ituring.com.cn/book/1077,贴心设计：打造高可用性的移动产品,14,14600,JakobNielsen RalucaBudiu(作者),牛化成(译者) ,界面设计 可用性 移动产品 ,2013/7/1,2013,59,168,彩色,暂时缺货
+5,http://www.ituring.com.cn/book/1413,机器学习与优化,10,14500,[意]罗伯托;巴蒂蒂 [意]毛罗;布鲁纳托(作者), 王彧弋(译者) ,人工智能 机器学习 数据分析 ,2018/5/21,2018,89,272,单色,上市销售
+267,http://www.ituring.com.cn/book/218,高效程序员的45个习惯：敏捷开发修炼之道,7,14500,AndyHunt VenkatSubramaniam(作者), 郑柯  钱安川(译者) ,软件开发 敏捷开发 职业素养 pragmatic ,2010/1/11,2010,35,200,,暂时缺货
+522,http://www.ituring.com.cn/book/943,深入HTML5应用开发,9,14400,AnthonyT.HoldenerIII MarioandresPagella(作者),李松峰  秦绪文(译者) ,html5 ,2012/3/26,2012,59,250,,暂时缺货
+558,http://www.ituring.com.cn/book/818,金领简历：敲开苹果、微软、谷歌的大门,15,14400,GayleLaakmannMcDowell(作者),漆犇(译者) ,求职招聘 职业规划 ,2012/6/18,2012,45,236,,暂时缺货
+314,http://www.ituring.com.cn/book/1339,关于mruby的一切,14,14300,松本行弘(作者),赵文(译者) ,ruby 松本行弘 独立电子书 mruby ,2014/5/6,2014,,,黑白,上市销售
+901,http://www.ituring.com.cn/book/1608,精通Git（第2版）,6,14300,ScottChacon BenStraub(作者),门佳  刘梓懿(译者) ,程序员 git 版本控制 源代码管理 ,2017/9/18,2017,89,401,单色,上市销售
+964,http://www.ituring.com.cn/book/2020,HTTP/2基础教程,6,14300,StephenLudin JavierGarza(作者), 罗正龙  郑维智(译者) ,HTTP 网络架构 网络技术 ,2018/1/17,2018,49,113,单色,上市销售
+672,http://www.ituring.com.cn/book/1755,概率导论（第2版&#183;修订版）,13,14200,DimitriP.Bertsekas JohnN.Tsitsiklis(作者), 郑国忠  童行伟(译者) ,概率统计 ,2015/12/21,2015,79,464,黑白,上市销售
+846,http://www.ituring.com.cn/book/1455,JavaScript程序设计,7,14200,JohnDavidDionisio RayToal(作者),贾洪峰 李松峰(译者) ,javascript 程序设计 计算机科学 Web分析 ,2016/4/11,2016,89,380,黑白,暂时缺货
+439,http://www.ituring.com.cn/book/851,编译器设计（第2版）,23,14100,KeithD.Cooper LindaTorczon(作者),郭旭(译者) ,编译器 代码优化 ,2012/12/24,2012,99,592,,上市销售
+824,http://www.ituring.com.cn/book/1882,魔力Haskell,16,14100,"""韩冬(作者)",,Haskell 函数式编程 ,2016/9/12,2016,79,364,黑白,上市销售
+84,http://www.ituring.com.cn/book/1189,精通ExtJS,8,14000,LoianeGroner(作者),卢俊祥(译者) ,extjs javascript框架 ,2014/3/12,2014,59,268,黑白,暂时缺货
+486,http://www.ituring.com.cn/book/147,微积分的历程：从牛顿到勒贝格,12,14000,WilliamDunham(作者), 李伯民  汪军  张怀勇(译者) ,微积分 科普 数学史 数学 ,2010/7/23,2010,29,268,,上市销售
+109,http://www.ituring.com.cn/book/1356,OpenStack部署实践,5,13900,张子凡(作者),,openstack 部署 ,2014/3/12,2014,59,280,黑白,暂时缺货
+697,http://www.ituring.com.cn/book/845,深入NoSQL,11,13900,ShashankTiwari(作者), 巨成(译者) ,nosql ,2012/11/9,2012,69,308,,暂时缺货
+53,http://www.ituring.com.cn/book/1150,咨询的奥秘：寻求和提出建议的智慧,10,13800,GeraldM.Weinberg(作者),劳佳(译者) ,思考 思维 咨询 温伯格 ,2013/12/20,2013,39,284,黑白,上市销售
+261,http://www.ituring.com.cn/book/1187,学习R,8,13800,RichardCotton(作者),刘军(译者) ,R语言 ,2014/5/12,2014,69,360,黑白,上市销售
+651,http://www.ituring.com.cn/book/1369,七周七数据库,8,13800,EricRedmond JimR.Wilson(作者),王海鹏  田思源  王晨(译者) ,数据库 nosql mongodb CouchDB redis 七周 hbase PostgreSQL riak neo4j ,2013/7/1,2013,59,324,黑白,上市销售
+258,http://www.ituring.com.cn/book/1390,精通iOS开发（第6版）,4,13700,JackNutting FredrikOlsson DavidMark JeffLaMarche(作者),周庆成 邓强 武海峰(译者) ,,2014/9/29,2014,109,,黑白,上市销售
+317,http://www.ituring.com.cn/book/814,深入学习MongoDB,14,13700,KristinaChodorow(作者), 巨成 程显峰(译者) ,nosql 云计算 mongodb ,2012/2/24,2012,32,136,黑白,暂时缺货
+406,http://www.ituring.com.cn/book/972,DBA的思想天空——感悟Oracle数据库本质,9,13700,"""白鳝 储学荣(作者)",,oracle dba ,2012/10/11,2012,89,448,,暂时缺货
+835,http://www.ituring.com.cn/book/2429,程序原本,10,13700,"""周爱民(作者)",,软件工程 独立电子书 ,2017/6/19,2017,,,四色,上市销售
+397,http://www.ituring.com.cn/book/1389,精通JavaScript开发,15,13600,DenOdell(作者), 邝健威  厉海洋(译者) ,javascript ,2015/9/23,2015,79,420,黑白,上市销售
+535,http://www.ituring.com.cn/book/1761,远程入侵原装乘用车,9,13600,Dr.CharlieMiller ChrisValasek(作者), 唐朝实验室翻译组  朱于涛  刘家志(译者) ,安全 汽车 独立电子书 wooyun 入侵 ,2015/11/24,2015,,86,彩色,上市销售
+684,http://www.ituring.com.cn/book/1809,菜鸟侦探挑战数据分析,10,13600,石田基广(作者), 支鹏浩(译者) ,R语言 数据分析 ,2017/1/18,2017,42,264,黑白,上市销售
+942,http://www.ituring.com.cn/book/1924,高性能iOS应用开发,9,13600,GauravVaish(作者), 梁士兴  郝田田  陈作君(译者) ,移动开发 用户体验 ios 性能 应用开发 ,2017/4/10,2017,89,380,黑白,上市销售
+947,http://www.ituring.com.cn/book/1972,大便通：便秘、肥胖、衰老与肠道菌,13,13600,辨野义己(作者), 甘菁菁(译者) ,科普 生物学 图灵新知 健康 生命科学 肠道细菌 ,2017/5/30,2017,39,148,黑白,上市销售
+499,http://www.ituring.com.cn/book/947,App创富传奇,12,13500,ChrisStevens(作者),曾文斌(译者) ,iphone App应用 ,2013/3/18,2013,39,180,黑白,暂时缺货
+715,http://www.ituring.com.cn/book/1677,数学女孩2：费马大定理,17,13500,结城浩(作者), 丁灵(译者) ,数学 费马大定理 数学女孩 ,2015/12/15,2015,42,368,黑白,上市销售
+613,http://www.ituring.com.cn/book/797,软件之道：软件开发争议问题剖析,15,13400,AndyOram GregWilson(作者), 鲍央舟  张玳  沈欢星(译者) ,软件工程 文集 敏捷开发 o&#39;reilly ,2012/3/7,2012,89,456,,暂时缺货
+685,http://www.ituring.com.cn/book/1855,Unity游戏设计与实现：南梦宫一线程序员的开发实例（修订版）,6,13400,加藤政树(作者),罗水东(译者) ,c# 游戏 unity ,2017/3/22,2017,79,404,黑白,上市销售
+686,http://www.ituring.com.cn/book/1583,WebAPI的设计与开发,8,13400,水野贵明(作者),盛荣(译者) ,web-api ,2017/5/25,2017,52,232,黑白,上市销售
+728,http://www.ituring.com.cn/book/987,计算机程序设计艺术卷2：半数值算法（第3版）,18,13400,DonaldE.Knuth(作者), 巫斌  范明(译者) ,算法 计算机科学 半数值算法 计算数学 ,2016/7/26,2016,198,,黑白,上市销售
+877,http://www.ituring.com.cn/book/1598,用户思维+：好产品让用户为自己尖叫,10,13400,KathySierra(作者), 石航(译者) ,交互设计 用户体验 产品设计 持续学习 用户思维 成长型思维模式 ,2017/9/25,2017,69,288,四色,上市销售
+905,http://www.ituring.com.cn/book/1303,C++程序设计实践与技巧：测试驱动开发,7,13400,JeffLangr(作者), 余飞  秦涛(译者) ,c++ 测试驱动开发 ,2016/11/28,2016,59,308,黑白,上市销售
+93,http://www.ituring.com.cn/book/1032,好设计不简单Ⅱ：UI设计师必须了解的那些事,6,13300,古贺直树(作者), 张君艳(译者) ,交互设计 用户体验 ,2014/7/21,2014,39,192,黑白,暂时缺货
+574,http://www.ituring.com.cn/book/1324,别怕 ExcelVBA其实很简单,1,13300,ExcelHome 罗国发 周庆麟(作者),,excel vba ,2012/9/1,2012,49,330,双色,上市销售
+755,http://www.ituring.com.cn/book/1668,Spark高级数据分析,18,13300,SandyRyza UriLaserson SeanOwen JoshWills(作者),龚少成(译者) ,大数据 数据分析 Spark ,2015/11/9,2015,59,244,黑白,上市销售
+915,http://www.ituring.com.cn/book/1748,黑客攻防技术宝典：反病毒篇,8,13300,JoxeanKoret EliasBachaalany(作者), 周雨阳(译者) ,黑客 安全 病毒 ,2017/8/15,2017,79,280,黑白,上市销售
+311,http://www.ituring.com.cn/book/1318,图解3D打印：用Autodesk123DDesign和3D打印机自制小物件,10,13100,水野操(作者), 陶旭(译者) ,diy 自制 3d打印 ,2014/9/26,2014,99,288,彩色,暂时缺货
+656,http://www.ituring.com.cn/book/870,好学的Objective-C,6,13100,JivaDeVoe(作者), 林本杰(译者) ,移动开发 objective-c mac ,2012/3/2,2012,55,260,,暂时缺货
+667,http://www.ituring.com.cn/book/1744,Python性能分析与优化,10,13100,[乌拉圭]FernandoDoglio(作者),陶俊杰  陈小莉(译者) ,python 性能优化 性能分析 ,2016/6/16,2016,45,192,黑白,上市销售
+865,http://www.ituring.com.cn/book/2038,Swift编程权威指南（第2版）,10,13100,MatthewMathias JohnGallagher(作者),陈晓亮(译者) ,移动开发 ios swift ,2017/6/18,2017,89,388,黑白,上市销售
+537,http://www.ituring.com.cn/book/965,Kinect人机交互开发实践,9,13000,"""吴国斌 李斌 阎骥洲(作者)",,人机交互 api kinect 体感交互 ,2012/12/17,2012,39,172,,暂时缺货
+833,http://www.ituring.com.cn/book/1419,使用RSpec测试Rails程序（原书第3版）,7,13000,AaronSumner(作者),安道(译者) ,测试 rails 独立电子书 ruby-on-rails rspec ,2018/2/5,2018,,,,上市销售
+938,http://www.ituring.com.cn/book/1724,编程风格：好代码的逻辑,13,13000,CristinaVideiraLopes(作者), 顾中磊(译者) ,程序设计 编程 职业修养 ,2017/8/7,2017,55,220,黑白,上市销售
+65,http://www.ituring.com.cn/book/1171,黑客与画家：来自计算机时代的高见,9,12900,保罗;格雷厄姆(作者),阮一峰(译者) ,it人文 阮一峰 o&#39;reilly ,2013/10/21,2013,69,300,黑白,上市销售
+124,http://www.ituring.com.cn/book/1090,建筑中的数学之旅,10,12900,AlexanderJ.Hahn(作者), 李莉(译者) ,科普 数学 建筑 ,2014/1/2,2014,59,372,,暂时缺货
+177,http://www.ituring.com.cn/book/1495,高效团队开发：工具与方法,15,12900,池田尚史 藤仓和明 井上史彰(作者), 严圣逸(译者) ,持续集成 版本管理 团队开发 缺陷管理 回归测试 ,2015/6/29,2015,49,320,黑白,上市销售
+189,http://www.ituring.com.cn/book/1334,产品经理那些事儿,9,12900,林江发 宛楠(作者),,计算机 产品经理 ,2014/3/3,2014,59,340,黑白,上市销售
+210,http://www.ituring.com.cn/book/1245,品味移动设计——iOS、Android、WindowsPhone用户体验设计最佳实践,4,12900,"""赵大羽 ""关东升(作者)",,android 用户体验 ios 移动设计 windows-phone ,2013/9/29,2013,69,252,彩色,暂时缺货
+544,http://www.ituring.com.cn/book/19,PHP与MySQL程序设计（第4版）,10,12900,W.J.Gilmore(作者), 朱涛江(译者) ,web编程与设计 php mysql ,2011/6/1,2011,89,560,,上市销售
+557,http://www.ituring.com.cn/book/840,iOS应用开发攻略,9,12900,MattDrance PaulWarren(作者),刘威(译者) ,iphone ios 开发技巧 ,2012/9/3,2012,35,149,,暂时缺货
+89,http://www.ituring.com.cn/book/1606,发布！软件的设计与部署,3,12800,MichaelT.Nygard(作者), 凃鸣(译者) ,架构师 设计师 设计 软件发布 开发人员 ,2015/1/26,2015,49,228,黑白,暂时缺货
+159,http://www.ituring.com.cn/book/1631,Docker开发实践,9,12800,曾金龙 肖新华 刘清(作者),,云计算 docker ,2015/7/2,2015,59,292,黑白,上市销售
+374,http://www.ituring.com.cn/book/760,ActionScript3.0游戏编程（第2版）,10,12800,GaryRosenzwig(作者), 朱栗华  胡蓉 张东宁(译者) ,flash actionscript 游戏 ,2012/2/17,2012,79,480,,暂时缺货
+495,http://www.ituring.com.cn/book/1441,C++权威教程（第6版）,11,12800,NellDale ChipWeems(作者),贾洪峰(译者) ,c++ ,2015/12/31,2015,149,732,黑白,上市销售
+631,http://www.ituring.com.cn/book/1084,深入浅出PhoneGap,8,12800,"""饶侠 ""张坚 ""赵莉萍(作者)",,移动开发 PhoneGap 跨平台应用 ,2013/1/17,2013,59,340,,暂时缺货
+955,http://www.ituring.com.cn/book/2415,动手制作一台计算机,8,12800,"""白宏坤(作者)",,计算机 diy 独立电子书 电子电路 ,2017/5/27,2017,,,黑白,上市销售
+23,http://www.ituring.com.cn/book/1291,程序员第二步——从程序员到项目经理,11,12700,尹华山(作者),,it职场 it项目管理 ,2013/11/20,2013,45,334,黑白,暂时缺货
+162,http://www.ituring.com.cn/book/1674,数据应用开发详解（C#版）,7,12700,"""曹化宇(作者)",,c# 数据库 需求 独立电子书 ,2015/4/30,2015,,338,,上市销售
+337,http://www.ituring.com.cn/book/738,SQL反模式,8,12700,BillKarwin(作者), push-chen  谭振林(译者) ,sql 数据库编程 模式 反模式 ,2011/9/16,2011,59,268,黑白,暂时缺货
+502,http://www.ituring.com.cn/book/842,jQuery基础教程（第3版）,14,12700,KarlSwedberg JonathanChaffer(作者),李松峰(译者) ,jQuery ,2012/3/30,2012,59,336,,暂时缺货
+762,http://www.ituring.com.cn/book/1650,无界面交互：潜移默化的UX设计方略,12,12700,[美]GoldenKrishna(作者), 杨名(译者) ,交互设计 用户体验 界面设计 ux ,2017/1/6,2017,49,266,单色,暂时缺货
+978,http://www.ituring.com.cn/book/1785,枕边算法书,6,12700,林栢濬(作者),崔盛一(译者) ,算法 韩语 ,2018/3/9,2018,45,245,单色,上市销售
+611,http://www.ituring.com.cn/book/909,捉虫日记,8,12600,TobiasKlein(作者),张伸(译者) ,安全 bug ,2012/8/27,2012,39,192,,暂时缺货
+677,http://www.ituring.com.cn/book/863,揭示宇宙奥秘的13个常数,10,12600,JamesD.Stein(作者),程玺(译者) ,科普 常数 宇宙 纪念图灵 ,2012/8/6,2012,35,244,,暂时缺货
+727,http://www.ituring.com.cn/book/2405,初识PhalApi：探索接口服务开发的技艺,6,12600,"""黄禅宗(作者)",,php 接口 api 独立电子书 restful 微服务 ,2017/5/22,2017,,,四色,上市销售
+859,http://www.ituring.com.cn/book/1782,Spark最佳实践,7,12600,"""陈欢 ""林世飞(作者)",,大数据 数据分析 Spark ,2016/5/20,2016,49,224,黑白,上市销售
+878,http://www.ituring.com.cn/book/2428,大道至易：实践者的思想（第二版）,9,12600,"""周爱民(作者)",,软件工程 独立电子书 ,2017/6/15,2017,,,四色,上市销售
+132,http://www.ituring.com.cn/book/1198,精通ASP.NET4.5（第5版）,4,12500,AdamFreeman MatthewMacDonald MarioSzpuszta(作者),石华耀(译者) ,asp.net ,2014/8/28,2014,149,1024,黑白,上市销售
+191,http://www.ituring.com.cn/book/1248,OmniGrafflePro的发现之旅,4,12500,"""龚诚(作者)",,mac 独立电子书 omnigraffle 图表 ,2013/9/30,2013,,108,,上市销售
+411,http://www.ituring.com.cn/book/9,Cassandra权威指南,9,12400,EbenHewitt(作者), 王旭 测试人(译者) ,数据库 nosql cassandra 云计算 o&#39;reilly ,2011/7/20,2011,59,304,,暂时缺货
+779,http://www.ituring.com.cn/book/2001,Lua设计与实现,12,12400,codedump(作者),,,2017/8/28,2017,49,186,单色,上市销售
+808,http://www.ituring.com.cn/book/1833,Jekyll小书,15,12400,"""安道(作者)",,ruby blog 独立电子书 jekyll 静态网站 site deploy ,2016/4/14,2016,,,,上市销售
+840,http://www.ituring.com.cn/book/1957,Tomcat架构解析,10,12400,刘光瑞(作者),,软件开发 软件架构 tomcat 服务器 架构设计 ,2017/5/8,2017,79,380,,上市销售
+887,http://www.ituring.com.cn/book/1859,数学女孩3：哥德尔不完备定理,10,12400,结城浩(作者), 丁灵(译者) ,数学 数学女孩 哥德尔不完备定理 不完全性定理 ,2017/11/30,2017,52,406,单色,上市销售
+941,http://www.ituring.com.cn/book/1789,Docker经典实例,5,12400,S;bastienGoasguen(作者),刘斌(译者) ,运维 devops docker 容器 ,2017/2/13,2017,69,316,黑白,上市销售
+64,http://www.ituring.com.cn/book/1109,软件开发与创新：ThoughtWorks文集（续集）,10,12300,ThoughtWorksInc.(作者), ThoughtWorks中国公司(译者) ,软件开发 文集 thoughtworks ,2014/1/21,2014,45,192,黑白,上市销售
+271,http://www.ituring.com.cn/book/1546,机器学习实践：测试驱动的开发方法,14,12300,MatthewKirk(作者),段菲(译者) ,机器学习 测试驱动开发 ai-ebook ,2015/8/4,2015,49,204,黑白,上市销售
+536,http://www.ituring.com.cn/book/789,放飞App：移动产品经理实战指南,7,12300,KenYarmosh(作者),鞠玮婕  邓力(译者) ,产品经理 iphone开发 ipad开发 iphone ipad o&#39;reilly ,2013/7/9,2013,59,240,黑白,暂时缺货
+814,http://www.ituring.com.cn/book/2067,Kafka权威指南,4,12300,NehaNarkhede GwenShapira ToddPalino(作者), 薛命灯(译者) ,,2017/12/26,2017,69,214,单色,上市销售
+21,http://www.ituring.com.cn/book/1174,Android应用UI设计模式,2,12200,GregNudelman(作者),袁国忠(译者) ,android 移动ui设计 ,2013/11/22,2013,69,340,黑白,暂时缺货
+688,http://www.ituring.com.cn/book/1759,进化：从孤胆极客到高效团队,4,12200,BrianW.Fitzpatrick BenCollins-Sussman(作者),金迎(译者) ,团队建设 企业管理 高效 合作 ,2016/9/28,2016,45,184,黑白,上市销售
+689,http://www.ituring.com.cn/book/1704,写给大家看的安卓应用开发书：AppInventor2快速入门与实战,6,12200,DavidWolber HalAbelson EllenSpertus LizLooney(作者),金从军(译者) ,程序设计 移动开发 app-inventor 少儿编程 ,2016/6/14,2016,79,296,黑白,上市销售
+851,http://www.ituring.com.cn/book/2430,我的架构思想,5,12200,"""周爱民(作者)",,软件工程 独立电子书 ,2017/6/19,2017,,,四色,上市销售
+127,http://www.ituring.com.cn/book/1520,OpenCV计算机视觉编程攻略（第2版）,5,12100,RobertLagani;re(作者),相银初(译者) ,计算机视觉 opencv 视觉编程 ,2015/9/2,2015,59,272,黑白,上市销售
+149,http://www.ituring.com.cn/book/1507,Storm源码分析,9,12100,李明 王晓鹏(作者),,大数据 数据处理 Storm ,2014/10/28,2014,79,484,黑白,暂时缺货
+504,http://www.ituring.com.cn/book/736,布道之道：引领团队拥抱技术创新,16,12100,TerrenceRyan(作者), 李缨 李松峰(译者) ,布道者 技术推广 团队沟通 创新 ,2011/12/9,2011,29,148,,暂时缺货
+792,http://www.ituring.com.cn/book/1731,玩不够的数学：算术与几何的妙趣,23,12100,[法]让-保罗?德拉耶(作者), 路遥(译者) ,数学 图灵新知 科普数学 ,2015/11/5,2015,49,244,彩色,上市销售
+222,http://www.ituring.com.cn/book/1307,图解网站分析（修订版）：让流量倍增的网站优化方法,5,12000,小川卓(作者), 沈麟芸(译者) ,网站分析 Web分析 web--analytics ,2014/10/13,2014,69,352,黑白,上市销售
+297,http://www.ituring.com.cn/book/897,深入浅出CoffeeScript,12,12000,TrevorBurnham(作者),寸志(译者) ,javascript web开发 node ,2012/5/7,2012,35,120,,上市销售
+318,http://www.ituring.com.cn/book/741,PHP基础教程（第4版）,7,12000,LarryUllman(作者), 刘彦博  贾菡(译者) ,php ,2011/9/19,2011,65,424,,暂时缺货
+555,http://www.ituring.com.cn/book/1003,iOS游戏开发：从创意到实现,5,12000,ToddMoore(作者), 杨晓琪(译者) ,iphone ios ipad 游戏 o&#39;reilly ,2012/12/17,2012,39,176,黑白,上市销售
+710,http://www.ituring.com.cn/book/1594,电子工程师必读：元器件与技术,12,12000,JohnM.Hughes(作者),李薇濛(译者) ,电子学 硬件 创客 电子技术 元器件 电子电路 ,2016/6/12,2016,99,360,黑白,上市销售
+869,http://www.ituring.com.cn/book/1959,码农增刊&#183;告别拖延 拥抱高效!,10,12000,,,时间管理 码农 高效 小决心 敏捷项目 ,2017/3/7,2017,0,147,,上市销售
+881,http://www.ituring.com.cn/book/1890,爱上电子学：创客的趣味电子实验（第2版）,8,12000,CharlesPlatt(作者),李薇濛(译者) ,diy 电子实验 趣味科学 ,2016/12/2,2016,99,378,彩色,上市销售
+77,http://www.ituring.com.cn/book/1387,社会工程卷2：解读肢体语言,7,11900,ChristopherHadnagy(作者), 蔡筠竹(译者) ,安全 肢体语言 社会工程 读心术 ,2015/2/4,2015,39,184,黑白,上市销售
+110,http://www.ituring.com.cn/book/1059,30天软件开发：告别瀑布拥抱敏捷,8,11900,KenSchwaber JeffSutherland(作者), 王军  李麟德(译者) ,软件开发 敏捷开发 scrum ,2014/1/2,2014,39,184,黑白,暂时缺货
+192,http://www.ituring.com.cn/book/656,C++Primer中文版(第4版),16,11900,,,程序设计 c++ ,2006/3/31,2006,99,764,,上市销售
+281,http://www.ituring.com.cn/book/117,计算机程序设计艺术卷1：基本算法（英文版?第3版）,12,11900,DonaldE.Knuth(作者),,程序设计理论 计算机程序设计艺术 ,2010/10/14,2010,119,672,,上市销售
+373,http://www.ituring.com.cn/book/52,人人都有好工作：IT行业求职面试必读,7,11900,AndyLester(作者), 王劼(译者) ,职业发展 求职招聘 ,2011/3/14,2011,35,300,,暂时缺货
+721,http://www.ituring.com.cn/book/2569,码农&#183;解锁机器学习（第30期）,9,11900,,,人工智能 机器学习 神经网络 推荐系统 码农 深度学习 语音识别 图像识别 ,2017/11/1,2017,,111,黑白,上市销售
+197,http://www.ituring.com.cn/book/1482,OpenStack运维指南,5,11800,TomFifield DianeFleming AnneGentle LorinHochstein JonathanProulx EverettToews JoeTopjian(作者),钱永超(译者) ,开源 云 openstack 大数据 云计算 ,2015/8/11,2015,69,276,黑白,上市销售
+700,http://www.ituring.com.cn/book/986,精彩绝伦的jQuery,14,11800,JakeRutter(作者),魏忠(译者) ,jQuery ,2012/5/29,2012,59,292,,暂时缺货
+924,http://www.ituring.com.cn/book/1865,统计学七支柱,5,11800,StephenM.Stigler(作者),,统计学 大数据 图灵新知 统计 ,2018/1/29,2018,39,129,单色,上市销售
+160,http://www.ituring.com.cn/book/1721,PHP快速参考手册,7,11700,"""曹化宇(作者)",,php mysql web-开发 独立电子书 ,2015/8/28,2015,,255,黑白,上市销售
+295,http://www.ituring.com.cn/book/1456,SEO教程：搜索引擎优化入门与进阶（第3版）,7,11700,吴泽欣(作者),,seo 搜索引擎优化 ,2014/6/30,2014,59,312,黑白,上市销售
+355,http://www.ituring.com.cn/book/791,IDAPro权威指南（第2版）,9,11700,ChrisEagle(作者),石华耀  段桂菊(译者) ,ida-pro ,2012/2/20,2012,89,506,,上市销售
+673,http://www.ituring.com.cn/book/1728,玩转无人机,13,11700,鲁道夫?乔巴尔(作者), 吴博(译者) ,科普 图灵新知 热门技术 无人机 ,2015/11/11,2015,59,184,彩色,上市销售
+520,http://www.ituring.com.cn/book/1029,精益开发实战：用看板管理大型项目,17,11600,HenrikKniberg(作者), 李祥青(译者) ,敏捷开发 精益 看板 scrum ,2012/9/10,2012,39,184,,暂时缺货
+628,http://www.ituring.com.cn/book/1760,码农&#183;ASwiftTour（第21期）,8,11600,图灵社区出品(作者),,移动开发 程序员 苹果 ios swift ,2015/11/18,2015,0,162,,上市销售
+234,http://www.ituring.com.cn/book/1454,Clojure经典实例,6,11500,LukeVanderHart RyanNeufeld(作者),王海鹏  徐宏宁(译者) ,Clojure ,2015/8/6,2015,95,424,黑白,上市销售
+392,http://www.ituring.com.cn/book/781,创设计：Abduzeedo灵感指南,9,11500,F;bioSasso abduzeedoteam(作者), 王军锋(译者) ,illustrator photoshop 创意 艺术 数字艺术 设计师 平面设计 设计 创设计：abduzeedo灵感指南 ,2012/2/17,2012,59,212,,暂时缺货
+616,http://www.ituring.com.cn/book/30,MongoDB权威指南,10,11500,,,数据库 nosql 云计算 mongodb o&#39;reilly ,2011/5/9,2011,39,192,,暂时缺货
+660,http://www.ituring.com.cn/book/2399,跟阿铭学Linux（第3版）,8,11500,李世明(作者),,,2017/7/20,2017,69,374,单色,上市销售
+683,http://www.ituring.com.cn/book/1429,通关！游戏设计之道（第2版）,9,11500,ScottRogers(作者), 孙懿  高济润(译者) ,游戏 游戏设计 ,2016/11/3,2016,99,432,,上市销售
+802,http://www.ituring.com.cn/book/2395,码农&#183;JustGo!（第27期）,5,11500,,,Go 语言 并发编程 码农 云平台 ,2017/5/10,2017,,,,上市销售
+852,http://www.ituring.com.cn/book/2031,数学也荒唐：20个脑洞大开的数学趣题,3,11500,[法]杰罗姆?科唐索(作者), 王烈(译者) ,,2017/8/24,2017,49,183,四色,上市销售
+860,http://www.ituring.com.cn/book/1670,C现代编程：集成开发环境、设计模式、极限编程、测试驱动开发、重构、持续集成,13,11500,[日]花井志生(作者),杨文轩(译者) ,C语言 现代编程 ,2016/4/8,2016,59,280,黑白,上市销售
+913,http://www.ituring.com.cn/book/1954,ReactNative应用开发实例解析,5,11500,AlexanderMcLeod PavloAksonov ArjunKomath AtticusWhite IsaacMadwed(作者), 林昊(译者) ,javascript web开发 前端 react-native ,2017/9/18,2017,45,151,单色,上市销售
+940,http://www.ituring.com.cn/book/1895,设计的细节：日本经典设计透析,4,11500,日经设计(作者), 甘菁菁(译者) ,设计 ,2016/11/21,2016,59,224,彩色,上市销售
+203,http://www.ituring.com.cn/book/1374,Scratch少儿趣味编程,12,11400,阿部和广(作者), 陶旭(译者) ,Scratch 少儿 ,2014/10/23,2014,59,156,彩色,上市销售
+287,http://www.ituring.com.cn/book/1394,逆向工程实战,9,11400,BruceDang AlexandreGaze EliasBachaalany SebastienJosse(作者),单业(译者) ,安全 逆向工程 ,2015/8/3,2015,59,292,黑白,上市销售
+716,http://www.ituring.com.cn/book/1672,游戏设计的236个技巧：游戏机制、关卡设计和镜头窍门,15,11400,大野功二(作者), 支鹏浩(译者) ,游戏 ,2015/11/10,2015,99,628,黑白,上市销售
+903,http://www.ituring.com.cn/book/2069,JavaScript编程精粹,1,11400,VedAntani(作者),门佳(译者) ,javascript web前端开发 ,2017/8/17,2017,39,170,单色,上市销售
+154,http://www.ituring.com.cn/book/1256,JavaScript编程实战,9,11300,[美]JonRaasch(作者),吴海星(译者) ,javascript ,2014/3/5,2014,59,320,黑白,上市销售
+447,http://www.ituring.com.cn/book/141,Scala程序设计：Java虚拟机多核编程实战,3,11300,VenkatSubramaniam(作者), 郑晔  李剑(译者) ,Java Scala jolt大奖 ,2010/8/5,2010,39,192,,暂时缺货
+476,http://www.ituring.com.cn/book/1679,Android基础教程（第4版）,5,11200,EdBurnette(作者),袁国忠(译者) ,移动开发 android ,2015/12/1,2015,49,188,黑白,上市销售
+671,http://www.ituring.com.cn/book/1157,结网@改变世界的互联网产品经理（修订版）,2,11200,王坚(作者),,产品经理 互联网 产品设计 ,2013/5/10,2013,69,248,彩色,上市销售
+174,http://www.ituring.com.cn/book/650,UNIX环境高级编程(第2版),9,11100,W.RichardStevens StephenA.Rago(作者), 尤晋元  张亚英  戚正伟(译者) ,操作系统 unix ,2006/5/10,2006,99,780,,上市销售
+813,http://www.ituring.com.cn/book/1891,DevOps实践指南,9,11100,GeneKim JezHumble PatrickDebois JohnWillis(作者),刘征 王磊 马博文 曾朝京(译者) ,管理 运维 devops 凤凰项目 ,2018/4/12,2018,89,300,单色,上市销售
+853,http://www.ituring.com.cn/book/1750,高性能Android应用开发,2,11100,DougSillars(作者), 王若兰  周丹红  夏恩龙  陈文超  李欣欣(译者) ,移动开发 android ,2016/10/21,2016,59,220,黑白,上市销售
+601,http://www.ituring.com.cn/book/1839,走近2050：注意力、互联网与人工智能,10,11000,"""集智俱乐部(作者)",,人工智能 机器学习 科普 互联网 游戏 共享经济 ,2016/6/21,2016,59,296,黑白,上市销售
+662,http://www.ituring.com.cn/book/1710,Hadoop应用架构,8,11000,MarkGrover TedMalaska JonathanSeidman GwenShapira(作者), 郭文超(译者) ,hadoop 大数据 ,2017/1/18,2017,69,278,单色,上市销售
+900,http://www.ituring.com.cn/book/2625,编程日历2018,7,11000,,,,2018/1/30,2018,,60,四色,上市销售
+215,http://www.ituring.com.cn/book/1637,WEB+DBPRESS中文版02,13,10900,[日]技术评论社(作者),,数据库 web前端 WEB+DB ,2015/6/18,2015,20,176,黑白,上市销售
+564,http://www.ituring.com.cn/book/1540,R语言入门与实践,5,10900,GarrettGrolemund(作者),冯凌秉(译者) ,大数据 统计 R语言 r 数据科学家 数据科学 ,2016/6/21,2016,59,232,黑白,上市销售
+834,http://www.ituring.com.cn/book/1749,修改软件的艺术：构建易维护代码的9条最佳实践,7,10900,DavidScottBernstein(作者), 李满庆(译者) ,程序设计 软件开发 持续交付 代码 敏捷 ,2017/10/16,2017,55,175,单色,上市销售
+892,http://www.ituring.com.cn/book/1899,Docker——容器与容器云（第2版）,10,10900,"""浙江大学SEL实验室(作者)",,云计算 kubernetes docker容器 ,2016/10/17,2016,89,472,,上市销售
+282,http://www.ituring.com.cn/book/1070,川流（科幻小说）,7,10800,"""吴英杰(作者)",,物理 多元宇宙 科幻小说 独立电子书 ,,,,,,上市销售
+475,http://www.ituring.com.cn/book/1599,精通Hadoop,14,10800,SandeepKaranth(作者),刘淼 唐觊隽 陈智威(译者) ,hadoop 大数据 数据分析 ,2016/1/4,2016,49,268,黑白,上市销售
+604,http://www.ituring.com.cn/book/1708,设计的教室,14,10800,佐藤好彦(作者), 支鹏浩(译者) ,设计 ,2016/5/13,2016,59,156,彩色,上市销售
+96,http://www.ituring.com.cn/book/1346,软件测试实战：微软技术专家经验总结,4,10700,史亮(作者),,软件测试 ,2014/3/12,2014,69,348,黑白,暂时缺货
+873,http://www.ituring.com.cn/book/1832,Swift基础教程（第2版）,3,10700,[美]BoisyG.Pitre(作者),袁国忠(译者) ,移动开发 ios swift ,2016/5/20,2016,49,256,黑白,上市销售
+129,http://www.ituring.com.cn/book/1681,Verilog-A/AMS系统设计与仿真,4,10600,"""吴顺珉(作者)",,电路设计 独立电子书 电路 Verilog-A/AMS 模拟和混合信号系统 ,2015/5/11,2015,,210,,上市销售
+275,http://www.ituring.com.cn/book/1149,咨询的奥秘（续）：咨询师的百宝箱,7,10600,GeraldM.Weinberg(作者),劳佳(译者) ,思考 思维 咨询 咨询的奥秘 ,2014/12/30,2014,35,260,黑白,上市销售
+280,http://www.ituring.com.cn/book/1377,不脑残科学,9,10600,PanSci泛科学网专栏作者群(作者),,科学 科普读物 生活 ,2014/5/12,2014,39,276,黑白,上市销售
+309,http://www.ituring.com.cn/book/1056,项目管理新思维：交互产业启示录,1,10600,NancyLyons MeghanWilker(作者), 刘云赟 金从军(译者) ,交互设计 项目管理 互联网 新思维 ,2014/12/22,2014,49,204,黑白,暂时缺货
+336,http://www.ituring.com.cn/book/771,计算机程序设计艺术卷4A：组合算法（一）（英文版）,12,10600,DonaldE.Knuth(作者),,组合算法 jolt大奖 ,2012/2/21,2012,129,900,,上市销售
+681,http://www.ituring.com.cn/book/2447,码农&#183;“安全”攻防术（第28期）,7,10600,,,安全 黑客攻防 电子书 码农 病毒 ,2017/7/14,2017,,,黑白,上市销售
+81,http://www.ituring.com.cn/book/1190,创业的智慧：世界顶级创业导师的洞见,2,10500,ThomasEisenmann(作者),俞月圆(译者) ,创业 精益创业 商业模式 ,2014/7/22,2014,69,356,黑白,上市销售
+131,http://www.ituring.com.cn/book/1197,精通Objective-C,2,10500,KeithLee(作者), 苏宝龙(译者) ,移动开发 objective-c ios开发 ,2015/1/21,2015,79,368,黑白,暂时缺货
+356,http://www.ituring.com.cn/book/1,写给程序员的Web设计书,7,10500,BrianHogan(作者), 吴珂(译者) ,设计 ,2011/9/5,2011,59,260,,暂时缺货
+391,http://www.ituring.com.cn/book/55,数学那些事儿：思想、发现、人物和历史,7,10500,WilliamDunham(作者), 冯速(译者) ,科普 数学史 ,2011/3/3,2011,39,328,,暂时缺货
+429,http://www.ituring.com.cn/book/140,数学沉思录：古今数学思想的发展与演变,7,10500,MarioLivio(作者), 黄征(译者) ,科普 数学 ,2010/8/5,2010,35,304,,暂时缺货
+634,http://www.ituring.com.cn/book/831,CSS3实用指南,10,10400,ZoeMickleyGillenwater(作者), 屈超  周志超(译者) ,css ,2012/3/7,2012,49,252,,暂时缺货
+682,http://www.ituring.com.cn/book/1547,数据挖掘与分析：概念与算法,4,10400,MohammedJ.Zaki WagnerMeiraJr.(作者), 吴诚堃(译者) ,数据挖掘 数据库 数据分析 ,2017/8/30,2017,129,505,单色,上市销售
+725,http://www.ituring.com.cn/book/1897,软件开发本质论：追求简约、体现价值、逐步构建,9,10400,RonJeffries(作者), 王凌云(译者) ,程序设计 软件工程 软件开发 极限编程 敏捷 ,2017/1/10,2017,39,160,彩色,上市销售
+754,http://www.ituring.com.cn/book/1446,以太网权威指南（第2版）,4,10400,CharlesE.Spurgeon JoannZimmerman(作者),蔡仁君(译者) ,计算机科学 网络 网络管理 以太网 网络技术 网络设计 ,2015/12/14,2015,89,360,黑白,上市销售
+874,http://www.ituring.com.cn/book/1917,代码之外的功夫：程序员精进之路,8,10400,GregoryT.Brown(作者), 李志(译者) ,程序设计 软件开发 优秀程序员 ,2018/4/4,2018,49,110,单色,上市销售
+224,http://www.ituring.com.cn/book/1466,2034（科幻小说）,7,10300,"""大胖(作者)",,未来 小说 科幻小说 独立电子书 ,2014/7/2,2014,,,,上市销售
+228,http://www.ituring.com.cn/book/1121,说服人要懂心理学,2,10300,SusanM.Weinschenk(作者),,心理学 脑科学 说服力 ,2013/12/30,2013,39,220,黑白,上市销售
+596,http://www.ituring.com.cn/book/762,JavaScript修炼之道,7,10300,ChristophePorteneuv(作者), 巩朋  张铁(译者) ,javascript 前端 ,2011/11/7,2011,29,132,,暂时缺货
+738,http://www.ituring.com.cn/book/865,LBS应用开发,11,10300,RichardFerraro MuratAktihanoglu(作者), 李丽(译者) ,android ios LBS 移动应用 mobile ,2012/11/6,2012,59,264,黑白,暂时缺货
+821,http://www.ituring.com.cn/book/1567,学习敏捷：构建高效团队,10,10300,AndrewStellman JenniferGreene(作者), 段志岩  郑思遥(译者) ,项目管理 软件开发 敏捷 ,2017/3/7,2017,79,308,黑白,上市销售
+880,http://www.ituring.com.cn/book/1904,码农&#183;走进设计（第25期）,7,10300,,,设计 码农 糟糕的设计 设计的元素 设计的原则 ,2016/10/18,2016,0,139,,上市销售
+891,http://www.ituring.com.cn/book/1942,Java测试驱动开发,1,10300,ViktorFarcic AlexGarcia(作者),袁国忠(译者) ,Java ,2017/8/17,2017,49,196,单色,上市销售
+902,http://www.ituring.com.cn/book/1775,Web安全开发指南,5,10300,[美]JohnPaulMueller(作者), 温正东(译者) ,web开发 安全 前端 ,2017/6/9,2017,69,272,黑白,上市销售
+945,http://www.ituring.com.cn/book/1933,明解Java,10,10300,柴田望洋(作者), 侯振龙(译者) ,Java ,2018/1/19,2018,99,483,双色,上市销售
+393,http://www.ituring.com.cn/book/3,软件项目成功之道,4,10200,JaredRichardson WilliamA.Gwaltney(作者), 苏金国  王少轩(译者) ,项目管理 软件开发 ,2011/8/15,2011,39,196,,暂时缺货
+461,http://www.ituring.com.cn/book/835,敏捷武士：看敏捷高手交付卓越软件,17,10200,JonathanRasmusson(作者),李忠利(译者) ,软件开发 敏捷开发 pragmatic ,2012/6/28,2012,45,185,,暂时缺货
+789,http://www.ituring.com.cn/book/1722,应用随机过程：概率模型导论（第11版）,7,10200,SheldonM.Ross(作者), 龚光鲁(译者) ,统计学 随机过程 概率论 数学 精算师 ,2016/4/15,2016,99,652,黑白,上市销售
+133,http://www.ituring.com.cn/book/1514,番茄工作法图解：简单易行的时间管理方法[软精装] ,4,10100,StaffanNoteberg(作者),大胖(译者) ,时间管理 ,2014/10/30,2014,39,172,彩色,上市销售
+242,http://www.ituring.com.cn/book/1269,SoftwareDesign中文版02,6,10100,【日】技术评论社(作者),,软件开发 software-design ,2014/7/1,2014,39,164,黑白,上市销售
+694,http://www.ituring.com.cn/book/1735,一个定理的诞生：我与菲尔茨奖的一千个日夜,17,10100,[法]塞德里克?维拉尼(作者), 马跃  杨苑艺(译者) ,图灵新知 科普数学 人物传记 数学物理学 ,2015/12/17,2015,39,244,黑白,上市销售
+34,http://www.ituring.com.cn/book/1616,Linux网络编程（第2版）,3,10000,宋敬彬(作者),,linux 网络编程 清华大学出版社 ,2014/2/1,2014,89,677,黑白,上市销售
+430,http://www.ituring.com.cn/book/1337,你不可不知的50个科学哲学知识,4,10000,［英］加雷思;索思韦尔（GarethSouthwell）(作者),,,,,,,黑白,正在翻译
+751,http://www.ituring.com.cn/book/1088,易用为王：改进产品设计的10个策略,3,10000,EricReiss(作者),李会丹  张杰(译者) ,交互设计 用户体验 可用性 ,2013/8/5,2013,59,280,彩色,暂时缺货
+256,http://www.ituring.com.cn/book/1585,正则表达式必知必会（修订版）,5,9900,【美】BenForta(作者), 杨涛等(译者) ,正则表达式 ,2014/12/31,2014,29,140,黑白,上市销售
+428,http://www.ituring.com.cn/book/10,项目经理应该知道的97件事,4,9900,BarbeeDavis(作者), 张科  焦亚超(译者) ,项目管理 o&#39;reilly ,2011/7/19,2011,39,240,,暂时缺货
+478,http://www.ituring.com.cn/book/905,OSGi实战,10,9900,RichardHall StuartMcCulloch KarlPauls(作者),郭庆  李守超 李楠  谢莹莹  张磊(译者) ,OSGi 面向模块开发 manning ,2012/12/24,2012,99,484,,暂时缺货
+321,http://www.ituring.com.cn/book/238,软件调试的艺术,5,9800,NormanMatloff PeterJaySalzman(作者),张云(译者) ,软件开发 软件调试 ,2009/11/11,2009,39,228,,暂时缺货
+670,http://www.ituring.com.cn/book/1562,Oracle编程艺术：深入理解数据库体系结构（第3版）,13,9800,ThomasKyte DarlKuhn(作者), 朱龙春  张宏伟  苗朋  陈刚(译者) ,oracle 云数据库 oracle-database-12c tom-kyte ,2016/5/3,2016,149,732,黑白,上市销售
+36,http://www.ituring.com.cn/book/915,影响力：让网站内容打动访客,7,9700,ColleenJones(作者), 王一枝  张敏杰(译者) ,交互设计 用户体验 网站设计 ,2014/5/5,2014,49,244,,上市销售
+111,http://www.ituring.com.cn/book/983,面向模式的软件架构 卷1：模式系统（软件模式领域的“百科全书”式著作、“POSA”五卷开山之作 经典、权威、实用 软件开发从业人员学习和研究设计模式的必读之作）,10,9700,FrankBuschmann HansRohnert RegineMeunier PeterSommerlad MichaelStal(作者),袁国忠(译者) ,面向模式的软件架构 ,2013/10/12,2013,69,312,,上市销售
+198,http://www.ituring.com.cn/book/1299,Android系统服务开发,3,9700,金大佑 朴宰永 文炳元(作者), 邸春红(译者) ,android 韩语 硬件 ,2015/3/12,2015,139,424,彩色,暂时缺货
+219,http://www.ituring.com.cn/book/1297,产品经理必知必会,3,9700,KristoferLayon(作者), 雷雨(译者) ,产品经理 产品管理 ,2014/12/1,2014,39,168,黑白,上市销售
+324,http://www.ituring.com.cn/book/1669,项目百态：软件项目管理面面观（修订版）,7,9700,TomDemarco PeterHruschka TimLister SteveMcMenamin JamesRobertson SuzanneRobertson(作者), 余晟  金明(译者) ,软件项目管理 项目百态 ,2015/6/2,2015,49,207,黑白,上市销售
+482,http://www.ituring.com.cn/book/734,苹果狂潮：iPhone开启永远在线的时代,9,9700,BrianX.Chen(作者), 苏健(译者) ,苹果公司 iphone ,2012/4/9,2012,39,184,,暂时缺货
+731,http://www.ituring.com.cn/book/1161,洞悉数据：用可视化方法发掘数据真义,14,9700,HunterWhitney(作者), 刘云涛(译者) ,数据可视化 数据分析 ,2016/2/18,2016,69,296,黑白,上市销售
+898,http://www.ituring.com.cn/book/2434,区块链技术进阶与实战,10,9700,蔡亮 李启雷 梁秀波(作者),,,2018/4/4,2018,69,286,单色,上市销售
+41,http://www.ituring.com.cn/book/1458,Clojure编程乐趣,2,9600,MichaelFogus ChrisHouser(作者), 郑晔(译者) ,lisp Clojure ,2013/11/1,2013,59,340,黑白,上市销售
+166,http://www.ituring.com.cn/book/1515,数学与生活（修订版）,11,9600,远山启(作者), 吕砚山  李诵雪  马杰  莫德举(译者) ,数学 图灵新知 ,2014/10/27,2014,42,420,黑白,上市销售
+518,http://www.ituring.com.cn/book/970,云端代码：GoogleAppEngine编程指南,11,9600,MarkC.Chu-Carroll(作者), 管雪涛  刘姝(译者) ,python 云计算 gae ,2012/12/24,2012,45,224,黑白,暂时缺货
+650,http://www.ituring.com.cn/book/1551,写给大家看的设计书（第4版）[精装版],7,9600,RobinWilliams(作者), 苏金国 李盼(译者) ,艺术 平面设计 设计 写给大家看的设计书 ,2015/11/17,2015,79,252,彩色,上市销售
+976,http://www.ituring.com.cn/book/1994,算法小时代：从数学到生活的历变,9,9600,[法]瑟格;阿比特博吉尔;多维克(作者), 任轶(译者) ,,2017/11/7,2017,39,192,单色,上市销售
+1062,http://www.ituring.com.cn/book/1921,"深度学习入门：基于Python的理论与实现<spanstyle=""color:red;"">[预售]</span>",13,9600,斋藤康毅(作者), 陆宇杰(译者) ,python 人工智能 机器学习 深度学习 ,,,59,308,单色,正在排版
+28,http://www.ituring.com.cn/book/1162,概率论及其应用（卷1?第3版）,6,9500,WilliamFeller(作者), 胡迪鹤(译者) ,概率论 数学 ,2013/12/26,2013,69,408,黑白,上市销售
+233,http://www.ituring.com.cn/book/1224,平面宇宙：与二维世界的一次亲密接触,14,9500,［美］A.K.杜德尼(作者), 于娟娟(译者) ,科普 图灵新知 科幻 ,2015/6/15,2015,35,284,黑白,暂时缺货
+338,http://www.ituring.com.cn/book/124,你不可不知的50个数学知识,7,9500,TonyCrilly(作者), 王悦(译者) ,科普 数学 ,2010/9/6,2010,29,216,,上市销售
+542,http://www.ituring.com.cn/book/70,门后的秘密：卓越管理的故事,7,9500,JohannaRothmann EstherDerby(作者), 于梦瑄(译者) ,项目管理 软件开发 ,2010/12/27,2010,29,180,,暂时缺货
+726,http://www.ituring.com.cn/book/1836,客户端存储技术,6,9500,RaymondCamden(作者), 马德奎(译者) ,web开发 前端 数据处理 客户端存储 ,2017/3/20,2017,39,104,黑白,上市销售
+805,http://www.ituring.com.cn/book/1783,Cocos2d-JS游戏开发,6,9500,"""凌建风(作者)",,游戏 cocos2d ,2016/5/23,2016,69,348,黑白,上市销售
+446,http://www.ituring.com.cn/book/12,深入PHP：面向对象、模式与实践（第3版）,4,9400,MattZandstra(作者), 陈浩  吴孙滨  胡丹  李静(译者) ,php 软件开发 ,2011/7/18,2011,69,464,,上市销售
+462,http://www.ituring.com.cn/book/749,SAP实施大全,0,9400,CharlesD.Nilson SachinKakade TimRhodes AndreasJenzer BryanKing JeffDavis ParagDoshi VeeruMehta HeatherHillary GeorgeW.Anderson(作者), 王丹  段大为(译者) ,sap erp ,2012/4/12,2012,119,644,,暂时缺货
+488,http://www.ituring.com.cn/book/403,Erlang程序设计,2,9400,JoeArmstrong(作者), 赵东炜  金尹(译者) ,程序设计 Erlang ,2008/10/31,2008,79,444,,暂时缺货
+575,http://www.ituring.com.cn/book/1978,像计算机科学家一样思考（Java版）,4,9400,AllenB.Downey(作者),,Java ,2012/6/15,2012,,,,上市销售
+722,http://www.ituring.com.cn/book/1973,精通iOS开发（第8版）,9,9400,MollyMaskrey KimTopley DavidMark FredrikOlsson JeffLaMarche(作者),周庆成(译者) ,移动开发 ios ,2017/7/13,2017,119,561,单色,上市销售
+740,http://www.ituring.com.cn/book/2053,时间旅行简史,10,9400,［美］詹姆斯?格雷克(作者),楼伟珊(译者) ,图灵新知 天文 科普 ,2017/10/26,2017,49,334,单色,上市销售
+163,http://www.ituring.com.cn/book/1529,程序员思维修炼（修订版）,5,9300,AndyHunt(作者), 崔康(译者) ,程序员 思维 职业素养 程序开发 ,2014/12/10,2014,49,228,黑白,上市销售
+225,http://www.ituring.com.cn/book/1273,CCNA学习指南：路由和交换认证（100-101 200-101 200-120）【思科认证红宝书】,4,9300,ToddLammle(作者),,CCNA 思科认证 路由和交换认证 考试指南 ,2014/5/15,2014,129,776,,暂时缺货
+509,http://www.ituring.com.cn/book/1727,数据化管理的组织,4,9300,CarlAnderson(作者), 张奎(译者) ,管理 数据分析 企业管理 ,,,,302,,正在编辑
+639,http://www.ituring.com.cn/book/1370,小波十讲,4,9300,IngridDaubechies(作者),贾洪峰(译者) ,数学 小波 工程数学 ,2017/1/20,2017,79,356,黑白,上市销售
+663,http://www.ituring.com.cn/book/1837,Meteor实战,4,9300,StephanHochhaus ManuelSchoebel(作者), 杨学辉(译者) ,web开发 前端 框架 全栈 Metor ,2017/3/28,2017,69,300,黑白,上市销售
+40,http://www.ituring.com.cn/book/1518,ARM嵌入式Linux系统开发详解（第2版）,3,9200,弓雷(作者),,linux 嵌入式 系统开发 arm 清华大学出版社 ,2014/1/31,2014,69,466,黑白,上市销售
+301,http://www.ituring.com.cn/book/232,SEO教程：搜索引擎优化入门与进阶（第2版）,3,9200,吴泽欣(作者),,web编程与设计 网络营销 seo ,2009/11/30,2009,49,292,,暂时缺货
+312,http://www.ituring.com.cn/book/1241,图解CIO工作指南（第4版）,7,9200,野村综合研究所(作者),周自恒  李智慧(译者) ,CIO 首席信息官 ,2014/3/28,2014,39,292,黑白,上市销售
+817,http://www.ituring.com.cn/book/2431,Keras图像深度学习实战,3,9200,"""侯宜军(作者)",,机器学习 神经网络 图像处理 独立电子书 深度学习 tensorflow Theano keras ,2017/6/23,2017,,,四色,上市销售
+409,http://www.ituring.com.cn/book/1243,WindowsAPI开发详解——函数、接口、编程实例,1,9100,范文庆 周彬彬 安靖(作者),,windows操作系统 windows-api windows-shell ,2011/3/1,2011,79,622,黑白,上市销售
+627,http://www.ituring.com.cn/book/1788,码农增刊&#183;硅谷之火,7,9100,图灵社区出品(作者),,创业 程序员 硅谷 码农 ,2015/12/22,2015,,203,,上市销售
+767,http://www.ituring.com.cn/book/1490,精通Metasploit渗透测试,4,9100,NipunJaswal(作者), 李华峰(译者) ,安全 渗透测试 metasploit ,2016/5/31,2016,59,292,黑白,暂时缺货
+777,http://www.ituring.com.cn/book/1913,同构JavaScript应用开发,8,9100,JasonStrimpel MaximeNajim(作者),张俊达(译者) ,javascript 前端 ,2017/10/19,2017,49,159,单色,上市销售
+783,http://www.ituring.com.cn/book/1969,物理是什么,7,9100,朝永振一郎(作者),周自恒(译者) ,科普 物理 ,2017/5/16,2017,49,278,黑白,上市销售
+414,http://www.ituring.com.cn/book/305,瞬间之美：Web界面设计如何让用户心动,9,9000,RobertHoekmanJr.(作者), 向怡宁(译者) ,用户体验 网站设计 设计 代码外的 ,2009/7/20,2009,45,244,,上市销售
+597,http://www.ituring.com.cn/book/28,云计算核心技术剖析,4,9000,"""吴朱华(作者)",,云计算 yuntable ,2011/5/16,2011,49,300,,暂时缺货
+6,http://www.ituring.com.cn/book/1885,图解深度学习,10,8900,山下隆义(作者), 张弥(译者) ,神经网络 图解 深度学习 ,2018/5/21,2018,59,206,四色,上市销售
+649,http://www.ituring.com.cn/book/1255,图解OpenFlow,6,8900,晃通 宫永直树 岩田淳(作者), 李战军  薛文玲(译者) ,图解 openflow ,2015/12/21,2015,49,232,黑白,上市销售
+951,http://www.ituring.com.cn/book/2439,LinuxShell脚本攻略（第3版）,6,8900,ClifFlynt SarathLakshman ShantanuTushar(作者),门佳(译者) ,,2018/3/26,2018,89,386,单色,上市销售
+185,http://www.ituring.com.cn/book/1375,大话重构,8,8800,"""范钢(作者)",,重构 ,2014/4/5,2014,45,268,黑白,上市销售
+273,http://www.ituring.com.cn/book/1104,软件随想录卷1,13,8800,JoelSpolsky(作者), 杨帆(译者) ,项目管理 软件开发 文集 joel-spolsky jolt大奖 ,2015/4/20,2015,49,284,黑白,上市销售
+359,http://www.ituring.com.cn/book/260,Linux命令速查手册,6,8800,ScottGranneman(作者), 成保栋  李保强(译者) ,操作系统 linux unix ,2009/9/29,2009,29,336,,暂时缺货
+396,http://www.ituring.com.cn/book/271,软件开发沉思录：ThoughtWorks文集,2,8800,ThoughtWorksInc.(作者), ThoughtWorks中国公司(译者) ,软件开发 文集 thoughtworks ,2009/9/12,2009,39,180,,暂时缺货
+806,http://www.ituring.com.cn/book/1802,高可用架构&#183;Docker实战（第1期）,7,8800,高可用架构(作者),,程序员 架构 docker 容器 高可用架构 ,2016/1/13,2016,,102,,上市销售
+912,http://www.ituring.com.cn/book/1325,物理奇遇记,9,8800,乔治;伽莫夫(作者),,图灵新知 物理 经典读物 少儿科普 ,2018/1/29,2018,39,207,单色,上市销售
+101,http://www.ituring.com.cn/book/1296,创意型领袖：从CEO到DEO,3,8700,MariaGiudice ChristopherIreland(作者), 王沛(译者) ,管理 ceo deo ,2014/12/11,2014,39,213,黑白,上市销售
+540,http://www.ituring.com.cn/book/1045,大道至易：实践者的思想,11,8700,"""周爱民(作者)",,软件工程 ,2012/6/20,2012,69,400,,暂时缺货
+862,http://www.ituring.com.cn/book/2598,码农&#183;人工智能小谈（第32期）,7,8700,,,人工智能 阿兰-图灵 码农 商业智能 机器人 注意力 ,2017/12/19,2017,,115,黑白,上市销售
+890,http://www.ituring.com.cn/book/2427,Etcd源码解析,3,8700,"""侯宜军(作者)",,大数据 独立电子书 zookeeper etcd ,2017/6/14,2017,,,四色,上市销售
+212,http://www.ituring.com.cn/book/196,系统程序员成长计划,4,8600,李先静(作者),,程序设计 ,2010/3/29,2010,45,280,,暂时缺货
+791,http://www.ituring.com.cn/book/1467,深入理解MariaDB与MySQL,5,8600,李成旭(作者),武传海(译者) ,mysql mariadb 韩语 ,2015/12/11,2015,89,456,黑白,上市销售
+66,http://www.ituring.com.cn/book/1302,物联网设计：从原型到产品,7,8500,AdrianMcEwen HakimCassimally(作者),张崇明(译者) ,物联网 智能硬件 ,2014/12/16,2014,69,300,黑白,上市销售
+145,http://www.ituring.com.cn/book/1504,图解基础设施设计模式,6,8500,[日]NTTDATA集团(作者),杨文轩(译者) ,设计模式 基础设施 infra ,2015/5/8,2015,59,236,黑白,上市销售
+335,http://www.ituring.com.cn/book/47,写给大家看的项目管理书（第2版）,1,8500,GregoryM.Horine(作者), 陈彦辛(译者) ,项目管理 ,2011/3/23,2011,45,272,,暂时缺货
+797,http://www.ituring.com.cn/book/1958,macOS软件安全与逆向分析,6,8500,丰生强 邢俊杰(作者),,逆向工程 mac 逆向分析 软件安全 软件安全与逆向分析 macos ,2017/7/1,2017,79,472,黑白,上市销售
+886,http://www.ituring.com.cn/book/2420,TensorFlow深度学习,5,8500,[意]GiancarloZaccone [孟加拉]Md.RezaulKarim [埃及]AhmedMenshawy(作者), 李志(译者) ,每周特价 ,2018/4/4,2018,49,227,单色,上市销售
+956,http://www.ituring.com.cn/book/2456,PyTorch深度学习实战,3,8500,"""侯宜军(作者)",,神经网络 独立电子书 深度学习 PyTorch ,2017/7/28,2017,,,黑白,上市销售
+175,http://www.ituring.com.cn/book/1431,写给大家看的项目管理书（第3版）,8,8400,GregoryM.Horine(作者), 王明发(译者) ,项目管理 ,2015/10/15,2015,59,276,黑白,上市销售
+178,http://www.ituring.com.cn/book/1358,ExtJS实战（第2版）,3,8400,JesusGarcia GrgurGrisogono JacobK.Andresen(作者),卢雄飞  田雷鹏 郜忠富(译者) ,extjs javascript框架 ext-js ,2015/8/17,2015,79,360,黑白,上市销售
+438,http://www.ituring.com.cn/book/1437,希格斯粒子是如何找到的：史上最大物理实验的内部故事,6,8400,［英］乔恩;巴特沃思（JonButterworth）(作者), 黄日俊(译者) ,科普 粒子物理 ,2015/12/10,2015,39,,黑白,上市销售
+444,http://www.ituring.com.cn/book/59,项目百态：深入理解软件项目行为模式,5,8400,TomDemarco PeterHruschka TimLister SuzanneRobertson JamesRobertson SteveMcMenamin(作者), 金明(译者) ,项目管理 软件开发 模式 jolt大奖 ,2011/2/28,2011,39,224,,暂时缺货
+560,http://www.ituring.com.cn/book/71,ActionScript大型网页游戏开发,2,8400,,,flash actionscript 游戏 ,2010/12/27,2010,45,240,,暂时缺货
+360,http://www.ituring.com.cn/book/1365,EECS应用概率论,10,8300,JeanWalrand(作者), 黄隆波(译者) ,概率论 ,2015/9/30,2015,69,288,黑白,上市销售
+385,http://www.ituring.com.cn/book/1502,HelloKitty的秘密,5,8300,（美）肯;贝尔森布莱恩;布莱纳(作者), 周亚南(译者) ,,2014/11/10,2014,48,296,黑白,暂时缺货
+492,http://www.ituring.com.cn/book/1013,你不可不知的50个天文知识,3,8300,JoanneBaker(作者), 杨硕  刘吉熙(译者) ,科普 天文学 ,2013/9/16,2013,32,222,,上市销售
+545,http://www.ituring.com.cn/book/166,你不可不知的50个物理知识,3,8300,JoanneBaker(作者), 马潇潇(译者) ,科普 物理 ,2010/6/13,2010,29,222,,上市销售
+674,http://www.ituring.com.cn/book/1617,ASP.NETMVC4开发指南,1,8300,黄保翕(作者),,开发 asp 清华大学出版社 ,2013/7/1,2013,59,452,黑白,上市销售
+744,http://www.ituring.com.cn/book/1765,R语言与数据分析实战,6,8300,徐珉久(作者),武传海(译者) ,机器学习 数据挖掘 R语言 数据分析 韩语 ,2017/1/9,2017,89,476,黑白,上市销售
+871,http://www.ituring.com.cn/book/1787,AndroidLauncher应用开发,3,8300,张泳 葛丽娜(作者),,移动开发 android Android桌面 Launcher ,2016/7/11,2016,69,376,黑白,上市销售
+973,http://www.ituring.com.cn/book/1943,CSS重构：样式表性能调优,6,8300,SteveLindstrom(作者), 杜春晓 司韦韦(译者) ,程序设计 css 前端 ,2017/11/7,2017,39,120,单色,上市销售
+47,http://www.ituring.com.cn/book/1524,Linux驱动开发入门与实战（第2版）,1,8200,郑强(作者),,linux 驱动 清华大学出版社 ,2014/1/31,2014,69,449,黑白,上市销售
+49,http://www.ituring.com.cn/book/1340,iOS编程实战,4,8200,,美团移动(译者),ios开发 ,2014/9/15,2014,79,408,黑白,上市销售
+590,http://www.ituring.com.cn/book/884,小圈子?大社交,6,8200,PaulAdams(作者), 王志慧(译者) ,网络营销 社交网络 设计心理学 ,2012/12/5,2012,29,172,双色,暂时缺货
+621,http://www.ituring.com.cn/book/1696,社会工程：防范钓鱼欺诈（卷3）,6,8200,[美]ChristopherHadnagy [美]MicheleFincher(作者), 肖诗尧(译者) ,信息安全 web安全 社会工程 ,2016/9/28,2016,49,172,单色,上市销售
+629,http://www.ituring.com.cn/book/1368,Cucumber：行为驱动开发指南,7,8200,MattWynne AslakHelles;y(作者),许晓斌  王江平(译者) ,cucumber ,2013/7/1,2013,59,286,黑白,上市销售
+758,http://www.ituring.com.cn/book/1835,深入理解SVG,2,8200,AmeliaBellamy-Royds(作者),,svg ,2017/10/23,2017,69,236,四色,上市销售
+121,http://www.ituring.com.cn/book/1164,运算放大器权威指南（第4版）,2,8100,BruceCarter(作者), 孙宗晓(译者) ,电子电气 运算放大器 ,2014/5/26,2014,59,236,黑白,上市销售
+130,http://www.ituring.com.cn/book/1386,证明达尔文：进化和生物创造性的一个数学理论,7,8100,［美］格雷戈里;蔡汀（GregoryChaitin）(作者), 陈鹏译刘钢审校(译者) ,数学 达尔文 生物进化 ai-ebook ,2014/12/10,2014,29,132,黑白,上市销售
+153,http://www.ituring.com.cn/book/1212,2013图灵图书目录,10,8100,图灵编辑部(作者),,图灵书目 图灵目录 ,2013/12/1,2013,,93,彩色,上市销售
+180,http://www.ituring.com.cn/book/1673,移动互联网的秘密,5,8100,"""程慧(作者)",,移动互联网 独立电子书 ,2015/4/28,2015,,190,,上市销售
+659,http://www.ituring.com.cn/book/38,身边的电子学：36个有趣的电子小实验,7,8100,CharlesPlatt(作者), 尹华杰  王莲(译者) ,diy 电子实验 o&#39;reilly ,2011/4/18,2011,79,452,,暂时缺货
+30,http://www.ituring.com.cn/book/1615,Linux系统移植（第2版）,0,8000,刘刚 赵剑川(作者),,linux 清华大学出版社 系统移植 ,2014/2/1,2014,69,486,,上市销售
+76,http://www.ituring.com.cn/book/1376,超弦理论：探究时间、空间及宇宙的本原,8,8000,大栗博司(作者), 逸宁(译者) ,图灵新知 物理 量子物理 超弦理论 弦理论 ,2014/12/16,2014,39,308,黑白,上市销售
+340,http://www.ituring.com.cn/book/255,项目管理修炼之道,7,8000,JohannaRothman(作者), 郑柯(译者) ,软件工程 软件项目管理 jolt大奖 ,2009/10/12,2009,49,280,,暂时缺货
+80,http://www.ituring.com.cn/book/1179,你不可不知的50个脑科学知识,7,7900,MohebCostandi(作者),邢妍(译者) ,科普 脑科学 ,2014/5/4,2014,32,222,黑白,暂时缺货
+205,http://www.ituring.com.cn/book/1244,深入理解Oracle12c数据库管理（第2版）,2,7900,DarlKuhn(作者), 苏宝龙(译者) ,数据库 oracle ,2014/7/3,2014,119,672,黑白,上市销售
+252,http://www.ituring.com.cn/book/1622,数学分析八讲（修订版）,12,7900,［苏］А.Я.辛钦(作者), 王会林  齐民友(译者) ,,2015/8/6,2015,29,184,黑白,上市销售
+58,http://www.ituring.com.cn/book/1069,精通开关电源设计（第2版）,5,7800,SanjayaManiktala(作者), 王健强(译者) ,开关电源 电子学 ,2014/11/10,2014,99,524,,上市销售
+344,http://www.ituring.com.cn/book/1457,Android恶意代码分析与渗透测试,5,7800,赵涏元等(作者),金圣武(译者) ,韩语 渗透测试 恶意代码 Android移动 ,2015/7/27,2015,79,364,黑白,上市销售
+412,http://www.ituring.com.cn/book/136,我编程 我快乐：程序员职业规划之道,6,7800,ChadFowler(作者), 于梦瑄(译者) ,程序员 职业规划 职业素养 ,2010/8/9,2010,39,224,,暂时缺货
+485,http://www.ituring.com.cn/book/18,误区：思维中常犯的6个基本错误,6,7800,ThomasE.Kida(作者),张云(译者) ,科普 心理学 认知 思维 纪念图灵 ,2011/6/21,2011,32,272,,暂时缺货
+496,http://www.ituring.com.cn/book/1726,庞加莱猜想：追寻宇宙的形状,11,7800,春日真人(作者), 孙庆媛(译者) ,数学 ,2015/11/30,2015,39,232,双色,上市销售
+914,http://www.ituring.com.cn/book/1862,大师谈游戏设计：创意与节奏,5,7800,吉泽秀雄(作者), 支鹏浩(译者) ,游戏 游戏设计 ,2017/6/3,2017,39,244,,上市销售
+216,http://www.ituring.com.cn/book/1557,优秀的叛逆者：引领组织变革的力量,6,7700,LoisKelly CarmenMedina(作者),田恬(译者) ,it人文 ,2015/8/11,2015,39,228,黑白,上市销售
+471,http://www.ituring.com.cn/book/1561,大数据：互联网大规模数据挖掘与分布式处理（第2版）,4,7700,JureLeskovec AnandRajaraman JeffreyDavidUllman(作者), 王斌(译者) ,数据挖掘 大数据 分布式 ,2015/7/13,2015,79,388,黑白,上市销售
+505,http://www.ituring.com.cn/book/21,ASP.NET4高级程序设计（第4版）,4,7700,MatthewMacDonald AdamFreeman MarioSzpuszta(作者), 博思工作室(译者) ,asp.net 程序设计 ,2011/6/8,2011,148,1164,,暂时缺货
+525,http://www.ituring.com.cn/book/22,Android基础教程（第3版修订版）,2,7700,EdBurnette(作者), 张波  田俊静  黄湘情(译者) ,移动开发 android ,2011/6/8,2011,43,244,,暂时缺货
+579,http://www.ituring.com.cn/book/25,写给大家看的PPT设计书,1,7700,RobinWilliams(作者), 卢秀丽  张哲(译者) ,ppt ,2011/6/1,2011,39,164,,暂时缺货
+732,http://www.ituring.com.cn/book/1041,电子电气工程师必知必会（第3版）,2,7700,DarrenAshby(作者), 尹华杰(译者) ,,2013/8/7,2013,45,304,,上市销售
+836,http://www.ituring.com.cn/book/1777,R图形化数据分析,2,7700,JohnJayHilfiger(作者), 王洋洋(译者) ,数据库 数据可视化 数据分析 r ,2017/8/24,2017,69,238,单色,上市销售
+4,http://www.ituring.com.cn/book/1822,陶哲轩实分析（第3版）,7,7600,陶哲轩(TerenceTao)(作者),,统计学 数学 陶哲轩 实分析 ,2018/5/22,2018,99,443,单色,上市销售
+239,http://www.ituring.com.cn/book/964,深入剖析Android开发：小应用里的大智慧,3,7600,张泳 葛丽娜(作者),,android ,2014/8/12,2014,69,396,,上市销售
+425,http://www.ituring.com.cn/book/1343,写给大家看的色彩书2——色彩怎么选 设计怎么做,2,7600,梁景红（Relen）(作者),,色彩 ,2012/5/1,2012,59,231,彩色,上市销售
+443,http://www.ituring.com.cn/book/869,CCNA学习指南（640-802）（第7版）,6,7600,ToddLammle(作者), 徐宏 袁国忠(译者) ,CCNA Cisco技术 ,2012/4/13,2012,99,632,,上市销售
+240,http://www.ituring.com.cn/book/1512,高效程序员的45个习惯：敏捷开发修炼之道（修订版）,3,7500,VenkatSubramaniam AndyHunt(作者), 钱安川  郑柯(译者) ,敏捷开发 ,2014/10/10,2014,45,200,黑白,上市销售
+562,http://www.ituring.com.cn/book/24,软件调试修炼之道,4,7500,PaulButcher(作者), 曹玉琳(译者) ,软件调试 ,2011/6/1,2011,32,168,,暂时缺货
+581,http://www.ituring.com.cn/book/1662,软件设计重构,8,7500,GirishSuryanarayana GaneshSamarthyam TusharSharma(作者),袁国忠(译者) ,程序设计 重构 ,2016/8/22,2016,59,224,黑白,上市销售
+582,http://www.ituring.com.cn/book/1610,Docker基础与实战,5,7500,李在弘(作者),武传海(译者) ,韩语 docker ,2016/6/21,2016,69,302,黑白,上市销售
+763,http://www.ituring.com.cn/book/1928,追踪引力波：寻找时空的涟漪,6,7500,皮埃尔?比奈托利(作者), 叶欣欣(译者) ,图灵新知 天文学 物理 科普读物 引力波 ,2017/3/20,2017,49,212,黑白,上市销售
+827,http://www.ituring.com.cn/book/1624,防线：企业Linux安全运维理念和实战,0,7500,李洋(作者),,linux 安全 清华大学出版社 ,2013/8/1,2013,79,604,黑白,上市销售
+906,http://www.ituring.com.cn/book/1953,2017图灵图书目录,9,7500,,,,2017/2/16,2017,0,64,彩色,上市销售
+594,http://www.ituring.com.cn/book/1028,2012图灵图书目录,2,7400,,,图灵书目 图灵目录 ,2012/3/13,2012,,,,上市销售
+794,http://www.ituring.com.cn/book/1767,利用Python开源工具分析恶意代码,6,7400,赵涏元 崔祐硕 李导炅 郑智训(作者),武传海(译者) ,python 开源技术 韩语 恶意代码 ,2017/12/27,2017,99,482,单色,上市销售
+841,http://www.ituring.com.cn/book/1751,设计师要懂心理学2,5,7400,SusanM.Weinschenk(作者), 蒋文干(译者) ,交互设计 心理学 设计 认知 ui ux ,2016/7/14,2016,59,312,彩色,上市销售
+112,http://www.ituring.com.cn/book/1293,智取程序员面试,8,7300,EdwardGuiness(作者), 石宗尧(译者) ,程序员 ,2015/7/13,2015,59,314,黑白,上市销售
+144,http://www.ituring.com.cn/book/1630,MariaDB原理与实现,3,7300,张金鹏 张成远 季锡强(作者),,数据库 mariadb ,2015/3/24,2015,59,300,黑白,暂时缺货
+300,http://www.ituring.com.cn/book/1117,设计之美：如何准确传达丰富的信息,7,7300,JoelKatz(作者),,数据可视化 设计 信息可视化 信息设计 ,,,,,彩色,正在编辑
+426,http://www.ituring.com.cn/book/1251,精通COBOL—大型机商业编程技术详解（修订版）,0,7300,马千里(作者),,cobol 大型机 ,2011/3/1,2011,59,457,,上市销售
+503,http://www.ituring.com.cn/book/1577,研磨设计模式,4,7300,陈臣 王斌(作者),,设计模式 设计 清华大学出版社 ,2011/1/1,2011,89,783,黑白,上市销售
+528,http://www.ituring.com.cn/book/1234,嵌入式Linux应用开发完全手册,3,7300,韦东山(作者),,嵌入式linux ,2008/8/1,2008,69,592,,上市销售
+692,http://www.ituring.com.cn/book/1845,高可用架构&#183;高压下的演进（第6期）,2,7300,,,程序员 架构 并发 分布式 rpc ,2016/5/3,2016,,134,,上市销售
+695,http://www.ituring.com.cn/book/1541,社会媒体挖掘,3,7300,RezaZafarani MohammadAliAbbasi HuanLiu(作者), 刘挺  秦兵  赵妍妍(译者) ,数据挖掘 大数据 ,2015/11/10,2015,59,256,黑白,上市销售
+746,http://www.ituring.com.cn/book/2404,Zookeeper源码分析,3,7300,"""侯宜军(作者)",,hadoop 大数据 独立电子书 zookeeper ,2017/5/19,2017,,,四色,上市销售
+979,http://www.ituring.com.cn/book/1868,C++性能优化指南,4,7300,KurtGuntheroth(作者),杨文轩(译者) ,程序设计 c++ 性能优化 ,2018/1/2,2018,89,282,单色,上市销售
+196,http://www.ituring.com.cn/book/1628,家用游戏机简史,8,7200,前田寻之(作者),周自恒(译者) ,历史 游戏机 ,2015/6/18,2015,39,216,黑白,上市销售
+333,http://www.ituring.com.cn/book/1216,众妙之门：网站UI设计之道（修订版）,5,7200,SmashingMagazine(作者), 贾云龙  王士强(译者) ,网站设计 设计 ,2012/11/1,2012,39,261,彩色,上市销售
+711,http://www.ituring.com.cn/book/1804,高可用架构&#183;不一样的数据库（第2期）,7,7200,高可用架构(作者),,数据库 mysql nosql 程序员 高可用架构 ,2016/2/25,2016,,118,,上市销售
+743,http://www.ituring.com.cn/book/1889,匠心体验：智能手机与平板电脑的用户体验设计,5,7200,艾米丽?布歇(作者), 吴博(译者) ,交互设计 体验设计 移动终端 ,2016/10/27,2016,69,288,彩色,上市销售
+837,http://www.ituring.com.cn/book/1191,多设备体验设计：物联网时代产品开发模式,3,7200,MichalLevin(作者), 刘柏松(译者) ,交互设计 用户体验 产品开发 物联网 体验设计 多设备 ,2016/10/21,2016,59,224,黑白,上市销售
+875,http://www.ituring.com.cn/book/1866,Arduino技术指南,5,7200,JohnM.Hughes(作者),武传海(译者) ,Arduino 创客 ,2017/12/5,2017,129,487,单色,上市销售
+937,http://www.ituring.com.cn/book/1932,iOS开发指南：从HelloWorld到AppStore上架（第5版）,3,7200,,,移动开发 ios ,2017/6/1,2017,119,736,黑白,上市销售
+204,http://www.ituring.com.cn/book/1099,图解化学元素：探秘我们宇宙的构成单元,10,7100,JackChalloner(作者), 卜建华(译者) ,科普 图解 化学 化学元素 ,2014/4/4,2014,69,160,彩色,上市销售
+388,http://www.ituring.com.cn/book/1085,C程序设计伴侣——帮你更好地理解谭浩强老师的那本书以及更多！,4,7100,"""陈良乔(作者)",,谭浩强 C语言 ,2012/10/15,2012,49,332,黑白,上市销售
+583,http://www.ituring.com.cn/book/1781,从零开始学Swift,6,7100,"""关东升(作者)",,swift ,2016/3/21,2016,99,600,黑白,上市销售
+619,http://www.ituring.com.cn/book/1934,如何思考：东京大学思维素养访谈集,6,7100,东京大学EMP 横山祯德(作者), 逸宁(译者) ,科普 科学素养 东京大学 ,2017/4/6,2017,42,208,黑白,上市销售
+804,http://www.ituring.com.cn/book/1572,速度与激情：以网站性能提升用户体验,0,7100,LaraCallenderHogan(作者),赵望野 刘帅(译者) ,性能 设计 ,2016/9/12,2016,49,160,彩色,上市销售
+931,http://www.ituring.com.cn/book/1860,Scratch少儿趣味编程2,6,7100,阿部和广 仓本大资(作者), 陶旭  项远方(译者) ,,2017/4/10,2017,59,152,彩色,上市销售
+963,http://www.ituring.com.cn/book/2048,精通Metasploit渗透测试（第2版）,3,7100,NipunJaswal(作者), 李华峰(译者) ,,2017/11/10,2017,59,266,单色,上市销售
+263,http://www.ituring.com.cn/book/1475,交互设计的艺术：iOS7拟物化到扁平化革命,0,7000,"""赵大羽 ""关东升(作者)",,交互设计 ios 清华大学出版社 扁平化 ,2014/2/1,2014,79,317,,上市销售
+679,http://www.ituring.com.cn/book/1218,大话移动通信,1,7000,丁奇 阳桢(作者),,通信 移动通信 通信原理 ,2011/10/1,2011,45,304,黑白,上市销售
+766,http://www.ituring.com.cn/book/1676,精通Swift设计模式,4,7000,AdamFreeman(作者), 丘远乐(译者) ,移动开发 设计模式 swift ,2016/9/18,2016,89,456,黑白,上市销售
+889,http://www.ituring.com.cn/book/1795,交互的未来：物联网时代设计原则,5,7000,AmberCase(作者), 蒋文干  刘文仪  余声稳  王李(译者) ,交互设计 用户体验 ui ux 物联网 ,2017/9/25,2017,39,120,单色,上市销售
+943,http://www.ituring.com.cn/book/1990,Java虚拟机基础教程,3,7000,VincentvanderLeun(作者),袁国忠(译者) ,Java Scala Clojure kotlin 虚拟机 groovy jvm ,2018/3/29,2018,69,295,单色,上市销售
+209,http://www.ituring.com.cn/book/1060,情感与设计,5,6900,TrevorvanGorp EdieAdams(作者), 于娟娟(译者) ,设计 情感设计 ,2013/12/30,2013,69,204,彩色,暂时缺货
+506,http://www.ituring.com.cn/book/1338,只为拍张好照片——懒家伙的摄影入门书,3,6900,叶梓(作者),,摄影 ,2010/7/1,2010,40,157,彩色,上市销售
+513,http://www.ituring.com.cn/book/1784,强力与弱力：破解宇宙深层的隐匿魔法,10,6900,大栗博司(作者), 逸宁(译者) ,物理 理论物理 ,2016/5/18,2016,39,280,黑白,上市销售
+607,http://www.ituring.com.cn/book/1717,决策知识自动化：大数据时代的商业决策分析方法,3,6900,AlanN.Fish(作者), 王飞跃  王晓  郑心湖(译者) ,大数据 企业管理 决策自动化 知识自动化 ,2015/11/23,2015,49,180,黑白,上市销售
+787,http://www.ituring.com.cn/book/1544,精益企业：高效能组织如何规模化创新（（精益系列丛书 《精益创业》作者埃里克&#183;莱斯主编））,3,6900,JezHumble JoanneMolesky BarryO;Reilly(作者), 姚安峰  韩锴(译者) ,精益 精益企业 ,2016/1/18,2016,59,280,黑白,上市销售
+193,http://www.ituring.com.cn/book/1246,精通软件性能测试与LoadRunner实战,0,6800,于涌(作者),,软件测试 loadrunner 性能测试 ,2010/4/1,2010,69,580,黑白,上市销售
+349,http://www.ituring.com.cn/book/1336,单元测试的艺术（第2版）,7,6800,RoyOsherove(作者),金迎(译者) ,,2014/8/1,2014,59,244,黑白,上市销售
+410,http://www.ituring.com.cn/book/1235,精通QTP：自动化测试技术领航,1,6800,余杰 赵旭斌(作者),,软件测试 自动化测试 qtp ,2012/1/1,2012,69,538,,上市销售
+424,http://www.ituring.com.cn/book/1619,网站蓝图——AxureRP高保真网页原型制作,1,6800,吕皓月 杨长韬(作者),,清华大学出版社 axure-rp 原型设计 ,2012/7/1,2012,99,342,彩色,上市销售
+456,http://www.ituring.com.cn/book/1756,OpenStack部署实践（第2版）,3,6800,张子凡(作者),,云计算 openstack ,2015/12/2,2015,69,376,黑白,上市销售
+491,http://www.ituring.com.cn/book/1826,高可用架构&#183;LearningasweGo（第5期）,5,6800,,,编程语言 程序员 架构 Go ,2016/3/31,2016,0,111,,上市销售
+605,http://www.ituring.com.cn/book/859,游戏之巅：游戏背后的创业风云,7,6800,MorganRamsay(作者), 张玳(译者) ,创业 访谈 游戏 ,2013/5/22,2013,59,360,黑白,暂时缺货
+606,http://www.ituring.com.cn/book/1385,宇宙的历程,7,6800,［美］玛丽;伊夫琳;塔克（MaryEvelynTucker） ［美］布赖恩;托马斯;斯怀默（BrianThomasSwimme）(作者),楼伟珊(译者) ,科普 宇宙 ,2015/12/25,2015,39,176,黑白,上市销售
+664,http://www.ituring.com.cn/book/2413,SwiftiOS开发小书,2,6800,"""刘传君(作者)",,ios 独立电子书 swift ,2017/5/26,2017,,,四色,上市销售
+691,http://www.ituring.com.cn/book/899,风投的选择：谁是下一个十亿美元级公司,6,6800,TarangShah SheetalShah(作者),袁国忠(译者) ,访谈录 风险投资 ,2013/8/13,2013,69,352,黑白,上市销售
+745,http://www.ituring.com.cn/book/1908,数学万花筒（修订版）,4,6800,［英］伊恩;斯图尔特(作者),张云(译者) ,图灵新知 少儿科普 数学科普 ,2017/3/20,2017,39,312,黑白,上市销售
+842,http://www.ituring.com.cn/book/1327,我心爱的雷龙：一本写给大人的恐龙书,7,6800,［美］布赖恩;斯威特克（BrianSwitek）(作者), 邢立达  李锐媛(译者) ,,2016/9/8,2016,45,220,黑白,上市销售
+949,http://www.ituring.com.cn/book/1652,数据架构：大数据、数据仓库以及DataVault,2,6800,W.H.Inmon DanielLinstedt(作者),唐富年(译者) ,数据仓库 大数据 数据科学 ,2016/11/18,2016,69,292,黑白,上市销售
+971,http://www.ituring.com.cn/book/1723,稀疏统计学习及其应用,3,6800,TrevorHastie RobertTibshirani MartinWainwright(作者), 刘波  景鹏杰(译者) ,机器学习 统计方法 大数据 统计 ,2018/1/8,2018,89,300,单色,上市销售
+105,http://www.ituring.com.cn/book/1329,精通OracleSQL（第2版）【OracleACE与OakTable团队专家合力打造 实用典范】,4,6700,KarenMorton KerryOsborne RobynSands RiyajShamsudeen(作者),朱浩波(译者) ,,2014/4/25,2014,99,540,黑白,上市销售
+265,http://www.ituring.com.cn/book/116,计算机程序设计艺术卷2：半数值算法（英文版?第3版）,7,6700,DonaldE.Knuth(作者),,程序设计理论 计算机程序设计艺术 ,2010/10/14,2010,119,780,,上市销售
+809,http://www.ituring.com.cn/book/1492,iOS网络编程与云端应用最佳实践,0,6700,"""关东升(作者)",,网络编程 ios 清华大学出版社 ,2013/5/1,2013,69,404,黑白,上市销售
+899,http://www.ituring.com.cn/book/2589,码农&#183;打破“性能”瓶颈（第31期）,6,6700,,,用户体验 性能优化 性能 码农 ,2017/11/30,2017,,122,黑白,上市销售
+2,http://www.ituring.com.cn/book/2450,一个64位操作系统的设计与实现,19,6600,"""田宇(作者)",,,2018/5/31,2018,139,680,单色,上市销售
+201,http://www.ituring.com.cn/book/1603,.NET框架设计：模式、配置、工具,3,6600,王清培(作者),,.net 框架设计 ,2015/1/14,2015,49,216,黑白,上市销售
+249,http://www.ituring.com.cn/book/1725,引力是什么：支配宇宙万物的神秘之力,7,6600,大栗博司(作者), 逸宁(译者) ,图灵新知 量子力学 物理 超弦理论 ,2015/10/12,2015,39,292,黑白,上市销售
+354,http://www.ituring.com.cn/book/51,iPhone与iPad开发实战,0,6600,BrandonTrebitowski ChristopherAllen ShannonAppelcline(作者), 陈宝国  高伟  张波(译者) ,移动开发 iphone ipad manning ,2011/3/14,2011,69,348,,暂时缺货
+369,http://www.ituring.com.cn/book/1620,XilinxAllProgrammableZynq-7000SoC设计指南,1,6600,何宾(作者),,清华大学出版社 eda zynq xilinx ,2013/5/1,2013,79,566,黑白,上市销售
+599,http://www.ituring.com.cn/book/1688,R包开发,5,6600,HadleyWickham(作者), 杨学辉(译者) ,软件开发 R语言 r包 ,2016/8/22,2016,49,180,黑白,上市销售
+799,http://www.ituring.com.cn/book/1686,决胜UX：互联网产品用户体验策略,4,6600,JaimeLevy(作者), 胡越古(译者) ,交互设计 用户体验 ux 商业策略 用户体验策略 ux-strategy ,2016/10/24,2016,59,268,黑白,上市销售
+316,http://www.ituring.com.cn/book/46,网站搜索设计：兼顾SEO及可用性的网站设计心得,3,6500,ShariThurow NickMusica(作者), 向怡宁(译者) ,交互设计 用户体验 seo ,2011/3/28,2011,35,244,,暂时缺货
+357,http://www.ituring.com.cn/book/127,信息检索导论,3,6500,PrabhakarRaghavan HinrichSch&amp;#;tze ChristopherD.Manning(作者), 王斌(译者) ,人工智能 数据挖掘 ,2010/8/26,2010,69,388,,上市销售
+657,http://www.ituring.com.cn/book/112,测试驱动开发的艺术,8,6500,LasseKoskela(作者), 李贝(译者) ,软件工程 开发过程系列 manning ,2010/11/1,2010,59,348,,暂时缺货
+12,http://www.ituring.com.cn/book/2072,去中心化应用：区块链技术概述,5,6400,SirajRaval(作者),吴海星(译者) ,应用开发 比特币 ,2018/5/3,2018,39,107,单色,上市销售
+26,http://www.ituring.com.cn/book/1575,形式感+——网页视觉设计创意拓展与快速表现,0,6400,晋小彦(作者),,设计 清华大学出版社 ,2014/2/1,2014,59,243,彩色,上市销售
+45,http://www.ituring.com.cn/book/1118,数据压缩导论（第4版）,12,6400,KhalidSayood(作者),贾洪峰(译者) ,数据压缩 图像处理 ,2013/12/20,2013,129,564,黑白,暂时缺货
+156,http://www.ituring.com.cn/book/1576,Oracle云管理平台：企业管理器12c实战指南,0,6400,饶冰 裴征峰 高文博(作者),,数据库 oracle 清华大学出版社 ,2013/10/8,2013,49,256,黑白,上市销售
+241,http://www.ituring.com.cn/book/1380,硅谷百年史——伟大的科技创新与创业历程（1900-2013）,9,6400,阿伦?拉奥（ArunRao） 皮埃罗?斯加鲁菲（PieroScaruffi）(作者), 闫景立  侯爱华(译者) ,硅谷 计算机历史 ,2014/4/1,2014,99,560,黑白,上市销售
+283,http://www.ituring.com.cn/book/1219,大话无线通信,1,6400,丁奇(作者),,通信 通信原理 无线通信 ,2010/1/1,2010,45,348,黑白,上市销售
+508,http://www.ituring.com.cn/book/420,陶哲轩实分析,10,6400,陶哲轩(TerenceTao)(作者), 王昆扬(译者) ,分析 数学 ,2008/9/22,2008,69,476,,暂时缺货
+530,http://www.ituring.com.cn/book/1790,东京大学通识讲座：贯通篇,10,6400,东京大学教养学部(作者), 刘红曼(译者) ,科普 东京大学 ,2016/3/22,2016,42,256,黑白,上市销售
+546,http://www.ituring.com.cn/book/509,正则表达式必知必会,5,6400,BenForta(作者), 杨涛  杨晓云  王建桥(译者) ,程序设计 正则表达式 ,2007/12/15,2007,29,152,,暂时缺货
+702,http://www.ituring.com.cn/book/2448,实践说：如何开发亿级电商网站,0,6400,"""侯宜军(作者)",,mysql 网站开发 redis nginx 负载均衡 hbase 独立电子书 网站架构 日志 Storm 电商 消息队列 ,2017/7/14,2017,,,黑白,上市销售
+960,http://www.ituring.com.cn/book/2537,码农&#183;宇宙的故事（第29期）,4,6400,,,科普 宇宙 码农 ,2017/9/11,2017,,102,黑白,上市销售
+134,http://www.ituring.com.cn/book/1093,深入网站开发和运维,8,6300,MatthewSacks(作者),曾少宁(译者) ,devops 网站运维 ,2014/4/9,2014,35,178,黑白,暂时缺货
+431,http://www.ituring.com.cn/book/1217,大话通信：通信基础知识读本,2,6300,杨波 周亚宁(作者),,通信 通信原理 ,2009/5/1,2009,42,336,黑白,上市销售
+526,http://www.ituring.com.cn/book/158,Oracle优化日记：一个金牌DBA的故事,3,6300,徐戟(作者),,数据库 oracle 性能优化 日记 ,2010/6/24,2010,55,364,,暂时缺货
+11,http://www.ituring.com.cn/book/2012,高效算法：竞赛、应试与提高必修128例,4,6200,[法]ChristophD;rrJill-J;nnVie(作者),史世强(译者) ,,2018/5/3,2018,55,193,单色,上市销售
+345,http://www.ituring.com.cn/book/1461,Cocos2d-x3移动游戏编程,5,6200,印孜健(作者),武传海(译者) ,cocos2d-x 韩语 移动游戏开发 ,2015/3/3,2015,69,352,黑白,上市销售
+466,http://www.ituring.com.cn/book/143,历史上最伟大的10个方程,5,6200,RobertP.Crease(作者), 马潇潇(译者) ,科普 科技史 科学家 纪念图灵 ,2010/7/31,2010,29,264,黑白,暂时缺货
+864,http://www.ituring.com.cn/book/1600,Hadoop安全：大数据平台隐私保护,0,6200,BenSpivey JoeyEcheverria(作者), 赵双  白波(译者) ,hadoop 大数据 ,2017/10/9,2017,79,240,单色,上市销售
+400,http://www.ituring.com.cn/book/1685,精益招聘：打造最强悍创业团队,5,6100,张儆(作者),,互联网创业 招聘 精益创业 精益企业 hr ,2015/7/17,2015,49,280,黑白,上市销售
+637,http://www.ituring.com.cn/book/1579,大话存储Ⅱ——存储系统架构与底层原理极限剖析,2,6100,冬瓜头(作者),,网络存储 清华大学出版社 ,2011/5/1,2011,99,893,黑白,上市销售
+158,http://www.ituring.com.cn/book/1381,计算机简史（第三版）,6,6000,［英］马丁;坎贝尔-凯利（MartinCampbell-Kelly） ［美］威廉;阿斯普雷（WilliamAspray） ［美］内森;恩斯门格（NathanEnsmenger） ［美］杰弗里;R.约斯特（JeffreyR.Yost）(作者),,,,,,,黑白,正在翻译
+450,http://www.ituring.com.cn/book/1693,数学与音乐的创造力：捕捉未知与无形,7,6000,中岛幸子(作者), 黄晶晶(译者) ,数学 音乐 ,2015/9/9,2015,36,224,黑白,暂时缺货
+539,http://www.ituring.com.cn/book/843,金融时间序列分析（第3版）,3,6000,RueyS.Tsay(作者), 王远林  王辉  潘家柱(译者) ,时间序列分析 数理统计 金融学 ,2012/9/4,2012,85,540,,上市销售
+63,http://www.ituring.com.cn/book/1154,矩阵计算（英文版?第4版）,5,5900,GeneH.Golub CharlesF.VanLoan(作者),,矩阵计算 数学 ,2014/3/14,2014,99,772,黑白,上市销售
+73,http://www.ituring.com.cn/book/1155,逆袭大学——传给IT学子的正能量,9,5900,"""贺利坚(作者)",,逆袭大学 it学子成长指导 ,2014/3/13,2014,49,356,黑白,暂时缺货
+408,http://www.ituring.com.cn/book/1250,CiscoIPSecVPN实战指南,0,5900,秦柯(作者),,cisco ipsec-vpn ,2012/5/1,2012,55,334,黑白,上市销售
+600,http://www.ituring.com.cn/book/1611,未来的截面,6,5900,李在永(作者),武传海(译者) ,科普 图灵新知 无线通信 韩语 物联网 虚拟现实 3d打印 可穿戴设备 比特币 无人机 ,2016/9/28,2016,39,240,黑白,上市销售
+968,http://www.ituring.com.cn/book/1831,金桢勋的数学随笔,6,5900,金桢勋(作者),李阳(译者) ,科普 数学 图灵新知 韩语 ,2018/1/12,2018,59,193,四色,上市销售
+640,http://www.ituring.com.cn/book/1948,设计思维：东京大学思维素养访谈集2,4,5800,东京大学EMP 横山祯德(作者), 王庆(译者) ,科普 思维修炼 东京大学 ,2017/4/6,2017,42,192,黑白,上市销售
+644,http://www.ituring.com.cn/book/1738,日本电子产业兴衰录,8,5800,西村吉雄(作者),侯秀娟(译者) ,it产业 经济 日本经济 电子产业 ,2016/6/16,2016,39,272,黑白,上市销售
+678,http://www.ituring.com.cn/book/1289,出国不出国——北美金字塔教育的启示,2,5800,安妮鲜花(作者),,教育 出国 ,2012/6/1,2012,32,222,,上市销售
+749,http://www.ituring.com.cn/book/1465,Oracle性能诊断艺术（第2版）,5,5800,ChristianAntognini(作者), 王作佳刘迪(译者) ,数据库 oracle sql 性能优化 ,2016/5/31,2016,119,628,黑白,上市销售
+807,http://www.ituring.com.cn/book/1498,DB2设计、管理与性能优化艺术,0,5800,王飞鹏 李玉明 朱玉辉 王富国(作者),,数据库 db2 清华大学出版社 ,2013/8/1,2013,79,492,黑白,上市销售
+810,http://www.ituring.com.cn/book/1754,网站创富：从搭建、管理到营利,1,5800,月光博客(作者),,电子商务 seo 网站 站长 ,2015/12/11,2015,49,208,黑白,暂时缺货
+99,http://www.ituring.com.cn/book/1065,用户体验与可用性测试,4,5700,樽本徹也(作者),陈啸(译者) ,用户体验 可用性测试 ,2015/3/30,2015,42,252,黑白,上市销售
+907,http://www.ituring.com.cn/book/1951,从零开始学Swift（第2版）,3,5700,"""关东升(作者)",,ios开发 swift ,2017/4/14,2017,99,544,黑白,上市销售
+975,http://www.ituring.com.cn/book/1771,这样编码才规范：128个编码好习惯,6,5700,朴晋锈(作者),才璐(译者) ,编码 高效编程 韩语 ,2018/3/12,2018,45,298,单色,上市销售
+70,http://www.ituring.com.cn/book/1100,图解天文学：数字时代的观星和天文摄影指南,6,5600,PatrickMoore PeteLawrence(作者), 周详(译者) ,科普 天文学 图解 天文摄影 ,2014/7/25,2014,79,192,彩色,上市销售
+74,http://www.ituring.com.cn/book/1163,网页设计创意书（卷3）,3,5600,PatrickMcNeil(作者),石华耀(译者) ,效果实例 设计 ,2014/1/20,2014,49,288,彩色,暂时缺货
+104,http://www.ituring.com.cn/book/886,心理学达人迷,5,5600,［美］亚当?卡什(作者), 郝富强(译者) ,心理学 ,2014/11/3,2014,59,300,黑白,暂时缺货
+155,http://www.ituring.com.cn/book/1493,深入浅出：Windows8.1应用开发,0,5600,周家安(作者),,应用开发 windows-8.1 清华大学出版社 ,2014/1/1,2014,69,503,黑白,上市销售
+706,http://www.ituring.com.cn/book/1609,数学万花筒3：夏尔摩斯探案集,9,5600,［英］伊恩;斯图尔特(作者), 何生(译者) ,图灵新知 少儿科普 数学科普 ,2017/3/20,2017,39,320,黑白,上市销售
+729,http://www.ituring.com.cn/book/1574,精益品牌塑造,3,5600,[美]劳拉;布希(作者),谢婷婷(译者) ,创业 精益 产品开发 精益系列丛书 敏捷 品牌策划 品牌设计 ,2016/9/19,2016,69,249,单色,上市销售
+848,http://www.ituring.com.cn/book/2047,几何世界的邀请,11,5600,小平邦彦(KunihikoKodaira)(作者), 李慧慧(译者) ,,2017/12/20,2017,42,200,单色,上市销售
+948,http://www.ituring.com.cn/book/2026,精通开关电源（第3版&#183;修订版）,0,5600,KeithBillings TaylorMorey(作者), 张占松等(译者) ,电子电气 开关电源 ,2017/8/4,2017,119,628,黑白,上市销售
+969,http://www.ituring.com.cn/book/2630,Django基础教程,7,5600,LeifAzzopardi DavidMaxwell(作者),安道(译者) ,django 独立电子书 ,2018/3/16,2018,,243,黑白,上市销售
+39,http://www.ituring.com.cn/book/880,科学的历史：改变世界的100个重大发现,12,5500,PaulParsons(作者), 涂文文  刘美英  余倩  管策  王景(译者) ,科普 科技发展 ,2014/3/25,2014,99,416,彩色,上市销售
+876,http://www.ituring.com.cn/book/2002,和孩子一起玩编程,4,5500,,,,2018/2/1,2018,69,189,单色,上市销售
+954,http://www.ituring.com.cn/book/2042,CCNA学习指南：路由和交换认证（100-105 200-105 200-125）（第2版）,0,5500,ToddLammle(作者),袁国忠(译者) ,CCNA 思科认证 路由和交换认证 考试指南 ,2017/9/11,2017,139,753,单色,上市销售
+142,http://www.ituring.com.cn/book/1639,哲学哲学鸡蛋糕,11,5400,朱家安(作者),,哲学 ,2015/7/7,2015,32,208,,上市销售
+274,http://www.ituring.com.cn/book/1532,OracleDatabase12c性能优化攻略,1,5400,SamAlapati DarlKuhn BillPadfield(作者),朱浩波(译者) ,数据库 oracle ,2014/11/26,2014,99,536,黑白,上市销售
+299,http://www.ituring.com.cn/book/118,计算机程序设计艺术卷3：排序与查找（英文版?第2版）,7,5400,DonaldE.Knuth(作者),,程序设计理论 计算机程序设计艺术 ,2010/10/13,2010,119,796,,上市销售
+320,http://www.ituring.com.cn/book/1153,矩阵计算（第4版）,8,5400,GeneH.Golub CharlesF.VanLoan(作者),,矩阵计算 数学 ,,,,,黑白,正在翻译
+399,http://www.ituring.com.cn/book/1462,煮酒论科学,9,5400,姜锡基(作者),许英俊(译者) ,科普 图灵新知 韩语 ,2015/5/22,2015,39,352,黑白,上市销售
+603,http://www.ituring.com.cn/book/1523,DRBD权威指南：基于Corosync+Heartbeat技术构建网络RAID,2,5400,陶利军(作者),,网络存储 drbd 清华大学出版社 ,2013/9/1,2013,59,413,黑白,上市销售
+633,http://www.ituring.com.cn/book/896,他山之石：TechStars孵化器中的创业真经,6,5400,DavidCohen BradFeld(作者),傅尔也(译者) ,创业 techstars ,2012/6/4,2012,49,264,,暂时缺货
+796,http://www.ituring.com.cn/book/2035,RubyonRails教程（第4版）,0,5400,MichaelHartl(作者),安道(译者) ,,2017/10/19,2017,129,531,单色,上市销售
+831,http://www.ituring.com.cn/book/1984,现代编译原理：C语言描述（修订版）,9,5400,AndrewW.Appel MaiaGinsburg(作者), 赵克佳  黄春  沈志宇(译者) ,编译原理 编译 C语言 ,2018/4/11,2018,89,385,单色,上市销售
+832,http://www.ituring.com.cn/book/2046,惰者集：数感与数学,9,5400,小平邦彦(KunihikoKodaira)(作者), 尤斌斌(译者) ,,2017/12/25,2017,46,235,单色,上市销售
+850,http://www.ituring.com.cn/book/2562,亿级电商Elasticsearch开发实践,2,5400,"""侯宜军(作者)",,搜索引擎 独立电子书 数据处理 集群 ,2017/10/16,2017,,,黑白,上市销售
+897,http://www.ituring.com.cn/book/1678,人人都是设计师,1,5400,RebeccaHagen KimGolombisky(作者), 王沛(译者) ,艺术 平面设计 设计 ,2016/9/6,2016,89,236,彩色,上市销售
+922,http://www.ituring.com.cn/book/1920,JavaScript测试驱动开发,5,5400,VenkatSubramaniam(作者),毛姝雯(译者) ,javascript web开发 前端 ,2018/3/29,2018,79,288,单色,上市销售
+182,http://www.ituring.com.cn/book/1590,机器人科技：技术变革与未来图景,5,5300,日本机器人学会(作者), 许郁文、曹茹苹、蒋智扬、谢嘉文(译者) ,计算机 人工智能 计算机科学 机器人 智能制造 ,2015/1/16,2015,69,292,黑白,上市销售
+376,http://www.ituring.com.cn/book/128,网站设计解构：有效的交互设计框架和模式,1,5300,RobertHoekman JaredSpool(作者), 向怡宁(译者) ,模式 网站设计 设计 ,2010/8/25,2010,59,196,,暂时缺货
+655,http://www.ituring.com.cn/book/1016,你不可不知的50个建筑学知识,9,5300,PhilipWilkinson(作者), 刘吉熙(译者) ,科普 建筑学 ,2012/6/4,2012,32,214,,上市销售
+747,http://www.ituring.com.cn/book/1706,搞砸了的设计：随处可见的BADUI,6,5300,中村聡史(作者), 邬佳笑(译者) ,设计 ui bad-ui 从失败中学习 ,2016/7/26,2016,79,244,彩色,上市销售
+750,http://www.ituring.com.cn/book/1800,VisualBasic.Net应用手册,3,5300,"""曹化宇(作者)",,visual-basic 独立电子书 visual-basic.net ,2016/1/22,2016,,,,上市销售
+953,http://www.ituring.com.cn/book/1682,预测分析与数据挖掘：RapidMiner实现,2,5300,VijayKotu(作者), 严云(译者) ,机器学习 数据挖掘 大数据 ,2018/1/18,2018,99,325,单色,上市销售
+14,http://www.ituring.com.cn/book/2397,深入理解TensorFlow：架构设计与实现原理,2,5200,"""彭靖田 ""林健 ""白小龙(作者)",,,2018/4/25,2018,79,354,单色,上市销售
+72,http://www.ituring.com.cn/book/976,硅谷合伙人,4,5200,SarahLacy(作者), 李莉萍 岳新欣  李瑛  倪斌(译者) ,硅谷 web-2.0 ,2013/12/19,2013,49,376,,暂时缺货
+87,http://www.ituring.com.cn/book/830,驾驭信息浪潮：对话世界一流组织CIO,3,5200,EdwardYourdon(作者), 米全喜  邱彦钧(译者) ,访谈 CIO 企业管理 ,2015/3/30,2015,59,276,,上市销售
+319,http://www.ituring.com.cn/book/1497,P道理——ERP项目实施手记,1,5200,童继龙 童继明(作者),,erp 清华大学出版社 ,2010/10/1,2010,49,359,黑白,上市销售
+669,http://www.ituring.com.cn/book/1979,OnLisp,3,5200,PaulGraham(作者),田春(译者) ,lisp ,2013/8/14,2013,,,黑白,上市销售
+247,http://www.ituring.com.cn/book/925,计算机程序设计艺术卷4A：组合算法（一）,15,5100,DonaldE.Knuth(作者), 李伯民(译者) ,计算机科学 组合算法 ,,,,,,正在翻译
+427,http://www.ituring.com.cn/book/816,WindowsPhone7程序设计,3,5100,CharlesPetzold(作者), 姜泳涛  林永坚 李鹏(译者) ,phone-7 ,2011/12/31,2011,99,680,,上市销售
+858,http://www.ituring.com.cn/book/1873,数学悖论与三次数学危机,9,5100,韩雪涛(作者),,数学 标普 数学思维 图灵数学 数学科普 ,2016/9/8,2016,49,320,黑白,上市销售
+384,http://www.ituring.com.cn/book/1355,4G移动通信技术权威指南：LTE与LTE-Advanced（第2版）,1,5000,ErikDahlman StefanParkvall JohanSkold(作者), 朱敏  堵久辉  缪庆育  佘锋(译者) ,4G 移动通信 ,2015/4/7,2015,89,368,黑白,上市销售
+507,http://www.ituring.com.cn/book/1510,硅谷之火（第3版）,5,5000,MichaelSwaine PaulFreiberger(作者),陈少芸  陈婕(译者) ,it人文 创业 ,,,,,黑白,正在编辑
+643,http://www.ituring.com.cn/book/1729,设计也幽默：平面设计师的幽默指南,0,5000,［美］希瑟;布拉德利（HeatherBradley）(作者), 于娟娟(译者) ,,2016/9/28,2016,69,222,彩色,上市销售
+811,http://www.ituring.com.cn/book/1521,精益客户开发（精益系列丛书 《精益创业》作者埃里克&#183;莱斯主编）,6,5000,CindyAlvarez(作者),雷钰 边蕤(译者) ,客户开发 精益系列丛书 ,2015/10/26,2015,59,208,黑白,上市销售
+823,http://www.ituring.com.cn/book/1306,倒漏斗营销：从现有客户拓展新客户,3,5000,JosephJaffe(作者), 张玳(译者) ,经济管理 营销 企业管理 倒漏斗 张玳 ,2016/7/14,2016,59,256,黑白,上市销售
+276,http://www.ituring.com.cn/book/1345,认知与设计：理解UI设计准则（第2版） ,12,4900,JeffJohnson(作者), 张一宁  王军锋(译者) ,,2014/8/11,2014,69,226,彩色,上市销售
+614,http://www.ituring.com.cn/book/84,调试九法：软硬件错误的排查之道,0,4900,DavidJ.Agans(作者), 赵俐(译者) ,软件调试 硬件排错 ,2010/12/6,2010,35,156,,暂时缺货
+661,http://www.ituring.com.cn/book/1658,你不可不知的50个化学知识,6,4900,［英］海利;伯奇(作者), 卜建华(译者) ,,2016/11/7,2016,35,210,,上市销售
+736,http://www.ituring.com.cn/book/1602,云数据中心网络技术,1,4900,GaryLee(作者),唐富年(译者) ,云计算 大数据 网络架构 ,2015/11/9,2015,49,200,黑白,上市销售
+782,http://www.ituring.com.cn/book/1947,数学万花筒2（修订版）,7,4900,［英］伊恩;斯图尔特(作者),张云(译者) ,图灵新知 少儿科普 数学科普 ,2017/3/20,2017,39,328,黑白,上市销售
+928,http://www.ituring.com.cn/book/1872,中村俊辅：任意球大师的“察知力”,7,4900,（日）中村俊辅(作者), 逸宁(译者) ,人物传记 足球 足球教育 自我启发 ,2016/10/8,2016,45,230,黑白,上市销售
+974,http://www.ituring.com.cn/book/1851,亲爱的界面：让用户乐于使用、爱不释手（第2版）,3,4900,LukasMathis(作者),杨文梁(译者) ,交互设计 界面设计 ui 体验设计 ,2018/1/8,2018,59,234,单色,上市销售
+25,http://www.ituring.com.cn/book/1362,GoogleGlass开发指南,4,4800,BestApp工作室(作者),,google-glass ,2014/3/28,2014,49,224,黑白,暂时缺货
+358,http://www.ituring.com.cn/book/1262,数据化思维：你必须了解的机器学习、数据挖掘和数据分析,2,4800,ThomasNadeauD. FosterProvost TomFawcett KenGray(作者),,机器学习 ,,,,,黑白,诚招译者
+401,http://www.ituring.com.cn/book/1464,应用随机过程：概率模型导论（英文版?第11版）,4,4800,SheldonM.Ross(作者),,概率 精算 ,2015/2/13,2015,99,784,黑白,上市销售
+723,http://www.ituring.com.cn/book/1607,设计驱动增长：可口可乐如何打造饮料帝国,2,4800,DavidButler LindaTischler(作者), 樊钢(译者) ,经管 可口可乐 企业敏捷 ,2017/8/30,2017,59,208,单色,上市销售
+795,http://www.ituring.com.cn/book/2398,TensorFlow入门与实战,0,4800,罗冬日(作者),,深度学习 tensorflow ,2018/2/27,2018,49,171,单色,上市销售
+95,http://www.ituring.com.cn/book/1011,对话CTO：驾驭高科技浪潮,7,4700,ScottDonaldson StanleySiegel GaryDonaldson(作者), 孙降生(译者) ,访谈 企业管理 CTO 首席技术官 ,2013/12/11,2013,59,264,黑白,暂时缺货
+403,http://www.ituring.com.cn/book/1384,极客好父亲：适合爸爸和孩子一起做的极客项目和活动,5,4700,［美］肯;丹米德（KenDenmead）(作者), 邝健威(译者) ,图灵新知 亲子 ,2014/12/16,2014,39,208,黑白,暂时缺货
+494,http://www.ituring.com.cn/book/989,你不可不知的50个基因秘密,4,4700,MarkHenderson(作者), 刘美英(译者) ,科普 遗传学 基因 ,2013/5/29,2013,32,234,黑白,上市销售
+615,http://www.ituring.com.cn/book/754,营销十法：社交网络时代成功企业怎样推广品牌,3,4700,RickMathieson(作者),傅尔也(译者) ,网络营销 社交网络 品牌 ,2011/10/31,2011,45,244,,暂时缺货
+793,http://www.ituring.com.cn/book/1035,你不可不知的50个地球知识,4,4700,MartinRedfern(作者),金琦(译者) ,科普 地球 宇宙 ,2013/6/18,2013,32,222,黑白,上市销售
+923,http://www.ituring.com.cn/book/1808,设计师要懂沟通术,5,4700,TomGreever(作者), UXRen翻译组(译者) ,交互设计 用户体验 沟通 ,2017/11/24,2017,59,158,单色,上市销售
+334,http://www.ituring.com.cn/book/767,网站转换率优化之道,5,4600,KhalidSaleh AyatShukairy(作者),顾毅(译者) ,网站设计 转换率 seo o&#39;reilly ,2012/5/3,2012,45,200,,暂时缺货
+828,http://www.ituring.com.cn/book/1612,身边的未来,8,4600,李焌桢(作者), 崔航旗(译者) ,科普 大数据 图灵新知 机器人 生命科学 韩语 物联网 无人机 人文学 跨学科 ,2016/4/13,2016,39,264,黑白,上市销售
+194,http://www.ituring.com.cn/book/1506,网页设计创意书（卷4）,5,4500,PatrickMcNeil(作者), 王沛(译者) ,,2015/10/14,2015,49,272,彩色,上市销售
+361,http://www.ituring.com.cn/book/1683,数学万花筒4：不可思议的数及它们的故事,5,4500,［英］伊恩;斯图尔特（IanStewart）(作者),,,,,,,黑白,正在翻译
+377,http://www.ituring.com.cn/book/1276,人性与设计,6,4500,ChrisNodder(作者),,,,,,,四色,正在编辑
+620,http://www.ituring.com.cn/book/1848,体验设计白书,6,4500,张玳(作者),,交互设计 ui 体验设计 ,2016/8/22,2016,49,188,彩色,上市销售
+770,http://www.ituring.com.cn/book/1718,至美用户：人本设计剖析,4,4500,EllenLupton(作者),李盼 李松峰(译者) ,交互设计 用户体验 工业设计 人本 ,2016/4/18,2016,49,150,彩色,上市销售
+342,http://www.ituring.com.cn/book/1660,图解自行车：现代公路自行车的构造和发展,2,4400,［英］理查德;哈利特（RichardHallett）(作者),,,,,,,彩色,诚招译者
+433,http://www.ituring.com.cn/book/1691,SQL经典实例,7,4400,AnthonyMolinaro(作者), 刘春辉(译者) ,数据库 sql ,,,,556,单色,正在排版
+625,http://www.ituring.com.cn/book/1827,东京大学通识讲座2：热血篇,8,4400,东京大学教养学部(作者), 曲杨(译者) ,科普 东京大学 ,2016/5/11,2016,42,224,黑白,上市销售
+103,http://www.ituring.com.cn/book/1309,宝石图鉴：石中的秩序与世界,7,4300,（日）山田英春(作者), 刘静(译者) ,科普 图灵新知 地质 自然 宝石 化石 ,2014/8/29,2014,85,176,彩色,暂时缺货
+395,http://www.ituring.com.cn/book/1326,统计学大师之路：乔治&#183;博克斯回忆录,6,4300,,朱磊磊(译者),,,,,320,单色,正在排版
+668,http://www.ituring.com.cn/book/1823,高可用架构&#183;硅谷篇（第4期）,3,4300,,,程序员 架构 google twitter 硅谷 ,2016/3/14,2016,,114,,上市销售
+825,http://www.ituring.com.cn/book/1806,雷电之书：解密自然与生命的原始能量,5,4300,（日）冈野大祐(作者), 刘红曼(译者) ,科普 图灵新知 物理 气象 雷电 ,2016/5/23,2016,32,176,黑白,上市销售
+983,http://www.ituring.com.cn/book/1742,游戏编程权威指南：世嘉新人培训教材,10,4300,平山尚(作者),罗水东(译者) ,游戏 游戏编程 ,,,,848,黑白,正在编辑
+378,http://www.ituring.com.cn/book/262,信息检索：算法与探索法（英文版?第2版）,0,4200,DavidA.Grossman(作者),,人工智能 数据挖掘 ,2009/9/29,2009,59,344,,上市销售
+636,http://www.ituring.com.cn/book/919,架构师：QCon2011特刊,3,4200,InfoQ架构师(作者),,架构师 infoq qcon 全球企业开发大会 特刊 ,2011/10/25,2011,0,148,,上市销售
+778,http://www.ituring.com.cn/book/1952,隐匿的宇宙：用基本粒子揭开宇宙之谜,4,4200,村山齐(作者), 逸宁(译者) ,,2017/7/1,2017,42,208,黑白,上市销售
+929,http://www.ituring.com.cn/book/1664,走进大数据：组织如何推进大数据战略,1,4200,张东麟(作者),武传海(译者) ,大数据 韩语 ,2016/11/21,2016,39,328,黑白,上市销售
+972,http://www.ituring.com.cn/book/1657,57招搞定信息图,4,4200,李寿童 宋政洙(作者), 张翔(译者) ,信息图 韩语 ,2018/3/12,2018,59,320,四色,上市销售
+1104,http://www.ituring.com.cn/book/1941,Python高级机器学习,5,4200,JohnHearty(作者),,python 人工智能 机器学习 ,,,,,单色,正在翻译
+230,http://www.ituring.com.cn/book/203,基础拓扑学,0,4100,,,拓扑 数学 ,2010/3/15,2010,29,208,,上市销售
+254,http://www.ituring.com.cn/book/1655,软件随想录卷2,3,4100,JeolSpolsky(作者),阮一峰(译者) ,项目管理 软件开发 阮一峰 乔尔 Joel ,2015/4/21,2015,49,288,黑白,暂时缺货
+932,http://www.ituring.com.cn/book/1786,北野武的伟大旅程：重新发现世界的十一次探险,4,4100,北野武(作者), 逸宁(译者) ,科普 ,2016/8/22,2016,42,280,,上市销售
+10,http://www.ituring.com.cn/book/2483,Java轻松学,1,4000,BrysonPayne(作者),袁国忠(译者) ,Java ,2018/5/9,2018,59,243,单色,上市销售
+272,http://www.ituring.com.cn/book/1589,气象观察图鉴：风雷云雨的真身与魅影,3,4000,（日）武田康男(作者), 刘静(译者) ,科普 图灵新知 气象 ,2015/3/5,2015,49,156,彩色,上市销售
+9,http://www.ituring.com.cn/book/1962,OpenCV计算机视觉编程攻略（第3版）,2,3900,RobertLaganiere(作者),相银初(译者) ,计算机视觉 opencv ,2018/5/9,2018,79,308,单色,上市销售
+88,http://www.ituring.com.cn/book/1122,精通Windows应用开发,3,3900,JesseLiberty PhilipJapikse JonGalloway(作者), 苏宝龙(译者) ,windows编程 ,2014/12/11,2014,59,264,黑白,上市销售
+690,http://www.ituring.com.cn/book/1805,高可用架构&#183;中国初创故事（第3期）,2,3900,高可用架构(作者),,创业 程序员 高可用架构 ,2016/3/2,2016,,65,,上市销售
+448,http://www.ituring.com.cn/book/1352,深入PHP：面向对象、模式与实践（第5版）,8,3800,MattZandstra(作者),,,,,,,单色,正在编辑
+917,http://www.ituring.com.cn/book/1881,精简：无印良品与品牌理念打造,4,3800,江上隆夫(作者), 逸宁(译者) ,广告 品牌 管理技巧 日本经济 ,2016/11/24,2016,45,224,黑白,上市销售
+977,http://www.ituring.com.cn/book/2445,漫画遗传学：从豌豆实验到精准医疗,3,3800,豌豆Sir团队(作者),,,2018/1/8,2018,49,176,四色,上市销售
+1034,http://www.ituring.com.cn/book/1910,精通CSS：高级Web标准解决方案（第3版）,10,3800,AndyBudd EmilBj;rklund(作者),李松峰(译者) ,css web开发 前端 ,,,,,单色,正在编辑
+67,http://www.ituring.com.cn/book/1479,AKB48的格子裙经济学：粉丝效应中的新生与创意,5,3700,（日）田中秀臣(作者), 江裕真(译者) ,akb48 粉丝经济 偶像经济 ,2014/9/10,2014,39,192,黑白,上市销售
+529,http://www.ituring.com.cn/book/1828,AKB48Group官方访谈集：星光的起点与纪念,6,3700,周刊朝日编辑部(作者), 尤斌斌(译者) ,粉丝经济 娱乐文化 ,2016/6/23,2016,46,240,黑白,上市销售
+608,http://www.ituring.com.cn/book/1232,架构师：7月ARCHITECT,3,3700,InfoQ架构师(作者),,架构师 infoq ,2013/7/1,2013,0,,,上市销售
+617,http://www.ituring.com.cn/book/183,数字集成电路设计：从VLSI体系结构到CMOS制造（英文版）,1,3600,,,电子设计 ,2010/4/19,2010,119,868,,上市销售
+863,http://www.ituring.com.cn/book/1939,精益设计：设计团队如何改善用户体验（第2版）,6,3600,JeffGothelf JoshSeiden(作者),,交互设计 精益 ui ux ,2018/2/1,2018,49,177,单色,上市销售
+908,http://www.ituring.com.cn/book/1844,好吃的信息图,2,3600,[法]伯兰特?洛盖 [法]安娜-洛尔?埃斯特维(作者),戴童(译者) ,信息图 美食 ,2016/7/4,2016,59,130,彩色,上市销售
+331,http://www.ituring.com.cn/book/1300,精通Puppet配置管理工具（第2版）,3,3500,SpencerKrum WilliamVanHevelingen BenjaminKero JamesTurnbull JeffreyMcCune(作者), 李超(译者) ,Puppet 系统管理 ,2014/9/23,2014,69,272,黑白,暂时缺货
+861,http://www.ituring.com.cn/book/1944,Hadoop数据分析,3,3500,BenjaminBengfort JennyKim(作者), 王纯超(译者) ,hadoop 数据分析 ,2018/4/8,2018,69,211,单色,上市销售
+958,http://www.ituring.com.cn/book/2107,黑洞与暗能量：宇宙的命运交响,4,3500,[法]让-皮埃尔;卢米涅(作者), 卢炬甫余超(译者) ,天文学 ,2017/11/17,2017,99,452,单色,上市销售
+962,http://www.ituring.com.cn/book/1818,UX设计师要懂工业设计,3,3500,SimonKing KuenChang(作者),,交互设计 工业设计 ,2018/3/20,2018,59,208,四色,上市销售
+910,http://www.ituring.com.cn/book/2068,数学思考法：解析直觉与谎言,5,3400,,[日]神永正博 孙庆媛(译者),,2018/4/2,2018,49,286,单色,上市销售
+933,http://www.ituring.com.cn/book/1989,精通机器学习：基于R（第2版）,4,3400,CoryLesmeister(作者),陈光欣(译者) ,,2018/3/29,2018,69,291,单色,上市销售
+8,http://www.ituring.com.cn/book/1940,Hadoop深度学习,2,3300,DipayanDev(作者),范东来 赵运枫 封强(译者) ,机器学习 hadoop 深度学习 ,2018/5/14,2018,39,125,单色,上市销售
+490,http://www.ituring.com.cn/book/1697,黑客攻防技术宝典：移动应用篇,5,3300,DominicChell TyroneErasmus(作者), 袁宗宗(译者) ,黑客 安全 移动安全 ,,,,,黑白,正在编辑
+872,http://www.ituring.com.cn/book/1886,东京大学通识讲座3：纯情篇,4,3300,东京大学教养学部(作者), 张琳(译者) ,,2016/9/8,2016,42,208,黑白,上市销售
+1010,http://www.ituring.com.cn/book/1960,Python网络爬虫和数据抓取,0,3300,加藤耕太(作者),,,,,,,单色,正在编辑
+211,http://www.ituring.com.cn/book/683,现代编译原理——C语言描述(英文版),0,3200,AndrewW.Appel(作者),,编译 C语言 ,2005/9/20,2005,59,556,,上市销售
+1,http://www.ituring.com.cn/book/2556,零压力学Python,1,3100,布莱恩?奥弗兰德(作者),袁国忠(译者) ,,2018/6/1,2018,79,308,单色,上市销售
+220,http://www.ituring.com.cn/book/1578,南极观察图鉴：冰雪大陆的奇幻之旅,5,3100,（日）武田康男(作者), 王庆(译者) ,图灵新知 南极 ,2015/1/7,2015,42,120,彩色,暂时缺货
+229,http://www.ituring.com.cn/book/809,量子力学趣史,3,3100,LouisaGilder(作者), 阮冬  李树锋(译者) ,量子物理学历史 ,,,,,单色,正在编辑
+286,http://www.ituring.com.cn/book/1258,儿童四季户外活动指南,5,3100,［美］斯泰茜?托尔尼奥 ［美］肯?凯弗(作者), 王利娜  朱学武(译者) ,教育 儿童读物 亲子 ,2015/6/9,2015,49,216,彩色,上市销售
+483,http://www.ituring.com.cn/book/64,2011图灵图书目录,1,3100,图灵(作者),,图书目录 ,2011/1/14,2011,0,44,,上市销售
+911,http://www.ituring.com.cn/book/2436,智能增长,2,3100,,,,2017/11/27,2017,69,243,单色,上市销售
+1000,http://www.ituring.com.cn/book/1876,程序员面试金典（第6版）,2,3100,GayleLaakmannMcDowell(作者),,程序设计 程序员 面试指南 ,,,,,黑白,正在编辑
+1069,http://www.ituring.com.cn/book/1922,G1GC的算法和实现,10,3100,中村成洋(作者),,Java 垃圾回收 hotspot-vm ,,,,,黑白,正在翻译
+17,http://www.ituring.com.cn/book/2021,机器学习：理论、实践与提高,1,3000,[法]Massih-RezaAmini(作者), 许鹏(译者) ,,2018/4/17,2018,59,220,单色,上市销售
+18,http://www.ituring.com.cn/book/1936,Android安全攻防实践,1,3000,SrinivasaRaoKotipalli MohammedA.Imran(作者),,移动开发 android 黑客 安全 ,2018/4/16,2018,59,253,单色,上市销售
+266,http://www.ituring.com.cn/book/998,科学之美：图片里的科学史,4,3000,JohnD.Barrow(作者),李盼(译者) ,科学 ,,,,,四色,正在编辑
+52,http://www.ituring.com.cn/book/1310,古典音乐大研究,5,2900,（日）下道郁子(作者), 陈裴茹(译者) ,音乐 古典音乐 少儿科普 ,2014/6/18,2014,39,80,彩色,暂时缺货
+176,http://www.ituring.com.cn/book/1382,四种颜色就够了：四色问题是如何解决的,4,2900,［英］罗宾;威尔逊（RobinWilson）(作者),,,,,,,黑白,正在翻译
+724,http://www.ituring.com.cn/book/1901,神舟飞天真奇妙（随书附赠VR眼镜）,4,2900,爱太空(作者),,图灵新知 航空 宇航员 少儿科普 太空 航天 ,2016/11/1,2016,59,32,彩色,上市销售
+982,http://www.ituring.com.cn/book/1741,图解语音识别,6,2900,荒木雅弘(作者),,语音识别 ,,,,192,彩色,正在翻译
+7,http://www.ituring.com.cn/book/1794,用户体验设计：100堂入门课,2,2800,JoelMarsh(作者),,交互设计 ux 体验设计 ,2018/5/18,2018,59,253,双色,上市销售
+15,http://www.ituring.com.cn/book/2022,从无穷开始：科学的困惑与疆界,3,2800,让‐皮埃尔?卢米涅 马克?拉雪茨‐雷(作者), 孙展(译者) ,,2018/4/24,2018,39,204,单色,上市销售
+739,http://www.ituring.com.cn/book/1571,大话数据库,0,2800,邹茂扬 田洪川(作者),,数据库 sql 清华大学出版社 ,2013/1/1,2013,59,475,黑白,上市销售
+987,http://www.ituring.com.cn/book/1769,Scratch魔法书：探索算法,2,2800,金钟勋(作者), 小七里(译者) ,算法 韩语 Scratch ,,,,196,四色,正在排版
+245,http://www.ituring.com.cn/book/1360,架构师（2014年2月刊）ARCHITECT,0,2700,InfoQ中文站(作者),,架构师 architect ,2014/2/8,2014,,113,,上市销售
+980,http://www.ituring.com.cn/book/1703,舌尖上的科学：口腹之乐何处来,5,2700,崔洛堰(作者), 陈曦(译者) ,科普 图灵新知 韩语 ,2018/3/6,2018,39,244,单色,上市销售
+16,http://www.ituring.com.cn/book/1856,游戏设计信条：从创意到制作的设计原则,0,2600,MarcAlbinet(作者), 路遥(译者) ,,2018/4/19,2018,49,188,单色,上市销售
+168,http://www.ituring.com.cn/book/1313,牙齿大研究,1,2500,（日）关口浩(作者), 甘菁菁(译者) ,少儿科普 牙齿 ,2014/7/14,2014,39,80,,暂时缺货
+413,http://www.ituring.com.cn/book/1328,量子计算公开课,2,2500,,张林峰 李雨晗(译者),,,,,,黑白,正在翻译
+1049,http://www.ituring.com.cn/book/1968,图解人工智能,2,2500,,,,,,,,双色,正在翻译
+1058,http://www.ituring.com.cn/book/2464,写给小白的算法入门书：图解26个基础算法,3,2500,,,算法 入门 小白 菜鸟 ,,,,,四色,正在编辑
+1115,http://www.ituring.com.cn/book/1996,普林斯顿概率论读本,9,2500,,,,,,,,单色,正在编辑
+97,http://www.ituring.com.cn/book/1344,架构师（1月刊）,0,2400,,,架构师 architect ,2014/1/5,2014,,,,上市销售
+527,http://www.ituring.com.cn/book/1550,编程有道,0,2400,PeteGoodliffe(作者),,程序设计 编程 职业素养 ,,,,,黑白,正在翻译
+1048,http://www.ituring.com.cn/book/1916,Java响应式编程,0,2400,TomaszNurkiewicz(作者),,程序设计 Java ,,,,,黑白,正在翻译
+1110,http://www.ituring.com.cn/book/1945,普林斯顿数学分析读本,8,2400,RaffiGrinberg(作者),,高等数学 ,,,,,黑白,正在翻译
+3,http://www.ituring.com.cn/book/2039,Spark高级数据分析（第2版）,2,2300,[美]桑迪;里扎 [美]于里;莱瑟森 [英]肖恩;欧文 [美]乔希;威尔斯(作者),龚少成  邱鑫(译者) ,大数据 数据分析 Spark ,2018/5/28,2018,69,226,单色,上市销售
+788,http://www.ituring.com.cn/book/1240,架构师：8月ARCHITECT,3,2300,,,,2013/8/1,2013,0,,,上市销售
+37,http://www.ituring.com.cn/book/1316,自行车大研究,1,2200,日本自行车文化中心 谷田贝一男(作者), 张倩倩(译者) ,少儿科普 自行车 ,2014/6/26,2014,39,80,彩色,暂时缺货
+151,http://www.ituring.com.cn/book/1311,饮食营养大研究,0,2200,（日）金田雅代(作者), 袁小雅(译者) ,少儿科普 营养学 消化器官 ,2014/7/14,2014,39,79,彩色,暂时缺货
+402,http://www.ituring.com.cn/book/1663,2015图灵图书目录（非技术）,1,2200,,,图书目录 书目 2015图灵图书 ,2015/4/2,2015,0,28,彩色,上市销售
+416,http://www.ituring.com.cn/book/1690,物联网产品设计,0,2200,ClaireRowland ElizabethGoodman MartinCharlier AnnLight AlfredLui(作者),,,,,,,单色,诚招译者
+487,http://www.ituring.com.cn/book/1509,设计无处不在：用设计思考解决问题,2,2200,JeanneLiedtka AndrewKing KevinBennett(作者),,设计 设计思考 创新思考 ,,,,,黑白,正在编辑
+701,http://www.ituring.com.cn/book/2570,超供电电压的电路设计,2,2200,"""吴顺珉(作者)",,电路设计 独立电子书 电路 ,2017/11/2,2017,,15,黑白,上市销售
+981,http://www.ituring.com.cn/book/1733,精通Python数据科学,0,2200,SamirMadhavan(作者),,python 数据科学 ,,,,296,黑白,正在翻译
+1021,http://www.ituring.com.cn/book/1963,Hive实战,0,2200,ScottShawn(作者),,hadoop 大数据 Hive ,,,,,单色,正在编辑
+1035,http://www.ituring.com.cn/book/1965,Android设计模式与最佳实践,0,2100,KyleMew(作者),,移动开发 android ,,,,,单色,诚招译者
+989,http://www.ituring.com.cn/book/1776,奔跑吧 程序员：从零开始打造产品、技术和团队,0,2000,Yevgeniy(Jim)Brikman(作者), 吴晓嘉(译者) ,创业 程序员 ,,,,300,单色,正在排版
+1015,http://www.ituring.com.cn/book/1961,Bootstrap实战（第2版）,1,2000,BassJobsen DavidCochran IanWhitley(作者),,前端 bootstrap ,,,,,黑白,诚招译者
+1083,http://www.ituring.com.cn/book/1929,利用机器学习开发算法交易系统,3,2000,??? ???(作者),,机器学习 算法 韩语 算法交易系统 ,,,,,单色,正在编辑
+1116,http://www.ituring.com.cn/book/1949,松本行弘：编程语言的设计与实现,7,2000,松本行弘(作者), 郑明智(译者) ,程序设计 ruby matz ,,,,,黑白,正在编辑
+173,http://www.ituring.com.cn/book/1267,架构师：10月ARCHITECT,0,1900,,,,2013/10/1,2013,,,,上市销售
+567,http://www.ituring.com.cn/book/1847,ThoughtWorks商业洞见2016创刊号,4,1900,ThoughtWorksInc.(作者),,thoughtworks 科技即商业 商业洞见 ,2016/5/16,2016,,34,彩色,上市销售
+867,http://www.ituring.com.cn/book/1902,ThoughtWorks商业洞见2016九月刊|总第002刊,3,1900,ThoughtWorksInc.(作者),,thoughtworks 科技即商业 商业洞见 ,2016/10/18,2016,0,36,,上市销售
+1014,http://www.ituring.com.cn/book/1900,Python函数式编程,0,1900,StevenLott(作者),,,,,,,黑白,正在翻译
+13,http://www.ituring.com.cn/book/2645,2018图灵图书目录,2,1800,,,,2018/4/27,2018,,,黑白,上市销售
+339,http://www.ituring.com.cn/book/1259,编程面试题解,1,1800,,,程序员面试 ,,,,,黑白,正在翻译
+847,http://www.ituring.com.cn/book/1914,R数据挖掘入门,2,1800,山本义郎、藤野友和、久保田贵文(作者), 朱建春(译者) ,数据挖掘 大数据 r ,2018/4/9,2018,45,198,单色,上市销售
+994,http://www.ituring.com.cn/book/1849,精通Java8并发编程,4,1800,JavierFern;ndezGonz;lez(作者),,程序设计 Java 并发编程 ,,,,,黑白,正在翻译
+1026,http://www.ituring.com.cn/book/1877,设计思想：说服式设计七原则,3,1800,VictorS.Yocco(作者), 李锦贞(译者) ,交互设计 设计 ui ux ,,,,,单色,正在编辑
+1061,http://www.ituring.com.cn/book/1896,Arduino智能硬件开发入门书,2,1800,,曽薇薇(译者),,,,,,黑白,正在排版
+214,http://www.ituring.com.cn/book/1625,微软最佳敏捷实践：基于场景的工程方法,0,1700,AustinaDeBonte DrewFletcher(作者),,微软 敏捷 ,,,,,黑白,正在翻译
+332,http://www.ituring.com.cn/book/1315,太阳能大研究,0,1700,（日）小泽祥司(作者), 甘菁菁(译者) ,少儿科普 能源 太阳能 ,2014/6/26,2014,39,64,彩色,暂时缺货
+380,http://www.ituring.com.cn/book/1684,高效能人士的思维方式,1,1700,DavidRock(作者),,效率 时间管理 ,,,,220,黑白,正在编辑
+990,http://www.ituring.com.cn/book/1780,别拿相关当因果！因果关系简易入门,4,1700,SamanthaKleinberg(作者),,统计学 逻辑 数据科学 ,,,,332,单色,正在排版
+1018,http://www.ituring.com.cn/book/2634,费曼传（新译本）,2,1700,［美］詹姆斯?格雷克(作者),,,,,,,单色,诚招译者
+1097,http://www.ituring.com.cn/book/1938,python编程范例,3,1700,StevenF.Lott(作者),,python 程序设计 ,,,,,单色,正在编辑
+584,http://www.ituring.com.cn/book/1252,架构师：9月ARCHITECT,0,1600,,,,2013/9/1,2013,0,,,上市销售
+985,http://www.ituring.com.cn/book/1764,设计与沟通：好设计师这样让想法落地,1,1600,MartinaHodges-Schell JamesO;Brien(作者), 杜春晓(译者) ,效率 设计 沟通 ux ,,,,296,单色,正在排版
+993,http://www.ituring.com.cn/book/1830,引力波：爱因斯坦最后的礼物,3,1600,吴廷根(作者),,科普 图灵新知 物理 韩语 引力波 ,,,,,单色,正在编辑
+1008,http://www.ituring.com.cn/book/2442,Spring微服务架构设计,0,1600,,,,,,,,单色,诚招译者
+1013,http://www.ituring.com.cn/book/2633,牛顿传（新译本）,3,1600,［美］詹姆斯?格雷克(作者),,,,,,,单色,诚招译者
+1054,http://www.ituring.com.cn/book/1893,写给程序员的信息论,1,1600,ColtMcAnlis(作者),,程序设计 软件开发 ,,,,,黑白,正在翻译
+1096,http://www.ituring.com.cn/book/1986,SQLAlchemy：Python数据库应用开发实战,2,1600,,,,,,,,黑白,诚招译者
+195,http://www.ituring.com.cn/book/1597,硬件创业：从原型到成品,4,1500,AlanCohen(作者),,硬件产品 研发 ,,,,,黑白,正在翻译
+988,http://www.ituring.com.cn/book/1774,Swift设计模式,1,1500,JulienLange(作者),,移动开发 ios swift ,,,,224,黑白,正在翻译
+1027,http://www.ituring.com.cn/book/1906,FPS关卡设计,1,1500,,"""武传海(译者)",韩语 游戏关卡设计 FPS ,,,,152,四色,正在排版
+1028,http://www.ituring.com.cn/book/1964,敏捷实战,0,1500,DanielJamesGullo(作者),,敏捷开发 ,,,,,单色,正在翻译
+1055,http://www.ituring.com.cn/book/1918,微服务：灵活的软件架构,0,1500,EberhardWolff(作者),,架构 微服务 ,,,,,黑白,正在翻译
+1090,http://www.ituring.com.cn/book/1930,Arduino：从想象到现实（实战篇）,2,1500,李俊焃(作者), 金萍(译者) ,Arduino 韩语 ,,,,208,四色,正在排版
+1091,http://www.ituring.com.cn/book/2400,游戏剧本怎么写,5,1500,,,游戏 剧本 ,,,59,288,双色,正在排版
+1127,http://www.ituring.com.cn/book/2007,React设计模式与最佳实践,0,1500,,,javascript web开发 前端 React ,,,,236,单色,正在排版
+20,http://www.ituring.com.cn/book/2009,你不可不知的50个艺术知识（修订版）,2,1400,［英］苏茜;霍奇(作者),楼伟珊(译者) ,,2018/4/16,2018,35,204,单色,上市销售
+303,http://www.ituring.com.cn/book/1654,数据挖掘算法：R语言实现,0,1400,PawelCichosz(作者),,,,,,,黑白,正在翻译
+323,http://www.ituring.com.cn/book/1659,你不可不知的50个生物学知识,3,1400,［法］J.V.沙马里（J.V.Chamary）(作者),,,,,,,黑白,正在翻译
+992,http://www.ituring.com.cn/book/1797,统计学精髓,2,1400,SimonN.Wood(作者),,统计 ,,,,,黑白,正在排版
+1020,http://www.ituring.com.cn/book/1905,RPG关卡设计,2,1400,,"""孔雪玲(译者)",rpg 韩语 游戏关卡设计 ,,,,,四色,正在翻译
+1040,http://www.ituring.com.cn/book/1879,基础设施即代码：云服务器管理,0,1400,KiefMorris(作者),,运维 架构设计 微服务 系统维护 ,,,,,单色,正在编辑
+1121,http://www.ituring.com.cn/book/2006,Python高性能（第2版）,0,1400,,,,,,,196,单色,正在排版
+170,http://www.ituring.com.cn/book/1323,架构师：12月ARCHITECT,0,1300,,,,2013/12/1,2013,,,,上市销售
+250,http://www.ituring.com.cn/book/1644,龙卷风暴：在高速成长市场中获得成功（修订珍藏版）,1,1300,［美］杰弗里;摩尔（GeoffreyA.Moore）(作者), 郭爱戈(译者) ,经济管理 ,,,,,黑白,正在翻译
+269,http://www.ituring.com.cn/book/1645,断层地带：新经济时代的股东权益管理（修订珍藏版）,1,1300,［美］杰弗里;摩尔（GeoffreyA.Moore）(作者),,,,,,,黑白,正在翻译
+285,http://www.ituring.com.cn/book/1648,赌场里的大数据：个人数据的商业化与传统隐私概念的终结,0,1300,［美］亚当;坦纳（AdamTanner）(作者),,,,,,,黑白,正在翻译
+991,http://www.ituring.com.cn/book/1796,打动人心的产品设计：顶尖设计师的黄金法则,2,1300,ScottHurff(作者),李盼(译者) ,交互设计 产品设计 ui ux 互联网产品设计 ,,,,,单色,正在编辑
+995,http://www.ituring.com.cn/book/1850,数据会说话：一本书学会信息图制作,1,1300,JorgeCam;es(作者),,大数据 信息可视化 信息图 ,,,,,黑白,正在编辑
+996,http://www.ituring.com.cn/book/1852,项目管理敏捷实战,2,1300,JohannaRothman(作者),,项目管理 管理 敏捷 ,,,,,单色,正在编辑
+1023,http://www.ituring.com.cn/book/2449,详解HTTP：从历史和代码中学习Web技术,2,1300,,,网络与通信 协议 计算机网络 HTTP ,,,,,单色,正在翻译
+1033,http://www.ituring.com.cn/book/1878,计算机史话,2,1300,TonyHey GyuriP;pay(作者),,计算机科学 ,,,,,黑白,正在编辑
+1036,http://www.ituring.com.cn/book/2580,"前方的路<spanstyle=""color:red;"">[预售]</span>",3,1300,"""阮一峰(作者)",,,,,49,360,单色,正在印刷
+1057,http://www.ituring.com.cn/book/2584,详解深度学习：基于Tensorflow和Keras的时序数据处理,4,1300,,,时间序列 深度学习 tensorflow keras ,,,,,单色,正在翻译
+1122,http://www.ituring.com.cn/book/1955,监控的艺术,0,1300,JamesTurnbull(作者),,运维 devops 微服务 SRE ,,,,,单色,正在翻译
+1123,http://www.ituring.com.cn/book/2426,Python数据科学与机器学习：从入门到实践,1,1300,,,,,,49,,单色,正在翻译
+398,http://www.ituring.com.cn/book/1689,追寻确定性：信息架构简史,0,1200,MarkBurgess(作者),,,,,,,黑白,正在编辑
+470,http://www.ituring.com.cn/book/1694,末日之旅：全球气候变暖现场直击,2,1200,南钟永(作者), 百度众测(译者) ,科普 图灵新知 韩语 ,,,,264,四色,正在排版
+997,http://www.ituring.com.cn/book/1853,图解云基础设施和API,0,1200,,,,,,,,双色,正在编辑
+1012,http://www.ituring.com.cn/book/2443,精通Spring,0,1200,,,,,,,,单色,诚招译者
+1043,http://www.ituring.com.cn/book/2581,"未来世界的幸存者<spanstyle=""color:red;"">[预售]</span>",6,1200,"""阮一峰(作者)",,,,,39,168,单色,正在印刷
+1047,http://www.ituring.com.cn/book/1892,素数的乐章,2,1200,MarcusDuSautoy(作者),,科普 数学 图灵新知 ,,,,,黑白,正在翻译
+232,http://www.ituring.com.cn/book/1643,跨越鸿沟：将颠覆性产品卖给主流市场（全新升级第3版）,0,1100,［美］杰弗里;摩尔（GeoffreyA.Moore）(作者),,,,,,,黑白,正在翻译
+451,http://www.ituring.com.cn/book/1692,运动基因：非凡竞技表现背后的科学,1,1100,［美］戴维;爱泼斯坦（DavidEpstein）(作者),,,,,,,黑白,正在翻译
+467,http://www.ituring.com.cn/book/1480,你不可不知的50个伦理学知识,0,1100,BenDupr;(作者),,,,,,,黑白,正在翻译
+1024,http://www.ituring.com.cn/book/2635,混沌：开创新科学（新译本）,2,1100,［美］詹姆斯?格雷克(作者),,,,,,,单色,诚招译者
+1076,http://www.ituring.com.cn/book/1923,编程的原则：程序员一生受用的101个编程智慧,1,1100,上田勳(作者), 支鹏浩(译者) ,,,,,304,黑白,正在翻译
+1113,http://www.ituring.com.cn/book/2561,AppInventor开发集锦,0,1100,"""金从军(作者)",,移动开发 android ,,,,,单色,正在排版
+1114,http://www.ituring.com.cn/book/2082,Java数据科学实战,0,1100,,,,,,,,黑白,诚招译者
+1128,http://www.ituring.com.cn/book/2100,深度学习基础教程,0,1100,,,,,,,,黑白,诚招译者
+1131,http://www.ituring.com.cn/book/2011,Web性能实战,1,1100,,,,,,,,单色,正在翻译
+984,http://www.ituring.com.cn/book/1747,设计冲刺,0,1000,RichardBanfield C.ToddLombardo TraceWax(作者),,设计 UCD ui ,,,,,黑白,诚招译者
+998,http://www.ituring.com.cn/book/1869,工业设计实战,1,1000,ThomasAsk(作者),,交互设计 设计 工业设计 ui ux ,,,,,黑白,正在编辑
+1006,http://www.ituring.com.cn/book/2617,数学女孩4：随机算法,6,1000,,,,,,,,单色,正在编辑
+1044,http://www.ituring.com.cn/book/2462,Python并发编程,1,1000,,,,,,,,单色,正在翻译
+999,http://www.ituring.com.cn/book/1871,骨骼知道真相,2,997,陈周贤(作者),李阳(译者) ,科普 生物学 图灵新知 韩语 ,,,,,单色,正在编辑
+1041,http://www.ituring.com.cn/book/1911,高性能移动Web开发,1,988,MaximilianoFirtman(作者),,移动开发 web开发 ,,,,,黑白,正在翻译
+1135,http://www.ituring.com.cn/book/2013,OAuth2实战,2,987,,,,,,,,单色,正在翻译
+1063,http://www.ituring.com.cn/book/2113,R数据科学,3,978,,,,,,,400,四色,正在排版
+1005,http://www.ituring.com.cn/book/2440,演进式架构设计,0,970,,,,,,,,单色,正在翻译
+1103,http://www.ituring.com.cn/book/1992,写给大家看的PPT设计书（第2版）,2,956,,,,,,,,黑白,正在翻译
+1132,http://www.ituring.com.cn/book/2101,Rust程序设计,6,944,,,,,,,,黑白,诚招译者
+1037,http://www.ituring.com.cn/book/2461,cURL权威指南,1,937,,,,,,,,单色,诚招译者
+1065,http://www.ituring.com.cn/book/2482,数据结构与算法：Python描述（第2版）,1,925,,,,,,,,单色,正在翻译
+1011,http://www.ituring.com.cn/book/2575,Vue.js2项目实战,0,918,,,,,,,,单色,正在翻译
+1134,http://www.ituring.com.cn/book/2093,JSON实战,2,909,,,,,,,304,单色,正在排版
+1064,http://www.ituring.com.cn/book/2586,Keras深度学习：基于Python,2,906,,,,,,,,单色,正在翻译
+1117,http://www.ituring.com.cn/book/2422,春夜十谈,3,897,,,,,,42,,单色,正在编辑
+1093,http://www.ituring.com.cn/book/2542,深度学习,0,895,,,,,,,,单色,诚招译者
+1030,http://www.ituring.com.cn/book/2460,PostgreSQL即学即用（第3版）,0,883,,,,,,,,单色,正在翻译
+1102,http://www.ituring.com.cn/book/2066,数据科学中的统计学,1,875,PeterBruce AndrewBruce(作者), 盖磊(译者) ,,,,,,单色,正在编辑
+1053,http://www.ituring.com.cn/book/2052,Python测试驱动开发：使用Django、Selenium和JavaScript进行Web编程（第2版）,0,850,,,,,,,488,单色,正在排版
+1060,http://www.ituring.com.cn/book/2055,深度学习,0,849,,,,,,,,黑白,正在翻译
+986,http://www.ituring.com.cn/book/1768,程序员领导力,0,828,???(作者), 张翔(译者) ,程序员管理 韩语 ,,,,,单色,正在翻译
+1039,http://www.ituring.com.cn/book/2041,Spark机器学习（第2版）,0,828,,,,,,,,单色,正在编辑
+1138,http://www.ituring.com.cn/book/2014,架构师应该知道的37件事,0,816,,,,,,,,单色,正在翻译
+1136,http://www.ituring.com.cn/book/2103,数据库管理员指南,0,802,,,,,,,,黑白,诚招译者
+1067,http://www.ituring.com.cn/book/2057,SEO战地风云,0,796,,,,,,,,黑白,诚招译者
+1074,http://www.ituring.com.cn/book/2058,产品领导力：顶尖产品经理如何打造卓越产品,2,760,,,,,,,,黑白,正在翻译
+1025,http://www.ituring.com.cn/book/2034,架构安全最佳实践,0,749,,,,,,,,黑白,正在翻译
+1042,http://www.ituring.com.cn/book/1967,"我的世界少儿趣味编程<spanstyle=""color:red;"">[预售]</span>",4,740,TechKidsSchool 株式会社CADEC(作者), 项远方  陶旭(译者) ,少儿编程 MInecraft ,,,59,156,四色,正在排版
+1108,http://www.ituring.com.cn/book/2078,SciPy攻略,0,730,,,,,,,,黑白,正在编辑
+1068,http://www.ituring.com.cn/book/1971,你不可不知的50个战争史知识,0,726,［英］罗宾;克罗斯(作者), 王喜(译者) ,,,,,,黑白,正在翻译
+1019,http://www.ituring.com.cn/book/2032,Java攻略：Java常见问题的简单解法,0,722,,,,,,,248,单色,正在排版
+1086,http://www.ituring.com.cn/book/2538,数据结构与算法入门,1,715,,,,,,,,单色,正在翻译
+1099,http://www.ituring.com.cn/book/2599,Python深度学习,4,715,,,,,,,320,四色,正在排版
+1077,http://www.ituring.com.cn/book/2117,Unity移动游戏开发,0,714,[澳]乔恩?曼宁 [澳]帕里斯?巴特菲尔德–艾迪生(作者), 赵利通(译者) ,游戏 unity 移动游戏开发 ,,,89,316,单色,正在排版
+1105,http://www.ituring.com.cn/book/2407,DevOps入门指南,0,714,,,,,,59,,单色,正在翻译
+1017,http://www.ituring.com.cn/book/2446,持续交付实战,0,713,,,,,,,,单色,诚招译者
+1107,http://www.ituring.com.cn/book/2560,精益扩张：从创业到爆发式增长的关键指标,0,699,AshMaurya(作者), 张力文  王静源(译者) ,,,,,296,黑白,上市销售
+1098,http://www.ituring.com.cn/book/2402,"写给大家看的设计书：实战篇<spanstyle=""color:red;"">[预售]</span>",2,695,克劳迪娅;科特豪斯(作者), 李一汀(译者) ,,,,89,324,四色,正在排版
+1129,http://www.ituring.com.cn/book/2437,ReactNative开发指南（第2版）,1,688,,,,,,,,单色,诚招译者
+1137,http://www.ituring.com.cn/book/2098,惨痛的设计,2,685,,,,,,,,黑白,正在编辑
+1100,http://www.ituring.com.cn/book/2557,Python数据分析必知必会,1,670,,,,,,,,单色,诚招译者
+1084,http://www.ituring.com.cn/book/2396,计算机视觉深度学习,0,655,,,,,,59,,单色,正在翻译
+1056,http://www.ituring.com.cn/book/2071,Arduino：从想象到现实（入门篇）,0,648,崔在奎 李俊焃(作者),郑泽坤(译者) ,Arduino 韩语 ,,,59,176,四色,正在排版
+1109,http://www.ituring.com.cn/book/1993,Node.js实战（第2版）,0,635,,,,,,,328,单色,正在排版
+1002,http://www.ituring.com.cn/book/2606,特征工程入门,0,621,,,,,,,,单色,正在翻译
+1070,http://www.ituring.com.cn/book/2116,Web矢量图设计：基于CSS3和HTML5的SVG开发,1,596,,,,,,,,黑白,诚招译者
+1111,http://www.ituring.com.cn/book/2409,生命的奥秘,2,588,王立铭(作者),,,,,59,,单色,正在写作
+1125,http://www.ituring.com.cn/book/2571,MySQL基础教程,1,574,,,,,,,,双色,正在翻译
+1051,http://www.ituring.com.cn/book/2463,FlaskWeb开发：基于Python的Web应用开发实战（第2版）,3,559,,,,,,,,单色,正在编辑
+1081,http://www.ituring.com.cn/book/2059,监控运维实践,1,542,,,,,,,,黑白,正在翻译
+1095,http://www.ituring.com.cn/book/2062,数据可视化实战：使用D3设计交互式图表（第2版）,1,497,,,,,,,,黑白,正在翻译
+1072,http://www.ituring.com.cn/book/2485,Shell脚本实战（第2版）,0,473,,,,,,,,单色,正在翻译
+1031,http://www.ituring.com.cn/book/2636,机器学习的数学,1,465,,,,,,,,单色,诚招译者
+1079,http://www.ituring.com.cn/book/2491,深入理解JVM：用JRockit实现Java高性能,1,456,,,,,,,,单色,正在编辑
+1133,http://www.ituring.com.cn/book/2438,Java基础教程,0,438,,,,,,,,单色,正在编辑
+1007,http://www.ituring.com.cn/book/2573,"美团机器学习实践<spanstyle=""color:red;"">[预售]</span>",2,431,美团算法团队(作者),,,,,79,320,单色,正在排版
+1016,http://www.ituring.com.cn/book/2577,少儿IT创意思维修炼手册：提高孩子计算思考力的65道IT谜题,2,423,,,算法 韩语 少儿编程 ,,,,,四色,正在编辑
+1075,http://www.ituring.com.cn/book/1980,Python网络爬虫权威指南（第2版）,0,384,,,,,,,,黑白,诚招译者
+1126,http://www.ituring.com.cn/book/2090,Kubernetes即学即用,0,377,,,,,,,,单色,正在翻译
+1003,http://www.ituring.com.cn/book/2607,聊天机器人与会话式UI开发实战,0,368,,,,,,,,单色,诚招译者
+1045,http://www.ituring.com.cn/book/2639,图解Python机器学习,1,342,,,,,,,,双色,诚招译者
+1009,http://www.ituring.com.cn/book/2618,数感：人人都能懂的数据科学,0,333,AnnalynNg KennethSoo(作者),,,,,,,单色,正在编辑
+1078,http://www.ituring.com.cn/book/2588,宽客算法：人工智能投资,1,331,,,,,,,,单色,正在编辑
+1022,http://www.ituring.com.cn/book/2578,机器学习入门与实践,1,317,,,,,,,,单色,正在翻译
+1032,http://www.ituring.com.cn/book/2040,构建渐进增强Web应用,0,303,,,,,,,,黑白,正在翻译
+1089,http://www.ituring.com.cn/book/1982,"科学也反常：“科学咖啡馆”怪谈<spanstyle=""color:red;"">[预售]</span>",3,303,“科学咖啡馆”（Caf;desSciences）(作者), 王烈(译者) ,生物学 图灵新知 科学发现 科普 数学 动物 ,,,59,248,四色,正在印刷
+1119,http://www.ituring.com.cn/book/2563,"简约至上：交互式设计四策略（第2版）<spanstyle=""color:red;"">[预售]</span>",3,299,[英]贾尔斯?科尔伯恩(作者),李松峰(译者) ,交互设计 用户体验 用户体验设计 简约至上 ,,,59,232,四色,正在排版
+1112,http://www.ituring.com.cn/book/2603,服务设计应当这么做,0,283,,,,,,,,单色,诚招译者
+1118,http://www.ituring.com.cn/book/2622,发布！软件的设计与部署（第2版）,0,207,,,,,,,,单色,正在翻译
+1139,http://www.ituring.com.cn/book/2018,精通Java9并发编程,0,203,,,,,,,,单色,正在编辑
+1082,http://www.ituring.com.cn/book/1981,"人工智能的冲击：失去工作 还是不用工作？<spanstyle=""color:red;"">[预售]</span>",2,199,小林雅一(作者), 支鹏浩(译者) ,,,,49,216,黑白,正在排版
+1106,http://www.ituring.com.cn/book/2600,虚拟机设计与实现,1,198,,,,,,,,单色,诚招译者
+1071,http://www.ituring.com.cn/book/2587,bash经典实例,0,195,,,,,,,,单色,正在翻译
+1130,http://www.ituring.com.cn/book/2092,网络自动化,0,183,,,,,,,,黑白,诚招译者
+1004,http://www.ituring.com.cn/book/2572,大话计算机：计算机系统底层架构原理极限剖析,0,178,,,,,,,632,四色,正在写作
+1085,http://www.ituring.com.cn/book/2593,深度学习的数学,0,175,,,,,,,,双色,正在翻译
+1001,http://www.ituring.com.cn/book/2604,面向对象是怎样工作的,2,167,,,,,,,,双色,正在翻译
+1046,http://www.ituring.com.cn/book/2050,精通特性工程：数据科学家必须知道的原理和技术,0,148,,,,,,,,黑白,诚招译者
+1052,http://www.ituring.com.cn/book/2644,TensorFlow强化学习,0,131,,,,,,,,单色,诚招译者
+1038,http://www.ituring.com.cn/book/2637,Shell脚本编程入门,0,130,,,,,,,,单色,正在翻译
+1124,http://www.ituring.com.cn/book/2628,SQL查询基础教程,0,130,,,,,,,,单色,正在翻译
+1120,http://www.ituring.com.cn/book/2085,Java性能优化实践,0,126,,,,,,,,黑白,诚招译者
+1059,http://www.ituring.com.cn/book/2648,无服务器应用开发：Python实现,0,122,,,,,,,,单色,诚招译者
+1080,http://www.ituring.com.cn/book/2652,Python数据挖掘入门与实践（第2版）,0,90,,,,,,,,单色,诚招译者
+1092,http://www.ituring.com.cn/book/2594,Java少儿编程,0,87,,,,,,,,单色,正在编辑
+1066,http://www.ituring.com.cn/book/2650,数据预处理大全：基于SQL、R、Python的实用技巧,0,84,,,,,,,,双色,诚招译者
+1094,http://www.ituring.com.cn/book/2654,用Python学统计学,0,72,,,,,,,,单色,诚招译者
+1073,http://www.ituring.com.cn/book/2651,机器学习工程：构建智能系统,0,64,,,,,,0,,单色,诚招译者
+1087,http://www.ituring.com.cn/book/2653,学习JavaScript数据结构与算法（第3版）,1,62,,,,,,,,单色,诚招译者
+1050,http://www.ituring.com.cn/book/2583,深入理解CSS,1,60,,,,,,,,单色,诚招译者
+1101,http://www.ituring.com.cn/book/2655,图解数码相机工作原理,1,27,,,,,,,,双色,诚招译者
+1029,http://www.ituring.com.cn/book/2579,计算机科学精粹,0,26,,,,,,,,单色,正在翻译
+1088,http://www.ituring.com.cn/book/2061,奢侈与数字：数字时代品牌生存之道,0,20,,,,,,,240,单色,正在排版
